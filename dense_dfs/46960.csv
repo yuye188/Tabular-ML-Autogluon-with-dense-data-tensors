@@ -1,0 +1,176 @@
+Marital_status,Daytimeevening_attendance,Displaced,Educational_special_needs,Debtor,Tuition_fees_up_to_date,Gender,Scholarship_holder,International,AcademicOutcome
+married,daytime,no,no,no,yes,female,no,no,Graduate
+single,daytime,no,no,no,yes,female,no,no,Enrolled
+married,daytime,no,no,no,yes,female,yes,no,Graduate
+single,daytime,no,no,no,yes,male,no,no,Enrolled
+single,daytime,yes,no,no,yes,female,no,no,Graduate
+single,daytime,no,no,no,yes,female,yes,no,Dropout
+single,daytime,yes,no,no,yes,female,yes,no,Graduate
+single,daytime,no,no,yes,no,male,no,no,Dropout
+single,evening,no,no,no,yes,female,no,no,Graduate
+single,daytime,no,no,yes,yes,female,no,no,Graduate
+single,daytime,no,no,no,no,male,no,no,Dropout
+single,evening,no,no,no,yes,male,no,no,Dropout
+married,evening,no,no,no,yes,female,no,no,Dropout
+single,evening,yes,no,no,yes,female,no,no,Graduate
+single,daytime,no,no,no,yes,male,yes,no,Graduate
+single,daytime,yes,no,no,yes,male,yes,no,Enrolled
+single,daytime,yes,no,no,yes,male,no,no,Enrolled
+single,evening,no,no,yes,yes,female,no,no,Enrolled
+facto union,daytime,no,no,no,no,male,no,no,Dropout
+divorced,evening,no,no,no,yes,female,no,no,Enrolled
+single,daytime,no,no,no,no,male,yes,no,Enrolled
+single,daytime,no,no,no,no,female,no,no,Dropout
+single,daytime,no,no,yes,yes,male,no,no,Dropout
+single,daytime,yes,no,yes,no,female,no,no,Dropout
+married,evening,yes,no,no,no,male,no,no,Dropout
+single,daytime,yes,no,yes,no,female,no,yes,Dropout
+single,daytime,yes,no,yes,no,male,no,no,Dropout
+single,daytime,yes,no,no,yes,female,no,yes,Graduate
+married,evening,no,no,no,no,female,no,no,Dropout
+facto union,daytime,no,no,no,yes,female,yes,no,Graduate
+single,daytime,no,no,no,no,female,yes,no,Dropout
+single,daytime,yes,no,yes,yes,female,no,no,Graduate
+single,daytime,yes,no,yes,yes,male,no,no,Enrolled
+single,daytime,yes,no,yes,yes,female,yes,no,Graduate
+facto union,daytime,no,no,no,yes,male,no,no,Graduate
+single,evening,no,no,yes,no,male,no,no,Dropout
+married,evening,no,no,no,yes,male,no,no,Enrolled
+single,daytime,yes,no,no,no,female,no,no,Dropout
+single,daytime,yes,no,no,no,male,no,no,Dropout
+single,daytime,yes,no,no,no,female,yes,no,Enrolled
+single,daytime,no,no,yes,yes,male,yes,no,Enrolled
+married,evening,no,no,yes,no,male,no,no,Dropout
+single,daytime,no,no,yes,no,male,no,yes,Dropout
+divorced,daytime,yes,no,no,yes,male,no,no,Dropout
+single,evening,no,no,no,yes,female,yes,no,Graduate
+single,evening,yes,no,no,no,male,no,no,Dropout
+married,daytime,no,no,no,yes,male,no,no,Dropout
+single,daytime,yes,no,yes,yes,male,yes,no,Dropout
+married,daytime,yes,no,no,yes,female,no,no,Enrolled
+single,daytime,no,no,yes,no,female,no,no,Dropout
+facto union,daytime,no,no,no,yes,female,no,no,Graduate
+divorced,daytime,no,no,no,yes,male,no,no,Dropout
+married,daytime,yes,no,no,yes,male,no,no,Enrolled
+single,evening,no,no,yes,yes,male,yes,no,Graduate
+facto union,daytime,yes,no,no,yes,female,yes,no,Graduate
+married,daytime,no,no,no,yes,female,no,yes,Graduate
+married,evening,no,no,yes,yes,male,no,no,Graduate
+widower,daytime,yes,no,no,yes,female,no,no,Dropout
+married,daytime,no,no,no,yes,male,yes,no,Enrolled
+married,evening,no,no,yes,no,female,no,no,Graduate
+married,evening,yes,no,no,yes,male,no,no,Dropout
+married,evening,no,no,no,yes,female,yes,no,Graduate
+single,daytime,no,no,yes,no,female,yes,no,Dropout
+single,daytime,yes,no,no,yes,female,yes,yes,Graduate
+divorced,daytime,no,no,yes,yes,female,no,no,Dropout
+single,evening,yes,no,no,yes,female,yes,no,Graduate
+single,daytime,no,no,no,yes,female,no,yes,Graduate
+single,evening,no,no,no,yes,male,yes,no,Graduate
+single,daytime,yes,no,yes,no,male,yes,no,Dropout
+single,evening,no,no,no,no,male,no,no,Dropout
+divorced,evening,no,no,no,no,female,no,no,Dropout
+divorced,daytime,no,no,yes,no,male,no,no,Dropout
+single,daytime,no,no,yes,yes,female,yes,no,Dropout
+single,daytime,no,yes,no,yes,female,yes,no,Graduate
+single,daytime,no,yes,no,yes,female,no,no,Enrolled
+single,evening,yes,no,no,yes,male,no,no,Graduate
+married,evening,yes,no,no,yes,female,no,no,Dropout
+single,daytime,yes,yes,no,yes,female,no,no,Enrolled
+single,daytime,no,no,yes,yes,female,no,yes,Enrolled
+divorced,daytime,no,no,no,yes,female,no,no,Graduate
+divorced,daytime,yes,no,no,yes,female,no,no,Dropout
+married,evening,no,no,no,no,male,no,no,Dropout
+married,evening,no,no,no,no,male,yes,no,Dropout
+divorced,evening,no,no,no,yes,male,no,no,Graduate
+single,daytime,no,yes,yes,yes,female,no,no,Dropout
+single,daytime,yes,no,no,yes,male,no,yes,Enrolled
+married,daytime,no,no,no,no,male,no,no,Dropout
+single,daytime,no,no,no,yes,male,no,yes,Graduate
+married,daytime,no,no,yes,no,male,no,no,Dropout
+single,daytime,yes,yes,no,no,male,no,no,Dropout
+single,daytime,no,yes,no,yes,male,no,no,Graduate
+single,daytime,no,no,yes,yes,female,yes,yes,Graduate
+married,daytime,no,no,yes,no,female,no,no,Dropout
+married,evening,no,no,yes,yes,female,no,no,Dropout
+single,daytime,yes,yes,yes,no,female,yes,no,Dropout
+divorced,daytime,no,no,yes,yes,male,yes,no,Dropout
+legally separated,daytime,no,no,no,yes,female,no,no,Dropout
+single,evening,yes,no,yes,yes,male,no,no,Dropout
+legally separated,evening,no,no,no,no,female,no,no,Dropout
+single,evening,no,no,no,no,female,no,no,Dropout
+single,daytime,no,no,yes,no,female,no,yes,Dropout
+married,daytime,yes,no,no,no,male,no,no,Dropout
+single,daytime,yes,no,no,no,female,no,yes,Dropout
+divorced,daytime,no,no,no,no,female,no,no,Dropout
+divorced,daytime,no,no,no,no,female,yes,no,Enrolled
+married,daytime,yes,no,yes,no,male,no,no,Dropout
+single,evening,no,no,yes,yes,female,yes,no,Graduate
+married,daytime,no,no,yes,yes,female,no,no,Enrolled
+single,daytime,no,no,no,yes,female,yes,yes,Graduate
+single,daytime,yes,no,yes,no,female,yes,no,Dropout
+single,daytime,yes,yes,yes,yes,male,no,no,Enrolled
+single,daytime,yes,yes,no,yes,male,no,no,Enrolled
+single,daytime,no,yes,yes,yes,female,no,yes,Graduate
+single,daytime,no,no,yes,yes,male,no,yes,Enrolled
+widower,daytime,no,no,yes,yes,female,no,no,Enrolled
+single,evening,no,no,yes,no,female,no,no,Dropout
+facto union,daytime,no,no,yes,yes,female,no,no,Dropout
+married,daytime,no,yes,no,yes,female,yes,no,Graduate
+married,daytime,no,no,no,no,female,no,no,Dropout
+divorced,daytime,yes,no,no,yes,female,yes,no,Dropout
+facto union,evening,no,no,no,yes,male,yes,no,Graduate
+facto union,daytime,no,no,no,no,female,no,no,Dropout
+single,daytime,yes,no,yes,no,male,no,yes,Graduate
+single,daytime,yes,yes,no,yes,female,yes,no,Graduate
+divorced,daytime,no,no,no,yes,female,yes,no,Graduate
+divorced,evening,no,no,yes,no,female,no,no,Dropout
+married,daytime,no,no,yes,yes,female,yes,no,Graduate
+divorced,evening,no,no,no,yes,female,yes,no,Graduate
+single,daytime,no,yes,yes,no,male,no,no,Dropout
+facto union,evening,no,no,no,yes,female,no,no,Graduate
+single,evening,no,no,no,yes,female,yes,yes,Enrolled
+married,daytime,no,no,yes,no,male,yes,no,Dropout
+single,evening,yes,no,yes,no,male,no,no,Dropout
+married,daytime,yes,no,yes,no,female,yes,no,Dropout
+facto union,daytime,no,no,yes,no,female,no,no,Dropout
+single,evening,no,no,no,yes,female,no,yes,Dropout
+married,evening,no,no,yes,yes,female,yes,no,Graduate
+legally separated,evening,yes,no,no,no,male,no,no,Dropout
+single,evening,yes,no,no,yes,male,no,yes,Graduate
+single,daytime,yes,no,no,no,male,yes,no,Graduate
+single,evening,no,yes,no,yes,female,no,no,Dropout
+married,evening,no,no,no,yes,male,yes,no,Enrolled
+single,daytime,yes,yes,no,yes,male,yes,no,Dropout
+married,daytime,no,no,yes,yes,male,no,no,Enrolled
+single,daytime,yes,no,no,yes,male,yes,yes,Graduate
+single,daytime,yes,no,yes,yes,female,yes,yes,Graduate
+divorced,daytime,no,no,no,no,male,no,no,Dropout
+divorced,daytime,no,no,no,yes,female,no,yes,Dropout
+single,evening,yes,no,yes,no,female,no,no,Dropout
+single,daytime,no,no,yes,no,male,yes,no,Dropout
+single,evening,no,no,yes,yes,female,no,yes,Enrolled
+married,evening,no,no,no,yes,female,no,yes,Graduate
+divorced,daytime,no,no,yes,no,female,no,no,Dropout
+facto union,daytime,yes,no,no,yes,female,no,no,Enrolled
+divorced,evening,yes,no,no,yes,female,no,no,Graduate
+divorced,daytime,no,no,yes,yes,female,yes,no,Graduate
+married,daytime,yes,no,yes,yes,male,no,no,Dropout
+single,evening,no,no,yes,yes,male,no,no,Dropout
+widower,evening,no,no,no,yes,male,no,no,Graduate
+facto union,daytime,no,no,yes,yes,male,yes,no,Enrolled
+married,daytime,yes,no,no,no,female,no,no,Dropout
+single,evening,yes,no,no,no,female,no,no,Dropout
+legally separated,evening,no,no,no,yes,female,yes,no,Enrolled
+single,daytime,no,no,no,yes,male,yes,yes,Dropout
+single,evening,yes,no,no,yes,female,no,yes,Graduate
+single,evening,yes,no,yes,yes,female,yes,no,Graduate
+married,daytime,no,no,yes,yes,male,yes,no,Graduate
+divorced,evening,yes,no,no,yes,female,yes,no,Graduate
+married,daytime,yes,no,no,yes,female,no,yes,Enrolled
+married,daytime,no,no,no,no,female,yes,no,Dropout
+widower,daytime,yes,no,no,yes,female,yes,no,Enrolled
+single,daytime,no,no,yes,no,female,yes,yes,Graduate
+married,daytime,yes,no,yes,no,female,no,no,Dropout
+single,daytime,no,yes,no,yes,male,yes,no,Dropout
+single,evening,yes,no,yes,yes,female,no,no,Graduate

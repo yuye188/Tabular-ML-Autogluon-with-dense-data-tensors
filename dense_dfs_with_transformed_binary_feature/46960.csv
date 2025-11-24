@@ -1,0 +1,125 @@
+,Marital_status,Displaced,Educational_special_needs,Debtor,Tuition_fees_up_to_date,Gender,Scholarship_holder,International,AcademicOutcome daytime,AcademicOutcome evening
+0,divorced,no,no,no,no,female,no,no,Dropout,Dropout
+1,divorced,no,no,no,no,female,yes,no,Enrolled,
+2,divorced,no,no,no,no,male,no,no,Dropout,
+3,divorced,no,no,no,yes,female,no,no,Graduate,Enrolled
+4,divorced,no,no,no,yes,female,no,yes,Dropout,
+5,divorced,no,no,no,yes,female,yes,no,Graduate,Graduate
+6,divorced,no,no,no,yes,male,no,no,Dropout,Graduate
+7,divorced,no,no,yes,no,female,no,no,Dropout,Dropout
+8,divorced,no,no,yes,no,male,no,no,Dropout,
+9,divorced,no,no,yes,yes,female,no,no,Dropout,
+10,divorced,no,no,yes,yes,female,yes,no,Graduate,
+11,divorced,no,no,yes,yes,male,yes,no,Dropout,
+12,divorced,yes,no,no,yes,female,no,no,Dropout,Graduate
+13,divorced,yes,no,no,yes,female,yes,no,Dropout,Graduate
+14,divorced,yes,no,no,yes,male,no,no,Dropout,
+15,facto union,no,no,no,no,female,no,no,Dropout,
+16,facto union,no,no,no,no,male,no,no,Dropout,
+17,facto union,no,no,no,yes,female,no,no,Graduate,Graduate
+18,facto union,no,no,no,yes,female,yes,no,Graduate,
+19,facto union,no,no,no,yes,male,no,no,Graduate,
+20,facto union,no,no,no,yes,male,yes,no,,Graduate
+21,facto union,no,no,yes,no,female,no,no,Dropout,
+22,facto union,no,no,yes,yes,female,no,no,Dropout,
+23,facto union,no,no,yes,yes,male,yes,no,Enrolled,
+24,facto union,yes,no,no,yes,female,no,no,Enrolled,
+25,facto union,yes,no,no,yes,female,yes,no,Graduate,
+26,legally separated,no,no,no,no,female,no,no,,Dropout
+27,legally separated,no,no,no,yes,female,no,no,Dropout,
+28,legally separated,no,no,no,yes,female,yes,no,,Enrolled
+29,legally separated,yes,no,no,no,male,no,no,,Dropout
+30,married,no,no,no,no,female,no,no,Dropout,Dropout
+31,married,no,no,no,no,female,yes,no,Dropout,
+32,married,no,no,no,no,male,no,no,Dropout,Dropout
+33,married,no,no,no,no,male,yes,no,,Dropout
+34,married,no,no,no,yes,female,no,no,Graduate,Dropout
+35,married,no,no,no,yes,female,no,yes,Graduate,Graduate
+36,married,no,no,no,yes,female,yes,no,Graduate,Graduate
+37,married,no,no,no,yes,male,no,no,Dropout,Enrolled
+38,married,no,no,no,yes,male,yes,no,Enrolled,Enrolled
+39,married,no,no,yes,no,female,no,no,Dropout,Graduate
+40,married,no,no,yes,no,male,no,no,Dropout,Dropout
+41,married,no,no,yes,no,male,yes,no,Dropout,
+42,married,no,no,yes,yes,female,no,no,Enrolled,Dropout
+43,married,no,no,yes,yes,female,yes,no,Graduate,Graduate
+44,married,no,no,yes,yes,male,no,no,Enrolled,Graduate
+45,married,no,no,yes,yes,male,yes,no,Graduate,
+46,married,no,yes,no,yes,female,yes,no,Graduate,
+47,married,yes,no,no,no,female,no,no,Dropout,
+48,married,yes,no,no,no,male,no,no,Dropout,Dropout
+49,married,yes,no,no,yes,female,no,no,Enrolled,Dropout
+50,married,yes,no,no,yes,female,no,yes,Enrolled,
+51,married,yes,no,no,yes,male,no,no,Enrolled,Dropout
+52,married,yes,no,yes,no,female,no,no,Dropout,
+53,married,yes,no,yes,no,female,yes,no,Dropout,
+54,married,yes,no,yes,no,male,no,no,Dropout,
+55,married,yes,no,yes,yes,male,no,no,Dropout,
+56,single,no,no,no,no,female,no,no,Dropout,Dropout
+57,single,no,no,no,no,female,yes,no,Dropout,
+58,single,no,no,no,no,male,no,no,Dropout,Dropout
+59,single,no,no,no,no,male,yes,no,Enrolled,
+60,single,no,no,no,yes,female,no,no,Enrolled,Graduate
+61,single,no,no,no,yes,female,no,yes,Graduate,Dropout
+62,single,no,no,no,yes,female,yes,no,Dropout,Graduate
+63,single,no,no,no,yes,female,yes,yes,Graduate,Enrolled
+64,single,no,no,no,yes,male,no,no,Enrolled,Dropout
+65,single,no,no,no,yes,male,no,yes,Graduate,
+66,single,no,no,no,yes,male,yes,no,Graduate,Graduate
+67,single,no,no,no,yes,male,yes,yes,Dropout,
+68,single,no,no,yes,no,female,no,no,Dropout,Dropout
+69,single,no,no,yes,no,female,no,yes,Dropout,
+70,single,no,no,yes,no,female,yes,no,Dropout,
+71,single,no,no,yes,no,female,yes,yes,Graduate,
+72,single,no,no,yes,no,male,no,no,Dropout,Dropout
+73,single,no,no,yes,no,male,no,yes,Dropout,
+74,single,no,no,yes,no,male,yes,no,Dropout,
+75,single,no,no,yes,yes,female,no,no,Graduate,Enrolled
+76,single,no,no,yes,yes,female,no,yes,Enrolled,Enrolled
+77,single,no,no,yes,yes,female,yes,no,Dropout,Graduate
+78,single,no,no,yes,yes,female,yes,yes,Graduate,
+79,single,no,no,yes,yes,male,no,no,Dropout,Dropout
+80,single,no,no,yes,yes,male,no,yes,Enrolled,
+81,single,no,no,yes,yes,male,yes,no,Enrolled,Graduate
+82,single,no,yes,no,yes,female,no,no,Enrolled,Dropout
+83,single,no,yes,no,yes,female,yes,no,Graduate,
+84,single,no,yes,no,yes,male,no,no,Graduate,
+85,single,no,yes,no,yes,male,yes,no,Dropout,
+86,single,no,yes,yes,no,male,no,no,Dropout,
+87,single,no,yes,yes,yes,female,no,no,Dropout,
+88,single,no,yes,yes,yes,female,no,yes,Graduate,
+89,single,yes,no,no,no,female,no,no,Dropout,Dropout
+90,single,yes,no,no,no,female,no,yes,Dropout,
+91,single,yes,no,no,no,female,yes,no,Enrolled,
+92,single,yes,no,no,no,male,no,no,Dropout,Dropout
+93,single,yes,no,no,no,male,yes,no,Graduate,
+94,single,yes,no,no,yes,female,no,no,Graduate,Graduate
+95,single,yes,no,no,yes,female,no,yes,Graduate,Graduate
+96,single,yes,no,no,yes,female,yes,no,Graduate,Graduate
+97,single,yes,no,no,yes,female,yes,yes,Graduate,
+98,single,yes,no,no,yes,male,no,no,Enrolled,Graduate
+99,single,yes,no,no,yes,male,no,yes,Enrolled,Graduate
+100,single,yes,no,no,yes,male,yes,no,Enrolled,
+101,single,yes,no,no,yes,male,yes,yes,Graduate,
+102,single,yes,no,yes,no,female,no,no,Dropout,Dropout
+103,single,yes,no,yes,no,female,no,yes,Dropout,
+104,single,yes,no,yes,no,female,yes,no,Dropout,
+105,single,yes,no,yes,no,male,no,no,Dropout,Dropout
+106,single,yes,no,yes,no,male,no,yes,Graduate,
+107,single,yes,no,yes,no,male,yes,no,Dropout,
+108,single,yes,no,yes,yes,female,no,no,Graduate,Graduate
+109,single,yes,no,yes,yes,female,yes,no,Graduate,Graduate
+110,single,yes,no,yes,yes,female,yes,yes,Graduate,
+111,single,yes,no,yes,yes,male,no,no,Enrolled,Dropout
+112,single,yes,no,yes,yes,male,yes,no,Dropout,
+113,single,yes,yes,no,no,male,no,no,Dropout,
+114,single,yes,yes,no,yes,female,no,no,Enrolled,
+115,single,yes,yes,no,yes,female,yes,no,Graduate,
+116,single,yes,yes,no,yes,male,no,no,Enrolled,
+117,single,yes,yes,no,yes,male,yes,no,Dropout,
+118,single,yes,yes,yes,no,female,yes,no,Dropout,
+119,single,yes,yes,yes,yes,male,no,no,Enrolled,
+120,widower,no,no,no,yes,male,no,no,,Graduate
+121,widower,no,no,yes,yes,female,no,no,Enrolled,
+122,widower,yes,no,no,yes,female,no,no,Dropout,
+123,widower,yes,no,no,yes,female,yes,no,Enrolled,

@@ -1,0 +1,1180 @@
+,gender,enrolled_university,education_level,company_type,last_new_job,LookingForJobChange Has relevent experience,LookingForJobChange No relevent experience
+0,,,,,,No,No
+1,,,,,1,Yes,No
+2,,,,,2,No,No
+3,,,,,3,No,
+4,,,,,>4,No,No
+5,,,,,never,No,No
+6,,,,Early Stage Startup,1,Yes,
+7,,,,Funded Startup,3,No,
+8,,,,NGO,1,,Yes
+9,,,,Public Sector,>4,No,
+10,,,,Pvt Ltd,never,,No
+11,,,Graduate,,,Yes,Yes
+12,,,Graduate,,1,No,No
+13,,,Graduate,,2,Yes,
+14,,,Graduate,,3,No,Yes
+15,,,Graduate,,>4,Yes,
+16,,,Graduate,,never,No,Yes
+17,,,Graduate,Early Stage Startup,1,No,
+18,,,Graduate,Funded Startup,1,No,
+19,,,Graduate,NGO,1,No,
+20,,,Graduate,Public Sector,>4,No,
+21,,,Graduate,Public Sector,never,Yes,
+22,,,Graduate,Pvt Ltd,,Yes,Yes
+23,,,Graduate,Pvt Ltd,1,Yes,No
+24,,,Graduate,Pvt Ltd,2,No,Yes
+25,,,Graduate,Pvt Ltd,3,No,No
+26,,,Graduate,Pvt Ltd,4,No,
+27,,,Graduate,Pvt Ltd,>4,No,
+28,,,Graduate,Pvt Ltd,never,No,Yes
+29,,,High School,,,,No
+30,,,High School,,1,,Yes
+31,,,High School,,3,No,
+32,,,High School,,never,Yes,No
+33,,,High School,Early Stage Startup,1,,No
+34,,,High School,Public Sector,2,,No
+35,,,High School,Pvt Ltd,never,,Yes
+36,,,Masters,,,No,
+37,,,Masters,,1,Yes,No
+38,,,Masters,,3,Yes,No
+39,,,Masters,,4,No,
+40,,,Masters,,never,No,No
+41,,,Masters,Early Stage Startup,2,Yes,
+42,,,Masters,Funded Startup,1,No,
+43,,,Masters,NGO,2,Yes,
+44,,,Masters,Pvt Ltd,1,Yes,No
+45,,,Masters,Pvt Ltd,>4,No,No
+46,,,Masters,Pvt Ltd,never,No,
+47,,,Phd,,1,No,
+48,,,Phd,Pvt Ltd,never,No,
+49,,,Primary School,,,,No
+50,,,Primary School,,never,,No
+51,,Full time course,,,,No,No
+52,,Full time course,,,1,No,Yes
+53,,Full time course,,,3,No,
+54,,Full time course,,,4,,No
+55,,Full time course,,,>4,Yes,
+56,,Full time course,,,never,,No
+57,,Full time course,,Early Stage Startup,1,No,Yes
+58,,Full time course,,Early Stage Startup,>4,Yes,
+59,,Full time course,,Early Stage Startup,never,No,No
+60,,Full time course,,NGO,never,Yes,
+61,,Full time course,,Other,,No,
+62,,Full time course,,Public Sector,1,No,Yes
+63,,Full time course,,Public Sector,>4,Yes,
+64,,Full time course,,Public Sector,never,No,
+65,,Full time course,,Pvt Ltd,1,No,
+66,,Full time course,,Pvt Ltd,2,Yes,
+67,,Full time course,,Pvt Ltd,3,Yes,No
+68,,Full time course,,Pvt Ltd,>4,No,
+69,,Full time course,,Pvt Ltd,never,,No
+70,,Full time course,Graduate,,,Yes,Yes
+71,,Full time course,Graduate,,1,No,Yes
+72,,Full time course,Graduate,,2,Yes,Yes
+73,,Full time course,Graduate,,3,Yes,Yes
+74,,Full time course,Graduate,,>4,No,No
+75,,Full time course,Graduate,,never,No,No
+76,,Full time course,Graduate,Early Stage Startup,,Yes,No
+77,,Full time course,Graduate,Early Stage Startup,1,No,Yes
+78,,Full time course,Graduate,Early Stage Startup,2,Yes,No
+79,,Full time course,Graduate,Early Stage Startup,3,No,
+80,,Full time course,Graduate,Early Stage Startup,4,No,
+81,,Full time course,Graduate,Early Stage Startup,>4,No,
+82,,Full time course,Graduate,Early Stage Startup,never,Yes,No
+83,,Full time course,Graduate,Funded Startup,,Yes,
+84,,Full time course,Graduate,Funded Startup,1,No,Yes
+85,,Full time course,Graduate,Funded Startup,2,No,Yes
+86,,Full time course,Graduate,Funded Startup,>4,No,
+87,,Full time course,Graduate,NGO,,Yes,
+88,,Full time course,Graduate,NGO,1,No,Yes
+89,,Full time course,Graduate,NGO,2,,No
+90,,Full time course,Graduate,NGO,>4,No,
+91,,Full time course,Graduate,NGO,never,Yes,Yes
+92,,Full time course,Graduate,Other,1,,No
+93,,Full time course,Graduate,Other,2,Yes,
+94,,Full time course,Graduate,Other,never,Yes,Yes
+95,,Full time course,Graduate,Public Sector,,No,Yes
+96,,Full time course,Graduate,Public Sector,1,Yes,No
+97,,Full time course,Graduate,Public Sector,2,No,Yes
+98,,Full time course,Graduate,Public Sector,3,No,
+99,,Full time course,Graduate,Public Sector,4,,Yes
+100,,Full time course,Graduate,Public Sector,never,,Yes
+101,,Full time course,Graduate,Pvt Ltd,,No,No
+102,,Full time course,Graduate,Pvt Ltd,1,No,Yes
+103,,Full time course,Graduate,Pvt Ltd,2,No,Yes
+104,,Full time course,Graduate,Pvt Ltd,3,Yes,
+105,,Full time course,Graduate,Pvt Ltd,4,No,Yes
+106,,Full time course,Graduate,Pvt Ltd,>4,No,No
+107,,Full time course,Graduate,Pvt Ltd,never,No,No
+108,,Full time course,High School,,,,No
+109,,Full time course,High School,,1,Yes,Yes
+110,,Full time course,High School,,2,Yes,No
+111,,Full time course,High School,,3,,No
+112,,Full time course,High School,,4,No,No
+113,,Full time course,High School,,>4,No,
+114,,Full time course,High School,,never,No,Yes
+115,,Full time course,High School,Early Stage Startup,,,No
+116,,Full time course,High School,Early Stage Startup,1,No,No
+117,,Full time course,High School,Early Stage Startup,2,,No
+118,,Full time course,High School,Early Stage Startup,never,,No
+119,,Full time course,High School,Funded Startup,,,No
+120,,Full time course,High School,NGO,,,No
+121,,Full time course,High School,NGO,1,,No
+122,,Full time course,High School,NGO,never,,No
+123,,Full time course,High School,Public Sector,1,No,No
+124,,Full time course,High School,Public Sector,2,No,
+125,,Full time course,High School,Public Sector,>4,Yes,
+126,,Full time course,High School,Public Sector,never,,No
+127,,Full time course,High School,Pvt Ltd,,No,
+128,,Full time course,High School,Pvt Ltd,1,Yes,No
+129,,Full time course,High School,Pvt Ltd,2,No,No
+130,,Full time course,High School,Pvt Ltd,3,,No
+131,,Full time course,High School,Pvt Ltd,4,,No
+132,,Full time course,High School,Pvt Ltd,>4,No,
+133,,Full time course,High School,Pvt Ltd,never,No,Yes
+134,,Full time course,Masters,,,No,No
+135,,Full time course,Masters,,1,No,Yes
+136,,Full time course,Masters,,2,No,No
+137,,Full time course,Masters,,3,,Yes
+138,,Full time course,Masters,,4,Yes,
+139,,Full time course,Masters,,>4,No,Yes
+140,,Full time course,Masters,,never,No,Yes
+141,,Full time course,Masters,Early Stage Startup,,No,
+142,,Full time course,Masters,Early Stage Startup,1,No,No
+143,,Full time course,Masters,Early Stage Startup,2,No,
+144,,Full time course,Masters,Early Stage Startup,3,Yes,
+145,,Full time course,Masters,Funded Startup,1,No,No
+146,,Full time course,Masters,Funded Startup,2,No,
+147,,Full time course,Masters,Funded Startup,>4,No,
+148,,Full time course,Masters,NGO,,,No
+149,,Full time course,Masters,NGO,1,No,Yes
+150,,Full time course,Masters,NGO,2,No,No
+151,,Full time course,Masters,NGO,3,,No
+152,,Full time course,Masters,Public Sector,,No,Yes
+153,,Full time course,Masters,Public Sector,1,No,No
+154,,Full time course,Masters,Public Sector,2,,No
+155,,Full time course,Masters,Public Sector,3,,No
+156,,Full time course,Masters,Public Sector,4,,No
+157,,Full time course,Masters,Public Sector,>4,Yes,No
+158,,Full time course,Masters,Public Sector,never,No,Yes
+159,,Full time course,Masters,Pvt Ltd,,No,
+160,,Full time course,Masters,Pvt Ltd,1,No,Yes
+161,,Full time course,Masters,Pvt Ltd,2,No,No
+162,,Full time course,Masters,Pvt Ltd,3,Yes,No
+163,,Full time course,Masters,Pvt Ltd,4,Yes,No
+164,,Full time course,Masters,Pvt Ltd,>4,Yes,No
+165,,Full time course,Masters,Pvt Ltd,never,No,No
+166,,Full time course,Phd,,,Yes,
+167,,Full time course,Phd,Public Sector,1,No,
+168,,Full time course,Phd,Public Sector,3,No,
+169,,Full time course,Phd,Public Sector,>4,,No
+170,,Full time course,Phd,Public Sector,never,No,
+171,,Full time course,Phd,Pvt Ltd,>4,No,No
+172,,Full time course,Phd,Pvt Ltd,never,No,
+173,,Full time course,Primary School,,,,Yes
+174,,Full time course,Primary School,,1,Yes,Yes
+175,,Full time course,Primary School,,never,,No
+176,,Full time course,Primary School,Early Stage Startup,,Yes,
+177,,Full time course,Primary School,Early Stage Startup,1,No,
+178,,Full time course,Primary School,Early Stage Startup,2,,Yes
+179,,Full time course,Primary School,Funded Startup,1,No,
+180,,Full time course,Primary School,Public Sector,never,,Yes
+181,,Full time course,Primary School,Pvt Ltd,,,No
+182,,Full time course,Primary School,Pvt Ltd,1,No,
+183,,Part time course,,,,,Yes
+184,,Part time course,,,1,,No
+185,,Part time course,,,2,,No
+186,,Part time course,,,never,,No
+187,,Part time course,,Public Sector,2,Yes,
+188,,Part time course,,Pvt Ltd,,No,Yes
+189,,Part time course,,Pvt Ltd,1,No,
+190,,Part time course,Graduate,,,No,Yes
+191,,Part time course,Graduate,,1,No,Yes
+192,,Part time course,Graduate,,2,Yes,Yes
+193,,Part time course,Graduate,,3,No,
+194,,Part time course,Graduate,,4,Yes,No
+195,,Part time course,Graduate,,>4,No,Yes
+196,,Part time course,Graduate,,never,No,No
+197,,Part time course,Graduate,Early Stage Startup,1,No,
+198,,Part time course,Graduate,Early Stage Startup,2,No,
+199,,Part time course,Graduate,Early Stage Startup,never,No,
+200,,Part time course,Graduate,Funded Startup,1,No,
+201,,Part time course,Graduate,Funded Startup,3,No,No
+202,,Part time course,Graduate,NGO,,Yes,
+203,,Part time course,Graduate,NGO,1,No,Yes
+204,,Part time course,Graduate,NGO,2,,Yes
+205,,Part time course,Graduate,NGO,4,No,
+206,,Part time course,Graduate,NGO,>4,Yes,
+207,,Part time course,Graduate,NGO,never,No,
+208,,Part time course,Graduate,Public Sector,,,Yes
+209,,Part time course,Graduate,Public Sector,1,No,
+210,,Part time course,Graduate,Public Sector,2,No,No
+211,,Part time course,Graduate,Public Sector,4,No,
+212,,Part time course,Graduate,Public Sector,>4,No,No
+213,,Part time course,Graduate,Pvt Ltd,,Yes,No
+214,,Part time course,Graduate,Pvt Ltd,1,No,No
+215,,Part time course,Graduate,Pvt Ltd,2,Yes,No
+216,,Part time course,Graduate,Pvt Ltd,3,No,No
+217,,Part time course,Graduate,Pvt Ltd,4,No,Yes
+218,,Part time course,Graduate,Pvt Ltd,>4,Yes,No
+219,,Part time course,Graduate,Pvt Ltd,never,No,Yes
+220,,Part time course,High School,,,Yes,No
+221,,Part time course,High School,,1,No,No
+222,,Part time course,High School,,2,Yes,Yes
+223,,Part time course,High School,,4,No,
+224,,Part time course,High School,,never,,No
+225,,Part time course,High School,Early Stage Startup,,No,
+226,,Part time course,High School,Early Stage Startup,1,No,
+227,,Part time course,High School,Early Stage Startup,2,,No
+228,,Part time course,High School,Funded Startup,1,No,No
+229,,Part time course,High School,Public Sector,1,Yes,
+230,,Part time course,High School,Public Sector,>4,No,
+231,,Part time course,High School,Pvt Ltd,1,No,No
+232,,Part time course,High School,Pvt Ltd,2,No,No
+233,,Part time course,High School,Pvt Ltd,never,Yes,
+234,,Part time course,Masters,,1,No,No
+235,,Part time course,Masters,,2,No,No
+236,,Part time course,Masters,,3,No,
+237,,Part time course,Masters,,4,No,No
+238,,Part time course,Masters,,never,No,
+239,,Part time course,Masters,Early Stage Startup,1,No,
+240,,Part time course,Masters,Early Stage Startup,3,Yes,
+241,,Part time course,Masters,Funded Startup,1,No,No
+242,,Part time course,Masters,Funded Startup,2,No,
+243,,Part time course,Masters,NGO,1,,Yes
+244,,Part time course,Masters,NGO,2,No,
+245,,Part time course,Masters,NGO,>4,Yes,
+246,,Part time course,Masters,NGO,never,No,No
+247,,Part time course,Masters,Public Sector,,,No
+248,,Part time course,Masters,Public Sector,1,No,No
+249,,Part time course,Masters,Public Sector,2,Yes,No
+250,,Part time course,Masters,Public Sector,4,No,
+251,,Part time course,Masters,Pvt Ltd,1,No,Yes
+252,,Part time course,Masters,Pvt Ltd,2,No,
+253,,Part time course,Masters,Pvt Ltd,3,Yes,
+254,,Part time course,Masters,Pvt Ltd,>4,No,No
+255,,Part time course,Masters,Pvt Ltd,never,No,
+256,,Part time course,Phd,,>4,No,
+257,,Part time course,Phd,Public Sector,2,,Yes
+258,,Part time course,Phd,Pvt Ltd,,Yes,
+259,,Part time course,Primary School,,,Yes,
+260,,Part time course,Primary School,,never,,Yes
+261,,Part time course,Primary School,Funded Startup,1,,Yes
+262,,Part time course,Primary School,Pvt Ltd,1,,Yes
+263,,Part time course,Primary School,Pvt Ltd,never,,No
+264,,no_enrollment,,,,No,No
+265,,no_enrollment,,,1,Yes,No
+266,,no_enrollment,,,2,No,No
+267,,no_enrollment,,,4,Yes,
+268,,no_enrollment,,,>4,Yes,
+269,,no_enrollment,,,never,No,No
+270,,no_enrollment,,Early Stage Startup,1,Yes,
+271,,no_enrollment,,Early Stage Startup,3,No,
+272,,no_enrollment,,Funded Startup,1,No,
+273,,no_enrollment,,NGO,>4,,No
+274,,no_enrollment,,Public Sector,4,No,
+275,,no_enrollment,,Public Sector,never,,No
+276,,no_enrollment,,Pvt Ltd,,Yes,
+277,,no_enrollment,,Pvt Ltd,1,No,
+278,,no_enrollment,,Pvt Ltd,2,Yes,
+279,,no_enrollment,,Pvt Ltd,3,Yes,
+280,,no_enrollment,,Pvt Ltd,4,No,
+281,,no_enrollment,,Pvt Ltd,>4,Yes,No
+282,,no_enrollment,,Pvt Ltd,never,No,No
+283,,no_enrollment,Graduate,,,No,Yes
+284,,no_enrollment,Graduate,,1,No,Yes
+285,,no_enrollment,Graduate,,2,No,No
+286,,no_enrollment,Graduate,,3,No,No
+287,,no_enrollment,Graduate,,4,Yes,No
+288,,no_enrollment,Graduate,,>4,No,Yes
+289,,no_enrollment,Graduate,,never,Yes,Yes
+290,,no_enrollment,Graduate,Early Stage Startup,,No,No
+291,,no_enrollment,Graduate,Early Stage Startup,1,Yes,Yes
+292,,no_enrollment,Graduate,Early Stage Startup,2,No,
+293,,no_enrollment,Graduate,Early Stage Startup,4,Yes,
+294,,no_enrollment,Graduate,Early Stage Startup,>4,Yes,
+295,,no_enrollment,Graduate,Early Stage Startup,never,No,No
+296,,no_enrollment,Graduate,Funded Startup,,No,No
+297,,no_enrollment,Graduate,Funded Startup,1,No,No
+298,,no_enrollment,Graduate,Funded Startup,2,No,
+299,,no_enrollment,Graduate,Funded Startup,3,No,No
+300,,no_enrollment,Graduate,Funded Startup,4,No,
+301,,no_enrollment,Graduate,Funded Startup,>4,No,
+302,,no_enrollment,Graduate,Funded Startup,never,No,No
+303,,no_enrollment,Graduate,NGO,,No,
+304,,no_enrollment,Graduate,NGO,1,No,
+305,,no_enrollment,Graduate,NGO,2,Yes,No
+306,,no_enrollment,Graduate,NGO,>4,No,
+307,,no_enrollment,Graduate,NGO,never,Yes,No
+308,,no_enrollment,Graduate,Other,1,Yes,Yes
+309,,no_enrollment,Graduate,Other,2,No,
+310,,no_enrollment,Graduate,Other,3,No,
+311,,no_enrollment,Graduate,Other,>4,No,
+312,,no_enrollment,Graduate,Public Sector,,No,Yes
+313,,no_enrollment,Graduate,Public Sector,1,No,Yes
+314,,no_enrollment,Graduate,Public Sector,2,Yes,No
+315,,no_enrollment,Graduate,Public Sector,3,Yes,No
+316,,no_enrollment,Graduate,Public Sector,4,No,Yes
+317,,no_enrollment,Graduate,Public Sector,>4,No,No
+318,,no_enrollment,Graduate,Public Sector,never,No,
+319,,no_enrollment,Graduate,Pvt Ltd,,No,No
+320,,no_enrollment,Graduate,Pvt Ltd,1,No,No
+321,,no_enrollment,Graduate,Pvt Ltd,2,Yes,Yes
+322,,no_enrollment,Graduate,Pvt Ltd,3,Yes,No
+323,,no_enrollment,Graduate,Pvt Ltd,4,No,No
+324,,no_enrollment,Graduate,Pvt Ltd,>4,No,No
+325,,no_enrollment,Graduate,Pvt Ltd,never,No,No
+326,,no_enrollment,High School,,,No,No
+327,,no_enrollment,High School,,1,Yes,Yes
+328,,no_enrollment,High School,,2,Yes,Yes
+329,,no_enrollment,High School,,3,No,No
+330,,no_enrollment,High School,,4,No,
+331,,no_enrollment,High School,,>4,No,Yes
+332,,no_enrollment,High School,,never,No,No
+333,,no_enrollment,High School,Early Stage Startup,,Yes,
+334,,no_enrollment,High School,Early Stage Startup,1,No,
+335,,no_enrollment,High School,Funded Startup,1,No,
+336,,no_enrollment,High School,Funded Startup,2,No,
+337,,no_enrollment,High School,NGO,1,No,
+338,,no_enrollment,High School,NGO,4,,No
+339,,no_enrollment,High School,Other,>4,No,
+340,,no_enrollment,High School,Public Sector,2,No,
+341,,no_enrollment,High School,Public Sector,>4,,No
+342,,no_enrollment,High School,Pvt Ltd,,No,
+343,,no_enrollment,High School,Pvt Ltd,1,No,No
+344,,no_enrollment,High School,Pvt Ltd,2,No,No
+345,,no_enrollment,High School,Pvt Ltd,3,No,No
+346,,no_enrollment,High School,Pvt Ltd,4,No,
+347,,no_enrollment,High School,Pvt Ltd,>4,No,
+348,,no_enrollment,High School,Pvt Ltd,never,No,No
+349,,no_enrollment,Masters,,,No,Yes
+350,,no_enrollment,Masters,,1,No,No
+351,,no_enrollment,Masters,,2,Yes,No
+352,,no_enrollment,Masters,,3,Yes,Yes
+353,,no_enrollment,Masters,,4,No,No
+354,,no_enrollment,Masters,,>4,No,No
+355,,no_enrollment,Masters,,never,No,No
+356,,no_enrollment,Masters,Early Stage Startup,,No,
+357,,no_enrollment,Masters,Early Stage Startup,1,Yes,No
+358,,no_enrollment,Masters,Early Stage Startup,2,No,Yes
+359,,no_enrollment,Masters,Early Stage Startup,3,No,
+360,,no_enrollment,Masters,Early Stage Startup,4,No,
+361,,no_enrollment,Masters,Early Stage Startup,never,Yes,No
+362,,no_enrollment,Masters,Funded Startup,,No,
+363,,no_enrollment,Masters,Funded Startup,1,No,No
+364,,no_enrollment,Masters,Funded Startup,2,No,No
+365,,no_enrollment,Masters,NGO,1,No,No
+366,,no_enrollment,Masters,NGO,2,Yes,
+367,,no_enrollment,Masters,NGO,4,No,No
+368,,no_enrollment,Masters,NGO,>4,No,Yes
+369,,no_enrollment,Masters,NGO,never,No,
+370,,no_enrollment,Masters,Other,,No,No
+371,,no_enrollment,Masters,Other,1,No,
+372,,no_enrollment,Masters,Other,2,No,
+373,,no_enrollment,Masters,Other,4,No,
+374,,no_enrollment,Masters,Other,>4,No,
+375,,no_enrollment,Masters,Public Sector,1,No,Yes
+376,,no_enrollment,Masters,Public Sector,2,No,Yes
+377,,no_enrollment,Masters,Public Sector,3,No,
+378,,no_enrollment,Masters,Public Sector,4,No,No
+379,,no_enrollment,Masters,Public Sector,>4,No,No
+380,,no_enrollment,Masters,Pvt Ltd,,No,No
+381,,no_enrollment,Masters,Pvt Ltd,1,Yes,No
+382,,no_enrollment,Masters,Pvt Ltd,2,Yes,Yes
+383,,no_enrollment,Masters,Pvt Ltd,3,No,No
+384,,no_enrollment,Masters,Pvt Ltd,4,No,No
+385,,no_enrollment,Masters,Pvt Ltd,>4,No,No
+386,,no_enrollment,Masters,Pvt Ltd,never,No,No
+387,,no_enrollment,Phd,,,,No
+388,,no_enrollment,Phd,,1,No,No
+389,,no_enrollment,Phd,,2,No,No
+390,,no_enrollment,Phd,,3,,Yes
+391,,no_enrollment,Phd,,>4,No,No
+392,,no_enrollment,Phd,,never,No,
+393,,no_enrollment,Phd,Early Stage Startup,>4,No,
+394,,no_enrollment,Phd,Early Stage Startup,never,No,
+395,,no_enrollment,Phd,Funded Startup,,No,
+396,,no_enrollment,Phd,Funded Startup,1,No,
+397,,no_enrollment,Phd,NGO,1,No,No
+398,,no_enrollment,Phd,NGO,2,No,
+399,,no_enrollment,Phd,NGO,>4,No,No
+400,,no_enrollment,Phd,NGO,never,,No
+401,,no_enrollment,Phd,Public Sector,,,No
+402,,no_enrollment,Phd,Public Sector,1,No,Yes
+403,,no_enrollment,Phd,Public Sector,2,,No
+404,,no_enrollment,Phd,Public Sector,3,No,Yes
+405,,no_enrollment,Phd,Public Sector,>4,,No
+406,,no_enrollment,Phd,Pvt Ltd,,,No
+407,,no_enrollment,Phd,Pvt Ltd,1,No,No
+408,,no_enrollment,Phd,Pvt Ltd,2,No,No
+409,,no_enrollment,Phd,Pvt Ltd,3,No,
+410,,no_enrollment,Phd,Pvt Ltd,4,No,
+411,,no_enrollment,Phd,Pvt Ltd,>4,No,Yes
+412,,no_enrollment,Phd,Pvt Ltd,never,No,
+413,,no_enrollment,Primary School,,,,No
+414,,no_enrollment,Primary School,,1,No,No
+415,,no_enrollment,Primary School,,2,No,No
+416,,no_enrollment,Primary School,,never,No,No
+417,,no_enrollment,Primary School,Early Stage Startup,1,,No
+418,,no_enrollment,Primary School,Early Stage Startup,2,No,
+419,,no_enrollment,Primary School,Pvt Ltd,1,No,No
+420,,no_enrollment,Primary School,Pvt Ltd,2,,No
+421,,no_enrollment,Primary School,Pvt Ltd,never,Yes,No
+422,Female,,,,never,,No
+423,Female,,Graduate,,,Yes,
+424,Female,,Graduate,,2,Yes,
+425,Female,,Graduate,,3,Yes,
+426,Female,,Graduate,,4,Yes,
+427,Female,,Graduate,,>4,No,
+428,Female,,Graduate,,never,,Yes
+429,Female,,Graduate,Pvt Ltd,1,No,
+430,Female,,Graduate,Pvt Ltd,never,No,No
+431,Female,,High School,,>4,,No
+432,Female,,High School,,never,,No
+433,Female,,Masters,,2,,Yes
+434,Female,,Masters,Funded Startup,1,No,No
+435,Female,,Masters,Pvt Ltd,1,Yes,
+436,Female,,Masters,Pvt Ltd,never,Yes,
+437,Female,Full time course,,,1,,No
+438,Female,Full time course,,Early Stage Startup,never,No,
+439,Female,Full time course,Graduate,,,,No
+440,Female,Full time course,Graduate,,1,No,Yes
+441,Female,Full time course,Graduate,,2,Yes,Yes
+442,Female,Full time course,Graduate,,3,,Yes
+443,Female,Full time course,Graduate,,4,Yes,No
+444,Female,Full time course,Graduate,,>4,No,Yes
+445,Female,Full time course,Graduate,,never,,Yes
+446,Female,Full time course,Graduate,Early Stage Startup,1,No,No
+447,Female,Full time course,Graduate,Early Stage Startup,2,Yes,
+448,Female,Full time course,Graduate,Early Stage Startup,3,No,
+449,Female,Full time course,Graduate,Funded Startup,1,No,No
+450,Female,Full time course,Graduate,NGO,1,,Yes
+451,Female,Full time course,Graduate,NGO,4,Yes,
+452,Female,Full time course,Graduate,NGO,>4,,Yes
+453,Female,Full time course,Graduate,Public Sector,1,Yes,Yes
+454,Female,Full time course,Graduate,Public Sector,4,,No
+455,Female,Full time course,Graduate,Public Sector,>4,,Yes
+456,Female,Full time course,Graduate,Pvt Ltd,1,No,No
+457,Female,Full time course,Graduate,Pvt Ltd,2,No,No
+458,Female,Full time course,Graduate,Pvt Ltd,3,No,No
+459,Female,Full time course,Graduate,Pvt Ltd,4,,Yes
+460,Female,Full time course,Graduate,Pvt Ltd,>4,No,
+461,Female,Full time course,Graduate,Pvt Ltd,never,Yes,No
+462,Female,Full time course,High School,,1,,No
+463,Female,Full time course,High School,,2,,Yes
+464,Female,Full time course,High School,,never,,No
+465,Female,Full time course,High School,Early Stage Startup,1,,Yes
+466,Female,Full time course,High School,Funded Startup,1,,No
+467,Female,Full time course,High School,Public Sector,1,,No
+468,Female,Full time course,High School,Pvt Ltd,1,,No
+469,Female,Full time course,High School,Pvt Ltd,never,,Yes
+470,Female,Full time course,Masters,,1,No,Yes
+471,Female,Full time course,Masters,,2,No,
+472,Female,Full time course,Masters,,3,No,
+473,Female,Full time course,Masters,,4,Yes,Yes
+474,Female,Full time course,Masters,,>4,,No
+475,Female,Full time course,Masters,,never,,Yes
+476,Female,Full time course,Masters,Early Stage Startup,never,Yes,
+477,Female,Full time course,Masters,Funded Startup,1,No,
+478,Female,Full time course,Masters,NGO,3,,No
+479,Female,Full time course,Masters,NGO,4,,Yes
+480,Female,Full time course,Masters,Other,1,,No
+481,Female,Full time course,Masters,Public Sector,1,Yes,Yes
+482,Female,Full time course,Masters,Public Sector,2,No,No
+483,Female,Full time course,Masters,Public Sector,3,,No
+484,Female,Full time course,Masters,Public Sector,>4,,No
+485,Female,Full time course,Masters,Pvt Ltd,1,Yes,No
+486,Female,Full time course,Masters,Pvt Ltd,2,Yes,
+487,Female,Full time course,Masters,Pvt Ltd,3,No,
+488,Female,Full time course,Masters,Pvt Ltd,>4,Yes,
+489,Female,Full time course,Masters,Pvt Ltd,never,No,
+490,Female,Full time course,Phd,NGO,>4,,No
+491,Female,Full time course,Phd,Public Sector,1,,No
+492,Female,Full time course,Phd,Public Sector,2,,No
+493,Female,Full time course,Phd,Pvt Ltd,>4,No,
+494,Female,Full time course,Primary School,Pvt Ltd,never,,Yes
+495,Female,Part time course,,Pvt Ltd,2,No,
+496,Female,Part time course,Graduate,,1,No,No
+497,Female,Part time course,Graduate,,2,No,
+498,Female,Part time course,Graduate,,3,Yes,
+499,Female,Part time course,Graduate,,never,No,No
+500,Female,Part time course,Graduate,Early Stage Startup,1,No,
+501,Female,Part time course,Graduate,Early Stage Startup,never,No,
+502,Female,Part time course,Graduate,Funded Startup,1,,No
+503,Female,Part time course,Graduate,Funded Startup,2,No,
+504,Female,Part time course,Graduate,Other,3,Yes,
+505,Female,Part time course,Graduate,Other,>4,Yes,
+506,Female,Part time course,Graduate,Public Sector,1,Yes,Yes
+507,Female,Part time course,Graduate,Public Sector,2,No,
+508,Female,Part time course,Graduate,Public Sector,>4,No,
+509,Female,Part time course,Graduate,Pvt Ltd,1,No,No
+510,Female,Part time course,Graduate,Pvt Ltd,2,No,No
+511,Female,Part time course,Graduate,Pvt Ltd,3,No,No
+512,Female,Part time course,Graduate,Pvt Ltd,4,No,No
+513,Female,Part time course,Graduate,Pvt Ltd,>4,No,
+514,Female,Part time course,High School,,1,No,No
+515,Female,Part time course,High School,NGO,1,No,
+516,Female,Part time course,High School,Public Sector,1,,Yes
+517,Female,Part time course,High School,Pvt Ltd,1,No,
+518,Female,Part time course,Masters,,1,,Yes
+519,Female,Part time course,Masters,,3,No,
+520,Female,Part time course,Masters,NGO,3,Yes,
+521,Female,Part time course,Masters,Public Sector,1,,No
+522,Female,Part time course,Masters,Public Sector,3,,No
+523,Female,Part time course,Masters,Pvt Ltd,1,No,
+524,Female,Part time course,Masters,Pvt Ltd,>4,,No
+525,Female,no_enrollment,,,1,No,
+526,Female,no_enrollment,,,>4,No,
+527,Female,no_enrollment,Graduate,,,No,
+528,Female,no_enrollment,Graduate,,1,No,Yes
+529,Female,no_enrollment,Graduate,,2,Yes,Yes
+530,Female,no_enrollment,Graduate,,3,No,
+531,Female,no_enrollment,Graduate,,4,,Yes
+532,Female,no_enrollment,Graduate,,>4,Yes,No
+533,Female,no_enrollment,Graduate,,never,No,Yes
+534,Female,no_enrollment,Graduate,Early Stage Startup,1,No,Yes
+535,Female,no_enrollment,Graduate,Early Stage Startup,2,No,No
+536,Female,no_enrollment,Graduate,Early Stage Startup,never,Yes,No
+537,Female,no_enrollment,Graduate,Funded Startup,1,Yes,No
+538,Female,no_enrollment,Graduate,Funded Startup,2,No,No
+539,Female,no_enrollment,Graduate,Funded Startup,3,Yes,
+540,Female,no_enrollment,Graduate,Funded Startup,4,No,
+541,Female,no_enrollment,Graduate,Funded Startup,>4,No,
+542,Female,no_enrollment,Graduate,Funded Startup,never,,No
+543,Female,no_enrollment,Graduate,NGO,1,No,No
+544,Female,no_enrollment,Graduate,NGO,2,No,No
+545,Female,no_enrollment,Graduate,NGO,3,No,No
+546,Female,no_enrollment,Graduate,NGO,>4,No,No
+547,Female,no_enrollment,Graduate,Other,1,No,
+548,Female,no_enrollment,Graduate,Public Sector,1,Yes,No
+549,Female,no_enrollment,Graduate,Public Sector,2,No,Yes
+550,Female,no_enrollment,Graduate,Public Sector,3,No,
+551,Female,no_enrollment,Graduate,Public Sector,4,No,
+552,Female,no_enrollment,Graduate,Public Sector,>4,No,No
+553,Female,no_enrollment,Graduate,Public Sector,never,,Yes
+554,Female,no_enrollment,Graduate,Pvt Ltd,1,No,No
+555,Female,no_enrollment,Graduate,Pvt Ltd,2,Yes,No
+556,Female,no_enrollment,Graduate,Pvt Ltd,3,No,Yes
+557,Female,no_enrollment,Graduate,Pvt Ltd,4,No,No
+558,Female,no_enrollment,Graduate,Pvt Ltd,>4,No,No
+559,Female,no_enrollment,Graduate,Pvt Ltd,never,No,No
+560,Female,no_enrollment,High School,,1,No,
+561,Female,no_enrollment,High School,,2,,No
+562,Female,no_enrollment,High School,,>4,No,
+563,Female,no_enrollment,High School,,never,No,No
+564,Female,no_enrollment,High School,Early Stage Startup,1,No,
+565,Female,no_enrollment,High School,Funded Startup,1,Yes,
+566,Female,no_enrollment,High School,NGO,1,No,
+567,Female,no_enrollment,High School,NGO,2,No,
+568,Female,no_enrollment,High School,Pvt Ltd,1,No,
+569,Female,no_enrollment,High School,Pvt Ltd,2,No,
+570,Female,no_enrollment,High School,Pvt Ltd,3,No,
+571,Female,no_enrollment,High School,Pvt Ltd,>4,No,
+572,Female,no_enrollment,High School,Pvt Ltd,never,No,
+573,Female,no_enrollment,Masters,,,Yes,
+574,Female,no_enrollment,Masters,,1,Yes,No
+575,Female,no_enrollment,Masters,,2,No,No
+576,Female,no_enrollment,Masters,,3,Yes,Yes
+577,Female,no_enrollment,Masters,,4,No,Yes
+578,Female,no_enrollment,Masters,,>4,No,No
+579,Female,no_enrollment,Masters,,never,No,No
+580,Female,no_enrollment,Masters,Early Stage Startup,1,No,Yes
+581,Female,no_enrollment,Masters,Early Stage Startup,4,No,
+582,Female,no_enrollment,Masters,Funded Startup,1,Yes,No
+583,Female,no_enrollment,Masters,Funded Startup,2,No,No
+584,Female,no_enrollment,Masters,Funded Startup,3,No,
+585,Female,no_enrollment,Masters,Funded Startup,4,No,
+586,Female,no_enrollment,Masters,Funded Startup,never,,Yes
+587,Female,no_enrollment,Masters,NGO,1,No,No
+588,Female,no_enrollment,Masters,NGO,3,No,
+589,Female,no_enrollment,Masters,NGO,4,No,
+590,Female,no_enrollment,Masters,NGO,>4,Yes,No
+591,Female,no_enrollment,Masters,Other,>4,No,Yes
+592,Female,no_enrollment,Masters,Other,never,Yes,
+593,Female,no_enrollment,Masters,Public Sector,1,No,No
+594,Female,no_enrollment,Masters,Public Sector,2,Yes,No
+595,Female,no_enrollment,Masters,Public Sector,3,No,
+596,Female,no_enrollment,Masters,Public Sector,4,No,No
+597,Female,no_enrollment,Masters,Public Sector,>4,No,No
+598,Female,no_enrollment,Masters,Pvt Ltd,,Yes,
+599,Female,no_enrollment,Masters,Pvt Ltd,1,No,Yes
+600,Female,no_enrollment,Masters,Pvt Ltd,2,No,No
+601,Female,no_enrollment,Masters,Pvt Ltd,3,Yes,
+602,Female,no_enrollment,Masters,Pvt Ltd,4,No,No
+603,Female,no_enrollment,Masters,Pvt Ltd,>4,Yes,No
+604,Female,no_enrollment,Masters,Pvt Ltd,never,No,Yes
+605,Female,no_enrollment,Phd,,1,No,
+606,Female,no_enrollment,Phd,,2,No,Yes
+607,Female,no_enrollment,Phd,Funded Startup,1,No,
+608,Female,no_enrollment,Phd,Funded Startup,2,No,
+609,Female,no_enrollment,Phd,NGO,1,Yes,No
+610,Female,no_enrollment,Phd,NGO,2,,No
+611,Female,no_enrollment,Phd,NGO,4,,Yes
+612,Female,no_enrollment,Phd,NGO,>4,No,
+613,Female,no_enrollment,Phd,Public Sector,1,,No
+614,Female,no_enrollment,Phd,Public Sector,2,No,No
+615,Female,no_enrollment,Phd,Public Sector,4,No,No
+616,Female,no_enrollment,Phd,Public Sector,>4,No,No
+617,Female,no_enrollment,Phd,Public Sector,never,No,
+618,Female,no_enrollment,Phd,Pvt Ltd,1,No,No
+619,Female,no_enrollment,Phd,Pvt Ltd,2,No,
+620,Female,no_enrollment,Phd,Pvt Ltd,3,Yes,
+621,Female,no_enrollment,Phd,Pvt Ltd,>4,No,No
+622,Female,no_enrollment,Primary School,,never,,No
+623,Female,no_enrollment,Primary School,Early Stage Startup,1,No,
+624,Male,,,,,Yes,No
+625,Male,,,,1,No,No
+626,Male,,,,>4,Yes,
+627,Male,,,,never,No,No
+628,Male,,,Pvt Ltd,,No,
+629,Male,,,Pvt Ltd,1,Yes,
+630,Male,,,Pvt Ltd,2,No,
+631,Male,,,Pvt Ltd,never,,No
+632,Male,,Graduate,,1,No,Yes
+633,Male,,Graduate,,2,No,No
+634,Male,,Graduate,,4,Yes,
+635,Male,,Graduate,,>4,No,Yes
+636,Male,,Graduate,,never,No,Yes
+637,Male,,Graduate,Early Stage Startup,1,Yes,
+638,Male,,Graduate,Early Stage Startup,never,Yes,Yes
+639,Male,,Graduate,Funded Startup,1,No,
+640,Male,,Graduate,NGO,1,No,
+641,Male,,Graduate,NGO,2,,Yes
+642,Male,,Graduate,Public Sector,3,No,No
+643,Male,,Graduate,Public Sector,4,No,
+644,Male,,Graduate,Public Sector,never,No,
+645,Male,,Graduate,Pvt Ltd,,Yes,
+646,Male,,Graduate,Pvt Ltd,1,Yes,Yes
+647,Male,,Graduate,Pvt Ltd,2,No,
+648,Male,,Graduate,Pvt Ltd,3,No,
+649,Male,,Graduate,Pvt Ltd,4,No,
+650,Male,,Graduate,Pvt Ltd,>4,No,Yes
+651,Male,,High School,,1,Yes,No
+652,Male,,High School,,never,,Yes
+653,Male,,High School,Funded Startup,2,No,
+654,Male,,High School,Public Sector,3,No,
+655,Male,,High School,Pvt Ltd,1,No,
+656,Male,,High School,Pvt Ltd,2,No,
+657,Male,,High School,Pvt Ltd,never,,No
+658,Male,,Masters,,,,No
+659,Male,,Masters,,1,Yes,No
+660,Male,,Masters,,2,No,
+661,Male,,Masters,,never,,Yes
+662,Male,,Masters,Early Stage Startup,,Yes,
+663,Male,,Masters,Early Stage Startup,1,Yes,
+664,Male,,Masters,Funded Startup,1,Yes,
+665,Male,,Masters,NGO,1,No,No
+666,Male,,Masters,Public Sector,1,Yes,
+667,Male,,Masters,Pvt Ltd,1,Yes,Yes
+668,Male,,Masters,Pvt Ltd,2,No,
+669,Male,,Masters,Pvt Ltd,4,Yes,
+670,Male,,Masters,Pvt Ltd,>4,Yes,
+671,Male,,Phd,,1,,No
+672,Male,,Phd,Funded Startup,>4,No,
+673,Male,,Primary School,,1,,Yes
+674,Male,,Primary School,,never,,No
+675,Male,Full time course,,,,,No
+676,Male,Full time course,,,1,Yes,Yes
+677,Male,Full time course,,,2,,No
+678,Male,Full time course,,,>4,Yes,No
+679,Male,Full time course,,,never,,No
+680,Male,Full time course,,Early Stage Startup,1,No,
+681,Male,Full time course,,Pvt Ltd,1,No,No
+682,Male,Full time course,,Pvt Ltd,2,No,
+683,Male,Full time course,,Pvt Ltd,>4,,No
+684,Male,Full time course,,Pvt Ltd,never,,No
+685,Male,Full time course,Graduate,,,No,Yes
+686,Male,Full time course,Graduate,,1,Yes,No
+687,Male,Full time course,Graduate,,2,Yes,Yes
+688,Male,Full time course,Graduate,,3,No,Yes
+689,Male,Full time course,Graduate,,4,No,Yes
+690,Male,Full time course,Graduate,,>4,No,No
+691,Male,Full time course,Graduate,,never,Yes,No
+692,Male,Full time course,Graduate,Early Stage Startup,1,No,Yes
+693,Male,Full time course,Graduate,Early Stage Startup,2,No,
+694,Male,Full time course,Graduate,Early Stage Startup,4,No,
+695,Male,Full time course,Graduate,Early Stage Startup,never,No,No
+696,Male,Full time course,Graduate,Funded Startup,1,No,No
+697,Male,Full time course,Graduate,Funded Startup,2,Yes,
+698,Male,Full time course,Graduate,Funded Startup,3,No,
+699,Male,Full time course,Graduate,Funded Startup,4,,No
+700,Male,Full time course,Graduate,Funded Startup,>4,No,
+701,Male,Full time course,Graduate,Funded Startup,never,No,
+702,Male,Full time course,Graduate,NGO,,Yes,
+703,Male,Full time course,Graduate,NGO,1,No,No
+704,Male,Full time course,Graduate,NGO,2,No,No
+705,Male,Full time course,Graduate,NGO,3,,No
+706,Male,Full time course,Graduate,NGO,4,No,
+707,Male,Full time course,Graduate,NGO,>4,No,No
+708,Male,Full time course,Graduate,Other,,,No
+709,Male,Full time course,Graduate,Other,1,No,No
+710,Male,Full time course,Graduate,Other,>4,,No
+711,Male,Full time course,Graduate,Public Sector,1,No,No
+712,Male,Full time course,Graduate,Public Sector,2,No,Yes
+713,Male,Full time course,Graduate,Public Sector,3,No,
+714,Male,Full time course,Graduate,Public Sector,4,Yes,No
+715,Male,Full time course,Graduate,Public Sector,>4,,Yes
+716,Male,Full time course,Graduate,Public Sector,never,No,No
+717,Male,Full time course,Graduate,Pvt Ltd,,Yes,
+718,Male,Full time course,Graduate,Pvt Ltd,1,No,No
+719,Male,Full time course,Graduate,Pvt Ltd,2,No,No
+720,Male,Full time course,Graduate,Pvt Ltd,3,No,Yes
+721,Male,Full time course,Graduate,Pvt Ltd,4,Yes,No
+722,Male,Full time course,Graduate,Pvt Ltd,>4,No,No
+723,Male,Full time course,Graduate,Pvt Ltd,never,No,No
+724,Male,Full time course,High School,,,No,No
+725,Male,Full time course,High School,,1,No,No
+726,Male,Full time course,High School,,2,Yes,No
+727,Male,Full time course,High School,,3,No,Yes
+728,Male,Full time course,High School,,4,,Yes
+729,Male,Full time course,High School,,>4,No,No
+730,Male,Full time course,High School,,never,No,Yes
+731,Male,Full time course,High School,Early Stage Startup,1,Yes,Yes
+732,Male,Full time course,High School,Early Stage Startup,2,No,Yes
+733,Male,Full time course,High School,Early Stage Startup,never,,No
+734,Male,Full time course,High School,Funded Startup,1,No,No
+735,Male,Full time course,High School,Funded Startup,2,No,
+736,Male,Full time course,High School,Funded Startup,3,No,
+737,Male,Full time course,High School,Funded Startup,never,No,No
+738,Male,Full time course,High School,NGO,1,No,Yes
+739,Male,Full time course,High School,NGO,2,Yes,Yes
+740,Male,Full time course,High School,NGO,4,,No
+741,Male,Full time course,High School,NGO,never,,No
+742,Male,Full time course,High School,Other,1,No,No
+743,Male,Full time course,High School,Other,never,Yes,
+744,Male,Full time course,High School,Public Sector,1,No,No
+745,Male,Full time course,High School,Public Sector,2,No,Yes
+746,Male,Full time course,High School,Public Sector,3,,No
+747,Male,Full time course,High School,Public Sector,>4,,No
+748,Male,Full time course,High School,Public Sector,never,No,
+749,Male,Full time course,High School,Pvt Ltd,1,No,No
+750,Male,Full time course,High School,Pvt Ltd,2,No,No
+751,Male,Full time course,High School,Pvt Ltd,3,No,No
+752,Male,Full time course,High School,Pvt Ltd,4,No,No
+753,Male,Full time course,High School,Pvt Ltd,>4,No,No
+754,Male,Full time course,High School,Pvt Ltd,never,Yes,No
+755,Male,Full time course,Masters,,,Yes,Yes
+756,Male,Full time course,Masters,,1,No,No
+757,Male,Full time course,Masters,,2,Yes,No
+758,Male,Full time course,Masters,,3,Yes,No
+759,Male,Full time course,Masters,,4,No,Yes
+760,Male,Full time course,Masters,,>4,No,Yes
+761,Male,Full time course,Masters,,never,No,Yes
+762,Male,Full time course,Masters,Early Stage Startup,1,Yes,
+763,Male,Full time course,Masters,Early Stage Startup,2,No,
+764,Male,Full time course,Masters,Funded Startup,1,No,No
+765,Male,Full time course,Masters,Funded Startup,2,No,
+766,Male,Full time course,Masters,NGO,1,No,No
+767,Male,Full time course,Masters,NGO,2,Yes,No
+768,Male,Full time course,Masters,NGO,3,No,No
+769,Male,Full time course,Masters,NGO,>4,No,Yes
+770,Male,Full time course,Masters,Other,,,Yes
+771,Male,Full time course,Masters,Other,4,,Yes
+772,Male,Full time course,Masters,Public Sector,,No,No
+773,Male,Full time course,Masters,Public Sector,1,No,No
+774,Male,Full time course,Masters,Public Sector,2,No,No
+775,Male,Full time course,Masters,Public Sector,3,,No
+776,Male,Full time course,Masters,Public Sector,4,No,Yes
+777,Male,Full time course,Masters,Public Sector,>4,No,Yes
+778,Male,Full time course,Masters,Public Sector,never,No,No
+779,Male,Full time course,Masters,Pvt Ltd,1,Yes,No
+780,Male,Full time course,Masters,Pvt Ltd,2,No,Yes
+781,Male,Full time course,Masters,Pvt Ltd,3,No,
+782,Male,Full time course,Masters,Pvt Ltd,4,No,No
+783,Male,Full time course,Masters,Pvt Ltd,>4,No,No
+784,Male,Full time course,Masters,Pvt Ltd,never,Yes,No
+785,Male,Full time course,Phd,,1,Yes,No
+786,Male,Full time course,Phd,,>4,No,
+787,Male,Full time course,Phd,NGO,2,No,
+788,Male,Full time course,Phd,Public Sector,1,No,Yes
+789,Male,Full time course,Phd,Public Sector,>4,,No
+790,Male,Full time course,Phd,Pvt Ltd,>4,No,
+791,Male,Full time course,Primary School,,1,No,No
+792,Male,Full time course,Primary School,,2,,No
+793,Male,Full time course,Primary School,,never,,No
+794,Male,Full time course,Primary School,Public Sector,2,No,
+795,Male,Full time course,Primary School,Pvt Ltd,never,,No
+796,Male,Part time course,,,1,No,
+797,Male,Part time course,,,2,,Yes
+798,Male,Part time course,,,never,No,
+799,Male,Part time course,,Early Stage Startup,1,Yes,
+800,Male,Part time course,,Pvt Ltd,1,No,No
+801,Male,Part time course,,Pvt Ltd,2,Yes,
+802,Male,Part time course,Graduate,,,No,
+803,Male,Part time course,Graduate,,1,Yes,Yes
+804,Male,Part time course,Graduate,,2,Yes,No
+805,Male,Part time course,Graduate,,3,Yes,Yes
+806,Male,Part time course,Graduate,,4,No,Yes
+807,Male,Part time course,Graduate,,>4,Yes,Yes
+808,Male,Part time course,Graduate,,never,No,Yes
+809,Male,Part time course,Graduate,Early Stage Startup,1,No,No
+810,Male,Part time course,Graduate,Early Stage Startup,2,No,No
+811,Male,Part time course,Graduate,Early Stage Startup,4,No,Yes
+812,Male,Part time course,Graduate,Early Stage Startup,never,No,
+813,Male,Part time course,Graduate,Funded Startup,,,No
+814,Male,Part time course,Graduate,Funded Startup,1,No,No
+815,Male,Part time course,Graduate,Funded Startup,2,Yes,No
+816,Male,Part time course,Graduate,Funded Startup,3,No,
+817,Male,Part time course,Graduate,Funded Startup,4,No,
+818,Male,Part time course,Graduate,Funded Startup,>4,No,
+819,Male,Part time course,Graduate,NGO,1,No,No
+820,Male,Part time course,Graduate,NGO,2,No,No
+821,Male,Part time course,Graduate,NGO,3,No,
+822,Male,Part time course,Graduate,NGO,4,,No
+823,Male,Part time course,Graduate,NGO,>4,No,No
+824,Male,Part time course,Graduate,NGO,never,No,
+825,Male,Part time course,Graduate,Public Sector,1,No,No
+826,Male,Part time course,Graduate,Public Sector,2,No,No
+827,Male,Part time course,Graduate,Public Sector,3,No,No
+828,Male,Part time course,Graduate,Public Sector,4,No,
+829,Male,Part time course,Graduate,Public Sector,>4,No,No
+830,Male,Part time course,Graduate,Pvt Ltd,,No,
+831,Male,Part time course,Graduate,Pvt Ltd,1,No,No
+832,Male,Part time course,Graduate,Pvt Ltd,2,No,No
+833,Male,Part time course,Graduate,Pvt Ltd,3,No,No
+834,Male,Part time course,Graduate,Pvt Ltd,4,Yes,
+835,Male,Part time course,Graduate,Pvt Ltd,>4,No,No
+836,Male,Part time course,Graduate,Pvt Ltd,never,No,No
+837,Male,Part time course,High School,,1,No,No
+838,Male,Part time course,High School,,2,No,No
+839,Male,Part time course,High School,,4,No,
+840,Male,Part time course,High School,,>4,Yes,Yes
+841,Male,Part time course,High School,,never,Yes,No
+842,Male,Part time course,High School,Early Stage Startup,1,,No
+843,Male,Part time course,High School,Early Stage Startup,never,,Yes
+844,Male,Part time course,High School,Funded Startup,1,No,No
+845,Male,Part time course,High School,Funded Startup,2,No,
+846,Male,Part time course,High School,NGO,>4,No,
+847,Male,Part time course,High School,Other,1,,No
+848,Male,Part time course,High School,Other,2,No,
+849,Male,Part time course,High School,Public Sector,1,No,
+850,Male,Part time course,High School,Public Sector,2,No,No
+851,Male,Part time course,High School,Public Sector,3,No,
+852,Male,Part time course,High School,Pvt Ltd,1,No,No
+853,Male,Part time course,High School,Pvt Ltd,2,Yes,No
+854,Male,Part time course,High School,Pvt Ltd,3,No,No
+855,Male,Part time course,High School,Pvt Ltd,4,No,
+856,Male,Part time course,High School,Pvt Ltd,>4,No,No
+857,Male,Part time course,High School,Pvt Ltd,never,,No
+858,Male,Part time course,Masters,,1,No,No
+859,Male,Part time course,Masters,,2,Yes,Yes
+860,Male,Part time course,Masters,,3,No,No
+861,Male,Part time course,Masters,,4,No,
+862,Male,Part time course,Masters,,>4,Yes,Yes
+863,Male,Part time course,Masters,,never,No,No
+864,Male,Part time course,Masters,Early Stage Startup,1,No,No
+865,Male,Part time course,Masters,Funded Startup,1,No,No
+866,Male,Part time course,Masters,Funded Startup,2,No,
+867,Male,Part time course,Masters,NGO,1,No,No
+868,Male,Part time course,Masters,NGO,2,,No
+869,Male,Part time course,Masters,NGO,3,No,
+870,Male,Part time course,Masters,NGO,>4,,No
+871,Male,Part time course,Masters,Public Sector,1,Yes,No
+872,Male,Part time course,Masters,Public Sector,2,No,No
+873,Male,Part time course,Masters,Public Sector,3,No,No
+874,Male,Part time course,Masters,Public Sector,>4,No,No
+875,Male,Part time course,Masters,Public Sector,never,,No
+876,Male,Part time course,Masters,Pvt Ltd,1,No,No
+877,Male,Part time course,Masters,Pvt Ltd,2,No,
+878,Male,Part time course,Masters,Pvt Ltd,3,No,No
+879,Male,Part time course,Masters,Pvt Ltd,4,No,No
+880,Male,Part time course,Masters,Pvt Ltd,>4,No,No
+881,Male,Part time course,Masters,Pvt Ltd,never,,No
+882,Male,Part time course,Phd,,>4,No,No
+883,Male,Part time course,Phd,Other,3,,No
+884,Male,Part time course,Phd,Public Sector,2,,No
+885,Male,Part time course,Phd,Public Sector,>4,No,
+886,Male,Part time course,Phd,Pvt Ltd,4,,No
+887,Male,Part time course,Phd,Pvt Ltd,>4,Yes,
+888,Male,Part time course,Primary School,,1,No,No
+889,Male,Part time course,Primary School,,4,No,
+890,Male,Part time course,Primary School,Early Stage Startup,never,,No
+891,Male,Part time course,Primary School,Pvt Ltd,1,No,
+892,Male,no_enrollment,,,,,No
+893,Male,no_enrollment,,,1,No,No
+894,Male,no_enrollment,,,2,No,No
+895,Male,no_enrollment,,,3,No,
+896,Male,no_enrollment,,,4,Yes,
+897,Male,no_enrollment,,,>4,Yes,
+898,Male,no_enrollment,,,never,No,No
+899,Male,no_enrollment,,Early Stage Startup,1,No,
+900,Male,no_enrollment,,Early Stage Startup,3,No,
+901,Male,no_enrollment,,Funded Startup,1,No,
+902,Male,no_enrollment,,Funded Startup,3,No,
+903,Male,no_enrollment,,Funded Startup,>4,No,
+904,Male,no_enrollment,,Other,1,No,
+905,Male,no_enrollment,,Other,3,Yes,
+906,Male,no_enrollment,,Public Sector,2,No,No
+907,Male,no_enrollment,,Public Sector,3,Yes,
+908,Male,no_enrollment,,Public Sector,>4,No,
+909,Male,no_enrollment,,Pvt Ltd,,,Yes
+910,Male,no_enrollment,,Pvt Ltd,1,No,
+911,Male,no_enrollment,,Pvt Ltd,2,No,No
+912,Male,no_enrollment,,Pvt Ltd,3,No,
+913,Male,no_enrollment,,Pvt Ltd,4,No,
+914,Male,no_enrollment,,Pvt Ltd,>4,No,No
+915,Male,no_enrollment,,Pvt Ltd,never,,No
+916,Male,no_enrollment,Graduate,,,No,Yes
+917,Male,no_enrollment,Graduate,,1,No,No
+918,Male,no_enrollment,Graduate,,2,No,Yes
+919,Male,no_enrollment,Graduate,,3,Yes,Yes
+920,Male,no_enrollment,Graduate,,4,No,No
+921,Male,no_enrollment,Graduate,,>4,No,No
+922,Male,no_enrollment,Graduate,,never,No,Yes
+923,Male,no_enrollment,Graduate,Early Stage Startup,1,Yes,Yes
+924,Male,no_enrollment,Graduate,Early Stage Startup,2,No,
+925,Male,no_enrollment,Graduate,Early Stage Startup,3,Yes,
+926,Male,no_enrollment,Graduate,Early Stage Startup,4,No,
+927,Male,no_enrollment,Graduate,Early Stage Startup,>4,No,No
+928,Male,no_enrollment,Graduate,Early Stage Startup,never,No,No
+929,Male,no_enrollment,Graduate,Funded Startup,,No,
+930,Male,no_enrollment,Graduate,Funded Startup,1,No,No
+931,Male,no_enrollment,Graduate,Funded Startup,2,No,No
+932,Male,no_enrollment,Graduate,Funded Startup,3,No,No
+933,Male,no_enrollment,Graduate,Funded Startup,4,No,
+934,Male,no_enrollment,Graduate,Funded Startup,>4,No,No
+935,Male,no_enrollment,Graduate,Funded Startup,never,No,No
+936,Male,no_enrollment,Graduate,NGO,1,No,No
+937,Male,no_enrollment,Graduate,NGO,2,No,No
+938,Male,no_enrollment,Graduate,NGO,3,No,No
+939,Male,no_enrollment,Graduate,NGO,4,No,No
+940,Male,no_enrollment,Graduate,NGO,>4,No,Yes
+941,Male,no_enrollment,Graduate,NGO,never,No,No
+942,Male,no_enrollment,Graduate,Other,1,Yes,Yes
+943,Male,no_enrollment,Graduate,Other,2,Yes,
+944,Male,no_enrollment,Graduate,Other,3,Yes,
+945,Male,no_enrollment,Graduate,Other,4,No,
+946,Male,no_enrollment,Graduate,Other,>4,No,No
+947,Male,no_enrollment,Graduate,Other,never,Yes,Yes
+948,Male,no_enrollment,Graduate,Public Sector,1,No,No
+949,Male,no_enrollment,Graduate,Public Sector,2,No,No
+950,Male,no_enrollment,Graduate,Public Sector,3,Yes,No
+951,Male,no_enrollment,Graduate,Public Sector,4,No,
+952,Male,no_enrollment,Graduate,Public Sector,>4,No,No
+953,Male,no_enrollment,Graduate,Public Sector,never,No,No
+954,Male,no_enrollment,Graduate,Pvt Ltd,,No,
+955,Male,no_enrollment,Graduate,Pvt Ltd,1,No,No
+956,Male,no_enrollment,Graduate,Pvt Ltd,2,No,No
+957,Male,no_enrollment,Graduate,Pvt Ltd,3,Yes,No
+958,Male,no_enrollment,Graduate,Pvt Ltd,4,No,No
+959,Male,no_enrollment,Graduate,Pvt Ltd,>4,Yes,No
+960,Male,no_enrollment,Graduate,Pvt Ltd,never,No,No
+961,Male,no_enrollment,High School,,,,No
+962,Male,no_enrollment,High School,,1,No,Yes
+963,Male,no_enrollment,High School,,2,No,No
+964,Male,no_enrollment,High School,,3,No,No
+965,Male,no_enrollment,High School,,4,No,No
+966,Male,no_enrollment,High School,,>4,No,No
+967,Male,no_enrollment,High School,,never,Yes,No
+968,Male,no_enrollment,High School,Early Stage Startup,1,Yes,Yes
+969,Male,no_enrollment,High School,Early Stage Startup,2,No,
+970,Male,no_enrollment,High School,Early Stage Startup,3,No,
+971,Male,no_enrollment,High School,Early Stage Startup,4,No,Yes
+972,Male,no_enrollment,High School,Early Stage Startup,>4,No,
+973,Male,no_enrollment,High School,Early Stage Startup,never,No,
+974,Male,no_enrollment,High School,Funded Startup,1,No,No
+975,Male,no_enrollment,High School,Funded Startup,2,,No
+976,Male,no_enrollment,High School,Funded Startup,3,No,
+977,Male,no_enrollment,High School,Funded Startup,>4,No,No
+978,Male,no_enrollment,High School,NGO,2,,No
+979,Male,no_enrollment,High School,NGO,>4,No,
+980,Male,no_enrollment,High School,NGO,never,,No
+981,Male,no_enrollment,High School,Other,1,No,
+982,Male,no_enrollment,High School,Other,2,No,No
+983,Male,no_enrollment,High School,Other,>4,No,
+984,Male,no_enrollment,High School,Public Sector,1,No,No
+985,Male,no_enrollment,High School,Public Sector,2,No,
+986,Male,no_enrollment,High School,Public Sector,4,No,
+987,Male,no_enrollment,High School,Public Sector,>4,No,No
+988,Male,no_enrollment,High School,Public Sector,never,,Yes
+989,Male,no_enrollment,High School,Pvt Ltd,,No,
+990,Male,no_enrollment,High School,Pvt Ltd,1,No,No
+991,Male,no_enrollment,High School,Pvt Ltd,2,No,No
+992,Male,no_enrollment,High School,Pvt Ltd,3,No,No
+993,Male,no_enrollment,High School,Pvt Ltd,4,No,No
+994,Male,no_enrollment,High School,Pvt Ltd,>4,No,No
+995,Male,no_enrollment,High School,Pvt Ltd,never,No,No
+996,Male,no_enrollment,Masters,,,No,Yes
+997,Male,no_enrollment,Masters,,1,No,Yes
+998,Male,no_enrollment,Masters,,2,No,Yes
+999,Male,no_enrollment,Masters,,3,Yes,No
+1000,Male,no_enrollment,Masters,,4,No,Yes
+1001,Male,no_enrollment,Masters,,>4,Yes,No
+1002,Male,no_enrollment,Masters,,never,No,No
+1003,Male,no_enrollment,Masters,Early Stage Startup,1,No,No
+1004,Male,no_enrollment,Masters,Early Stage Startup,2,No,No
+1005,Male,no_enrollment,Masters,Early Stage Startup,3,No,No
+1006,Male,no_enrollment,Masters,Early Stage Startup,4,Yes,No
+1007,Male,no_enrollment,Masters,Early Stage Startup,>4,No,
+1008,Male,no_enrollment,Masters,Early Stage Startup,never,No,
+1009,Male,no_enrollment,Masters,Funded Startup,,No,
+1010,Male,no_enrollment,Masters,Funded Startup,1,Yes,No
+1011,Male,no_enrollment,Masters,Funded Startup,2,No,No
+1012,Male,no_enrollment,Masters,Funded Startup,3,No,No
+1013,Male,no_enrollment,Masters,Funded Startup,4,No,
+1014,Male,no_enrollment,Masters,Funded Startup,>4,No,No
+1015,Male,no_enrollment,Masters,Funded Startup,never,No,
+1016,Male,no_enrollment,Masters,NGO,1,No,No
+1017,Male,no_enrollment,Masters,NGO,2,No,No
+1018,Male,no_enrollment,Masters,NGO,3,No,No
+1019,Male,no_enrollment,Masters,NGO,4,No,No
+1020,Male,no_enrollment,Masters,NGO,>4,No,Yes
+1021,Male,no_enrollment,Masters,Other,1,No,
+1022,Male,no_enrollment,Masters,Other,2,No,
+1023,Male,no_enrollment,Masters,Other,4,No,
+1024,Male,no_enrollment,Masters,Other,>4,No,
+1025,Male,no_enrollment,Masters,Public Sector,1,No,No
+1026,Male,no_enrollment,Masters,Public Sector,2,No,No
+1027,Male,no_enrollment,Masters,Public Sector,3,No,No
+1028,Male,no_enrollment,Masters,Public Sector,4,No,No
+1029,Male,no_enrollment,Masters,Public Sector,>4,No,No
+1030,Male,no_enrollment,Masters,Public Sector,never,No,No
+1031,Male,no_enrollment,Masters,Pvt Ltd,,No,Yes
+1032,Male,no_enrollment,Masters,Pvt Ltd,1,No,Yes
+1033,Male,no_enrollment,Masters,Pvt Ltd,2,No,No
+1034,Male,no_enrollment,Masters,Pvt Ltd,3,No,No
+1035,Male,no_enrollment,Masters,Pvt Ltd,4,No,Yes
+1036,Male,no_enrollment,Masters,Pvt Ltd,>4,No,No
+1037,Male,no_enrollment,Masters,Pvt Ltd,never,No,No
+1038,Male,no_enrollment,Phd,,1,No,No
+1039,Male,no_enrollment,Phd,,2,Yes,
+1040,Male,no_enrollment,Phd,,3,No,
+1041,Male,no_enrollment,Phd,,4,No,No
+1042,Male,no_enrollment,Phd,,>4,No,No
+1043,Male,no_enrollment,Phd,,never,No,No
+1044,Male,no_enrollment,Phd,Early Stage Startup,1,No,
+1045,Male,no_enrollment,Phd,Early Stage Startup,2,No,
+1046,Male,no_enrollment,Phd,Early Stage Startup,>4,No,
+1047,Male,no_enrollment,Phd,Funded Startup,1,No,
+1048,Male,no_enrollment,Phd,Funded Startup,2,No,
+1049,Male,no_enrollment,Phd,Funded Startup,3,No,
+1050,Male,no_enrollment,Phd,Funded Startup,4,No,
+1051,Male,no_enrollment,Phd,Funded Startup,>4,No,
+1052,Male,no_enrollment,Phd,NGO,1,No,No
+1053,Male,no_enrollment,Phd,NGO,2,,No
+1054,Male,no_enrollment,Phd,NGO,3,,Yes
+1055,Male,no_enrollment,Phd,NGO,>4,Yes,No
+1056,Male,no_enrollment,Phd,NGO,never,No,
+1057,Male,no_enrollment,Phd,Public Sector,,,No
+1058,Male,no_enrollment,Phd,Public Sector,1,No,No
+1059,Male,no_enrollment,Phd,Public Sector,2,No,No
+1060,Male,no_enrollment,Phd,Public Sector,3,No,No
+1061,Male,no_enrollment,Phd,Public Sector,4,,No
+1062,Male,no_enrollment,Phd,Public Sector,>4,No,No
+1063,Male,no_enrollment,Phd,Public Sector,never,No,No
+1064,Male,no_enrollment,Phd,Pvt Ltd,1,No,No
+1065,Male,no_enrollment,Phd,Pvt Ltd,2,No,No
+1066,Male,no_enrollment,Phd,Pvt Ltd,3,No,
+1067,Male,no_enrollment,Phd,Pvt Ltd,4,No,No
+1068,Male,no_enrollment,Phd,Pvt Ltd,>4,No,No
+1069,Male,no_enrollment,Phd,Pvt Ltd,never,No,
+1070,Male,no_enrollment,Primary School,,,,No
+1071,Male,no_enrollment,Primary School,,1,No,No
+1072,Male,no_enrollment,Primary School,,2,No,No
+1073,Male,no_enrollment,Primary School,,3,No,
+1074,Male,no_enrollment,Primary School,,4,,No
+1075,Male,no_enrollment,Primary School,,>4,No,
+1076,Male,no_enrollment,Primary School,,never,No,No
+1077,Male,no_enrollment,Primary School,Funded Startup,1,No,
+1078,Male,no_enrollment,Primary School,Funded Startup,2,No,
+1079,Male,no_enrollment,Primary School,Funded Startup,4,Yes,
+1080,Male,no_enrollment,Primary School,NGO,1,,No
+1081,Male,no_enrollment,Primary School,NGO,2,No,
+1082,Male,no_enrollment,Primary School,Other,1,No,
+1083,Male,no_enrollment,Primary School,Public Sector,2,,No
+1084,Male,no_enrollment,Primary School,Pvt Ltd,1,No,No
+1085,Male,no_enrollment,Primary School,Pvt Ltd,2,No,
+1086,Male,no_enrollment,Primary School,Pvt Ltd,3,,No
+1087,Male,no_enrollment,Primary School,Pvt Ltd,4,Yes,
+1088,Male,no_enrollment,Primary School,Pvt Ltd,>4,No,No
+1089,Male,no_enrollment,Primary School,Pvt Ltd,never,No,No
+1090,Other,,,,1,Yes,
+1091,Other,,,,never,,No
+1092,Other,,Graduate,,1,No,Yes
+1093,Other,,Graduate,,never,,Yes
+1094,Other,,Graduate,Pvt Ltd,1,No,
+1095,Other,,Graduate,Pvt Ltd,never,No,
+1096,Other,,High School,,never,,Yes
+1097,Other,,Phd,,1,Yes,
+1098,Other,,Phd,,never,No,
+1099,Other,Full time course,Graduate,,1,Yes,Yes
+1100,Other,Full time course,Graduate,,2,,No
+1101,Other,Full time course,Graduate,,3,,Yes
+1102,Other,Full time course,Graduate,,never,Yes,Yes
+1103,Other,Full time course,Graduate,Early Stage Startup,1,,No
+1104,Other,Full time course,Graduate,NGO,1,,No
+1105,Other,Full time course,Graduate,Public Sector,1,,Yes
+1106,Other,Full time course,Graduate,Pvt Ltd,1,No,No
+1107,Other,Full time course,Graduate,Pvt Ltd,2,,No
+1108,Other,Full time course,Graduate,Pvt Ltd,never,Yes,
+1109,Other,Full time course,High School,,1,,Yes
+1110,Other,Full time course,High School,,never,,No
+1111,Other,Full time course,High School,Public Sector,3,,Yes
+1112,Other,Full time course,High School,Pvt Ltd,1,No,No
+1113,Other,Full time course,High School,Pvt Ltd,2,,No
+1114,Other,Full time course,High School,Pvt Ltd,3,,No
+1115,Other,Full time course,High School,Pvt Ltd,never,,No
+1116,Other,Full time course,Masters,,1,No,
+1117,Other,Full time course,Masters,,2,,No
+1118,Other,Full time course,Masters,Public Sector,>4,,No
+1119,Other,Full time course,Masters,Pvt Ltd,1,No,
+1120,Other,Full time course,Masters,Pvt Ltd,>4,No,
+1121,Other,Full time course,Phd,,1,No,
+1122,Other,Part time course,,Pvt Ltd,1,Yes,
+1123,Other,Part time course,Graduate,,>4,,Yes
+1124,Other,Part time course,Graduate,,never,No,
+1125,Other,Part time course,Graduate,Funded Startup,1,,Yes
+1126,Other,Part time course,Graduate,Other,2,,Yes
+1127,Other,Part time course,Graduate,Pvt Ltd,1,Yes,Yes
+1128,Other,Part time course,Graduate,Pvt Ltd,2,,Yes
+1129,Other,Part time course,Graduate,Pvt Ltd,4,No,
+1130,Other,Part time course,Graduate,Pvt Ltd,never,,No
+1131,Other,Part time course,High School,,1,No,
+1132,Other,Part time course,High School,Funded Startup,1,,No
+1133,Other,Part time course,High School,Public Sector,2,,No
+1134,Other,Part time course,High School,Pvt Ltd,1,No,
+1135,Other,Part time course,High School,Pvt Ltd,2,,No
+1136,Other,Part time course,High School,Pvt Ltd,>4,No,
+1137,Other,Part time course,High School,Pvt Ltd,never,No,
+1138,Other,Part time course,Masters,Funded Startup,2,No,
+1139,Other,no_enrollment,,,1,No,No
+1140,Other,no_enrollment,,,never,No,
+1141,Other,no_enrollment,Graduate,,1,Yes,
+1142,Other,no_enrollment,Graduate,,2,Yes,
+1143,Other,no_enrollment,Graduate,,4,No,
+1144,Other,no_enrollment,Graduate,,>4,Yes,No
+1145,Other,no_enrollment,Graduate,,never,Yes,No
+1146,Other,no_enrollment,Graduate,Early Stage Startup,1,No,
+1147,Other,no_enrollment,Graduate,Funded Startup,1,No,No
+1148,Other,no_enrollment,Graduate,Funded Startup,3,,No
+1149,Other,no_enrollment,Graduate,NGO,1,No,
+1150,Other,no_enrollment,Graduate,NGO,>4,,No
+1151,Other,no_enrollment,Graduate,Public Sector,1,No,
+1152,Other,no_enrollment,Graduate,Public Sector,4,Yes,
+1153,Other,no_enrollment,Graduate,Public Sector,>4,No,No
+1154,Other,no_enrollment,Graduate,Pvt Ltd,1,Yes,No
+1155,Other,no_enrollment,Graduate,Pvt Ltd,2,No,
+1156,Other,no_enrollment,Graduate,Pvt Ltd,3,No,
+1157,Other,no_enrollment,Graduate,Pvt Ltd,4,No,
+1158,Other,no_enrollment,Graduate,Pvt Ltd,>4,No,Yes
+1159,Other,no_enrollment,Graduate,Pvt Ltd,never,No,
+1160,Other,no_enrollment,High School,,2,No,No
+1161,Other,no_enrollment,High School,,never,No,No
+1162,Other,no_enrollment,High School,Funded Startup,4,Yes,
+1163,Other,no_enrollment,High School,Pvt Ltd,1,No,
+1164,Other,no_enrollment,High School,Pvt Ltd,3,,No
+1165,Other,no_enrollment,High School,Pvt Ltd,never,No,No
+1166,Other,no_enrollment,Masters,,1,No,No
+1167,Other,no_enrollment,Masters,,3,Yes,
+1168,Other,no_enrollment,Masters,,4,No,
+1169,Other,no_enrollment,Masters,,>4,No,
+1170,Other,no_enrollment,Masters,Pvt Ltd,1,No,No
+1171,Other,no_enrollment,Masters,Pvt Ltd,2,No,No
+1172,Other,no_enrollment,Masters,Pvt Ltd,3,,No
+1173,Other,no_enrollment,Masters,Pvt Ltd,4,,No
+1174,Other,no_enrollment,Masters,Pvt Ltd,>4,No,
+1175,Other,no_enrollment,Phd,Pvt Ltd,>4,No,
+1176,Other,no_enrollment,Primary School,,1,,No
+1177,Other,no_enrollment,Primary School,,never,,No
+1178,Other,no_enrollment,Primary School,Pvt Ltd,never,,No

@@ -1,0 +1,445 @@
+sex,education,having_children_flg,region,family_status,phone_operator,is_client,bad_client_target
+male,Higher education,0,2,Married,1,0,No
+female,Secondary special education,0,2,Another,0,1,No
+female,Secondary special education,0,2,Another,1,1,Yes
+female,Secondary special education,0,2,Another,0,0,No
+male,Secondary education,1,2,Another,1,0,No
+female,Higher education,1,2,Another,1,1,No
+male,Secondary special education,0,2,Married,1,0,No
+female,Secondary special education,1,2,Another,2,1,No
+male,Higher education,1,2,Married,3,0,No
+male,Secondary special education,1,2,Another,0,1,No
+male,Secondary special education,1,2,Another,1,0,Yes
+female,Higher education,0,2,Another,0,1,No
+male,Higher education,1,2,Another,1,0,No
+female,Higher education,1,0,Another,1,1,No
+male,Secondary special education,0,0,Married,1,1,No
+male,Higher education,1,2,Married,2,0,Yes
+female,Secondary special education,1,2,Another,0,1,No
+female,Higher education,1,2,Another,4,1,No
+female,Secondary special education,0,0,Another,1,1,No
+female,Secondary special education,0,1,Another,1,1,No
+female,Secondary education,0,0,Married,4,1,Yes
+male,Higher education,1,2,Married,3,1,No
+male,Higher education,0,2,Another,3,1,No
+female,Secondary education,0,2,Another,0,1,No
+male,Secondary special education,1,2,Another,1,1,No
+female,Higher education,0,1,Married,1,0,No
+male,Secondary special education,0,2,Another,1,0,No
+female,Secondary special education,1,2,Another,1,0,No
+female,Secondary special education,0,2,Another,1,0,No
+male,Secondary special education,0,2,Another,0,1,No
+female,Secondary special education,1,2,Married,0,1,No
+male,Secondary special education,1,2,Married,0,1,No
+female,Higher education,0,2,Another,0,0,No
+male,Secondary education,1,2,Married,3,1,No
+male,Secondary special education,0,2,Another,1,1,No
+male,Higher education,0,0,Another,2,1,No
+female,Higher education,0,2,Married,1,1,No
+female,Secondary education,0,2,Another,3,1,No
+male,Secondary special education,1,2,Another,0,0,No
+female,Secondary special education,1,2,Another,3,0,No
+female,Secondary special education,1,2,Another,2,0,No
+female,Secondary special education,0,2,Married,2,1,No
+female,Incomplete higher education,1,2,Another,0,0,No
+male,Secondary special education,1,0,Married,0,0,No
+male,Secondary special education,0,0,Another,0,0,No
+male,Higher education,1,0,Another,2,0,No
+male,Higher education,0,0,Married,1,1,No
+male,Secondary special education,1,0,Another,3,1,No
+male,Secondary special education,1,2,Married,1,0,No
+male,Secondary education,1,2,Married,2,1,No
+female,Incomplete higher education,0,2,Another,2,1,No
+female,Incomplete higher education,0,0,Another,1,0,No
+male,Higher education,1,0,Another,3,0,No
+female,Secondary special education,0,0,Married,0,0,No
+male,Secondary special education,1,0,Married,3,1,No
+male,Higher education,1,2,Another,2,1,No
+female,Secondary special education,0,2,Another,2,0,No
+female,Higher education,0,0,Another,0,0,No
+male,Higher education,0,2,Married,3,1,No
+female,Secondary special education,0,0,Married,1,1,No
+male,Secondary special education,0,2,Married,2,0,No
+male,Secondary education,0,2,Another,1,1,No
+female,Higher education,0,0,Another,1,0,No
+male,Higher education,0,0,Another,2,0,No
+female,Secondary special education,0,2,Married,0,1,No
+male,Higher education,1,2,Another,1,1,No
+male,Incomplete higher education,1,2,Another,1,0,No
+male,Higher education,0,1,Another,1,1,No
+male,Secondary education,1,2,Another,2,1,No
+female,Higher education,1,2,Another,0,0,No
+male,Secondary education,1,2,Another,2,0,No
+female,Higher education,1,0,Married,2,1,Yes
+female,Higher education,1,0,Another,0,1,No
+female,Higher education,0,2,Another,1,1,No
+male,Secondary special education,0,2,Another,2,1,No
+male,Secondary special education,1,2,Another,3,1,No
+male,Higher education,0,2,Another,3,0,No
+female,Higher education,1,0,Another,1,0,No
+male,Secondary special education,0,1,Another,0,0,No
+male,Secondary education,1,0,Another,0,1,No
+male,Secondary education,0,2,Another,2,1,No
+female,Secondary special education,1,2,Another,1,1,No
+male,Secondary special education,0,2,Another,0,0,No
+female,Incomplete higher education,1,2,Another,1,0,No
+female,Secondary education,0,0,Another,1,0,No
+male,Secondary education,0,2,Another,0,0,No
+female,Secondary education,0,2,Another,0,0,No
+male,Higher education,0,2,Another,1,1,No
+male,Secondary special education,1,2,Married,4,0,No
+male,Higher education,0,2,Another,0,1,No
+male,Higher education,1,2,Married,2,1,No
+male,Secondary education,0,2,Married,1,1,Yes
+male,Higher education,0,2,Another,1,0,No
+male,Secondary special education,0,2,Married,0,1,No
+female,Higher education,0,2,Married,3,1,No
+male,Secondary education,1,2,Married,1,1,No
+male,Higher education,1,2,Another,0,1,Yes
+male,Secondary special education,0,2,Married,3,1,No
+female,Higher education,1,2,Married,2,1,No
+female,Secondary education,1,2,Another,0,0,No
+male,Incomplete higher education,1,2,Married,2,0,No
+female,Secondary education,0,2,Married,1,1,Yes
+male,Higher education,0,2,Married,2,0,Yes
+female,Higher education,0,2,Another,2,0,Yes
+male,Secondary education,1,2,Another,0,1,No
+male,Secondary education,0,2,Another,2,0,No
+female,Secondary special education,1,2,Unmarried,3,1,No
+female,Secondary special education,0,1,Unmarried,1,1,No
+female,Secondary special education,0,2,Another,2,1,No
+female,Secondary education,0,0,Another,0,1,No
+male,Secondary special education,1,0,Married,1,1,No
+female,Secondary special education,1,1,Another,2,1,No
+female,Secondary special education,0,2,Married,1,0,No
+female,Secondary education,1,2,Another,1,1,No
+male,Higher education,0,2,Another,2,1,Yes
+female,Higher education,0,2,Married,2,1,No
+male,Secondary special education,1,2,Married,2,1,No
+male,Secondary special education,1,2,Another,2,0,No
+female,Secondary special education,1,2,Married,1,1,No
+male,Higher education,1,2,Another,2,0,No
+male,Secondary special education,1,1,Another,1,0,No
+male,Secondary education,1,2,Another,1,1,No
+female,Higher education,0,1,Another,1,1,No
+female,Secondary education,0,2,Unmarried,1,0,No
+female,Secondary special education,0,2,Married,0,0,Yes
+female,Secondary education,0,2,Married,0,0,No
+male,Secondary education,0,2,Another,3,0,No
+female,Higher education,0,1,Another,0,1,No
+female,Higher education,1,1,Another,1,0,No
+male,Secondary special education,0,2,Another,3,0,No
+male,Secondary special education,1,2,Married,1,1,No
+male,Higher education,0,2,Another,0,0,No
+female,Secondary education,0,2,Another,2,1,No
+male,Higher education,0,0,Unmarried,1,1,No
+male,Incomplete higher education,0,2,Another,1,1,No
+female,Secondary special education,1,0,Another,3,0,No
+male,Secondary education,0,2,Another,0,1,No
+female,Higher education,0,2,Another,3,0,No
+male,Higher education,0,0,Another,0,1,No
+male,Secondary special education,1,2,Another,2,1,No
+female,Secondary special education,0,0,Married,2,1,No
+female,Higher education,1,2,Another,3,0,No
+female,Higher education,1,2,Unmarried,2,0,No
+male,Secondary special education,0,2,Another,4,1,No
+male,Higher education,0,1,Another,0,1,No
+male,Higher education,1,1,Another,1,1,No
+male,Higher education,0,0,Another,1,1,No
+male,Secondary special education,0,0,Another,0,1,No
+male,Secondary special education,0,2,Married,1,1,Yes
+female,Incomplete higher education,0,0,Another,3,1,No
+female,Secondary special education,0,2,Married,1,1,No
+male,Incomplete higher education,1,1,Married,1,0,No
+male,Secondary special education,0,2,Another,2,0,No
+female,Secondary education,0,2,Married,3,1,Yes
+female,Secondary special education,1,0,Another,1,1,Yes
+male,Secondary special education,1,1,Another,2,0,No
+male,Incomplete higher education,0,2,Married,0,1,No
+female,Secondary special education,0,2,Another,3,1,No
+female,Secondary special education,1,2,Another,0,0,No
+female,PhD degree,1,2,Another,2,1,No
+male,Higher education,1,2,Another,0,0,No
+male,Secondary education,0,2,Married,0,1,No
+male,Higher education,0,2,Married,0,0,No
+male,Higher education,1,2,Married,1,0,No
+female,Secondary education,0,2,Another,1,1,Yes
+female,Secondary education,1,2,Another,0,1,No
+male,Higher education,0,0,Married,0,1,No
+female,Higher education,0,0,Another,1,1,No
+female,Higher education,1,0,Married,3,1,No
+female,Secondary special education,1,2,Unmarried,0,0,No
+female,Secondary special education,1,0,Another,0,1,No
+male,Higher education,1,2,Another,3,1,No
+female,Secondary education,0,2,Unmarried,0,0,No
+male,Higher education,1,1,Married,0,0,No
+female,Secondary education,1,2,Another,2,1,No
+female,Higher education,1,2,Another,2,0,No
+male,Secondary special education,0,2,Another,3,1,No
+male,Secondary special education,0,2,Married,2,1,Yes
+male,Higher education,0,0,Married,3,1,No
+female,Secondary special education,0,0,Another,1,0,No
+male,Higher education,0,2,Another,2,0,No
+female,Higher education,0,2,Another,1,0,No
+female,Secondary special education,1,0,Another,0,0,No
+male,Incomplete higher education,1,0,Married,1,1,No
+female,Secondary special education,0,0,Another,2,1,No
+female,Secondary special education,1,2,Married,4,1,No
+female,Incomplete higher education,0,2,Another,1,0,No
+female,Higher education,0,2,Married,0,1,No
+female,Secondary special education,0,2,Another,4,1,No
+male,Secondary special education,1,0,Another,1,0,No
+male,Higher education,0,2,Unmarried,1,0,No
+female,Incomplete higher education,1,2,Another,2,0,No
+female,Secondary education,0,1,Another,1,0,Yes
+male,Higher education,0,2,Married,2,1,No
+male,Secondary special education,1,2,Unmarried,1,0,No
+male,Secondary education,0,0,Another,2,0,No
+female,Higher education,0,2,Married,1,0,No
+female,Secondary special education,1,2,Married,0,0,No
+female,Secondary education,0,0,Another,2,1,No
+female,Secondary special education,0,2,Married,4,1,No
+female,Higher education,1,2,Another,1,0,No
+male,Secondary education,1,2,Another,0,0,No
+female,Secondary special education,1,2,Married,1,0,No
+male,Secondary special education,0,2,Married,0,0,No
+female,Secondary special education,0,0,Another,0,0,No
+male,Secondary special education,0,1,Another,1,0,No
+male,Secondary education,0,0,Married,0,0,No
+male,Secondary special education,1,2,Married,0,0,No
+female,Higher education,0,2,Married,4,1,No
+male,Higher education,1,0,Another,0,0,No
+female,Higher education,0,0,Another,2,1,No
+female,Secondary special education,1,2,Unmarried,1,1,No
+female,Secondary special education,1,2,Married,3,1,No
+female,Higher education,0,2,Another,4,1,No
+male,Higher education,1,2,Another,3,0,No
+male,Higher education,1,2,Married,0,0,No
+male,Higher education,1,2,Married,1,1,No
+male,Higher education,0,0,Married,1,0,No
+female,Secondary special education,1,2,Another,3,1,No
+female,Incomplete higher education,0,2,Another,3,1,No
+male,Secondary education,1,1,Another,1,0,No
+male,Incomplete secondary education,1,2,Another,2,0,No
+female,Secondary special education,0,1,Another,0,0,No
+female,Secondary special education,1,2,Unmarried,1,0,No
+female,Secondary special education,1,2,Unmarried,4,1,No
+male,Higher education,0,2,Married,1,1,Yes
+female,Incomplete higher education,0,2,Another,1,1,No
+female,Incomplete higher education,0,0,Another,0,1,Yes
+male,Incomplete higher education,1,2,Another,0,1,No
+female,Secondary special education,0,0,Another,0,1,No
+male,Incomplete higher education,0,1,Married,1,0,No
+male,Incomplete higher education,0,2,Another,0,1,No
+female,Higher education,1,2,Another,0,1,No
+male,Incomplete higher education,0,2,Another,2,1,No
+female,Secondary education,0,2,Another,3,0,No
+female,Higher education,1,2,Another,2,1,No
+female,Higher education,0,1,Another,1,0,No
+female,Higher education,0,0,Married,1,0,No
+male,Higher education,0,0,Married,0,0,No
+male,Higher education,0,2,Unmarried,0,1,No
+female,Higher education,1,0,Another,4,0,No
+female,Higher education,0,0,Married,2,1,No
+male,Higher education,1,0,Another,1,0,No
+female,Secondary special education,1,1,Unmarried,3,0,No
+male,Secondary special education,1,2,Another,3,0,No
+male,Secondary education,1,2,Another,3,1,No
+female,Secondary special education,0,2,Married,2,0,No
+female,Secondary education,0,2,Married,1,0,Yes
+female,Secondary education,0,2,Married,2,1,Yes
+female,Higher education,0,0,Unmarried,1,1,No
+male,Incomplete higher education,1,2,Another,2,0,No
+male,Incomplete higher education,0,0,Another,1,0,No
+female,Secondary education,0,2,Married,0,1,Yes
+female,Secondary special education,0,0,Unmarried,2,1,Yes
+male,Incomplete higher education,0,2,Another,2,0,No
+female,Higher education,1,0,Another,0,0,No
+female,Higher education,0,2,Another,2,1,Yes
+male,Secondary education,0,2,Married,1,0,Yes
+male,Secondary special education,1,0,Another,1,1,Yes
+female,Secondary special education,0,2,Unmarried,0,1,No
+female,Higher education,0,1,Married,2,0,No
+male,Higher education,0,1,Married,2,0,No
+female,Secondary education,1,2,Another,1,0,Yes
+male,Incomplete higher education,0,0,Married,0,1,No
+female,Higher education,0,0,Another,2,0,No
+male,Secondary special education,1,2,Married,3,0,No
+female,Higher education,1,1,Married,1,1,No
+female,Higher education,0,2,Married,0,0,No
+male,Secondary education,0,2,Another,4,1,No
+female,Secondary education,1,2,Married,2,0,No
+female,Secondary special education,0,0,Married,1,0,Yes
+female,Higher education,0,0,Another,0,1,No
+female,Secondary special education,1,0,Another,2,0,No
+male,Incomplete secondary education,0,2,Another,1,0,No
+male,PhD degree,0,2,Another,1,0,No
+female,Incomplete higher education,0,2,Unmarried,0,0,No
+male,Higher education,0,0,Another,3,0,No
+male,Higher education,1,2,Unmarried,0,1,No
+male,Higher education,0,0,Another,1,0,No
+male,Secondary education,1,0,Another,2,0,No
+male,Higher education,0,0,Another,3,1,No
+male,Higher education,1,2,Married,0,1,No
+male,Incomplete higher education,1,2,Another,0,0,No
+male,Secondary special education,1,2,Another,4,1,No
+female,Secondary education,0,0,Another,3,1,No
+female,Higher education,0,0,Another,3,0,No
+female,Secondary education,0,2,Another,1,0,No
+female,Secondary special education,0,2,Unmarried,1,1,No
+male,Higher education,0,0,Unmarried,0,1,No
+female,Secondary special education,1,0,Another,1,0,No
+female,Secondary special education,0,0,Married,0,1,Yes
+male,Secondary special education,0,1,Another,1,1,No
+female,Incomplete higher education,0,0,Married,2,1,No
+male,Higher education,1,1,Another,3,0,No
+female,Secondary education,1,2,Married,0,0,No
+male,Secondary education,0,2,Another,3,1,No
+male,Higher education,0,1,Another,3,1,Yes
+female,Secondary special education,1,2,Another,4,1,No
+male,Higher education,1,0,Another,3,1,No
+male,Secondary education,1,0,Another,3,1,No
+male,Incomplete higher education,0,0,Another,0,0,No
+male,Secondary special education,1,0,Another,0,1,No
+male,Secondary special education,0,0,Another,1,0,No
+female,Higher education,0,1,Married,2,1,No
+male,Higher education,1,2,Unmarried,1,0,No
+male,Incomplete higher education,0,0,Another,1,1,No
+male,Higher education,1,0,Another,0,1,No
+male,Secondary education,0,1,Married,0,1,No
+female,Secondary special education,0,2,Unmarried,2,1,No
+male,Secondary special education,1,2,Married,2,0,No
+female,Higher education,0,0,Married,1,1,No
+male,Secondary special education,1,2,Married,3,1,No
+female,Incomplete higher education,1,2,Another,0,1,No
+male,Secondary special education,1,2,Unmarried,2,0,No
+male,Secondary special education,1,0,Unmarried,0,1,No
+female,Secondary special education,1,0,Married,0,0,No
+male,Secondary education,0,1,Married,1,0,No
+female,Secondary special education,0,0,Another,3,0,No
+male,Secondary education,0,0,Another,0,1,Yes
+female,Incomplete higher education,1,2,Another,1,1,No
+male,Secondary special education,1,2,Another,4,0,No
+female,Secondary special education,0,2,Unmarried,3,0,No
+female,Incomplete higher education,0,1,Another,2,1,No
+male,Higher education,0,0,Another,0,0,No
+male,Secondary special education,0,2,Married,3,0,No
+male,Higher education,0,2,Another,4,1,No
+male,Secondary special education,0,0,Married,0,1,No
+male,Higher education,0,2,Married,3,0,No
+female,Higher education,0,2,Unmarried,3,1,Yes
+female,Secondary education,1,0,Another,1,1,No
+male,Secondary special education,1,0,Another,3,0,No
+male,Incomplete higher education,0,2,Another,3,0,No
+male,Secondary special education,0,2,Unmarried,1,0,No
+female,Higher education,0,1,Married,0,0,No
+female,Incomplete higher education,1,2,Married,1,1,No
+male,Higher education,1,2,Unmarried,1,1,No
+female,Secondary special education,1,1,Married,0,1,No
+male,Secondary special education,0,2,Another,4,0,No
+male,Secondary special education,1,2,Unmarried,0,1,No
+male,Higher education,0,1,Another,1,0,No
+female,Secondary education,1,2,Another,3,1,No
+female,Secondary special education,0,2,Another,3,0,No
+male,Secondary special education,1,1,Married,1,1,No
+female,Secondary education,0,2,Another,2,0,No
+male,Higher education,0,2,Married,0,1,No
+female,Incomplete higher education,0,2,Another,0,1,No
+male,Incomplete higher education,0,2,Married,1,0,Yes
+female,Incomplete higher education,1,1,Unmarried,0,0,No
+male,Higher education,0,0,Married,3,0,No
+female,Higher education,1,2,Another,3,1,No
+female,Secondary education,1,2,Married,1,0,No
+female,Secondary special education,1,0,Unmarried,0,1,Yes
+female,Higher education,1,2,Married,3,1,No
+female,Higher education,1,2,Married,0,1,No
+female,Higher education,1,0,Another,2,0,No
+female,Secondary special education,0,2,Unmarried,3,1,No
+male,Secondary education,0,0,Another,0,0,No
+male,Incomplete higher education,1,0,Another,1,1,No
+male,Higher education,1,2,Unmarried,3,0,No
+female,Higher education,0,0,Married,0,1,No
+male,Incomplete higher education,1,2,Married,1,0,No
+male,Higher education,1,2,Unmarried,2,0,No
+female,Secondary education,0,0,Married,0,1,No
+male,Higher education,1,0,Another,2,1,No
+female,Secondary special education,1,2,Married,2,1,No
+male,Higher education,1,0,Married,3,0,Yes
+male,Secondary special education,1,2,Unmarried,3,1,No
+female,Higher education,1,1,Another,0,1,No
+male,Higher education,1,0,Another,1,1,No
+female,Incomplete secondary education,0,2,Another,3,1,No
+female,Secondary special education,0,1,Married,0,1,No
+male,Incomplete higher education,0,2,Unmarried,0,0,No
+male,Incomplete higher education,0,2,Another,1,0,No
+male,Secondary special education,0,2,Unmarried,0,0,No
+male,Higher education,0,2,Unmarried,0,0,No
+male,Secondary special education,1,2,Unmarried,1,1,No
+male,Secondary special education,1,0,Another,4,1,No
+female,Higher education,1,2,Unmarried,3,0,No
+female,Secondary special education,0,1,Married,1,1,No
+female,Incomplete secondary education,1,1,Another,1,1,No
+male,Secondary special education,1,0,Unmarried,2,0,No
+male,Secondary education,1,2,Married,1,0,No
+male,Secondary special education,0,2,Married,4,0,No
+female,PhD degree,1,2,Another,1,0,No
+male,Incomplete higher education,0,0,Another,3,1,No
+female,Incomplete higher education,0,1,Married,1,1,No
+male,Incomplete higher education,0,0,Married,1,1,No
+male,Higher education,0,1,Another,0,0,No
+male,Secondary special education,0,2,Unmarried,1,1,Yes
+female,Secondary education,1,2,Married,1,1,No
+female,Secondary education,1,0,Another,0,0,No
+male,Incomplete higher education,0,2,Unmarried,1,1,No
+male,Higher education,0,2,Unmarried,3,0,No
+male,Secondary special education,1,0,Married,2,1,No
+male,Higher education,0,1,Unmarried,0,0,No
+female,Secondary special education,0,2,Another,4,0,Yes
+female,Secondary special education,1,2,Married,3,0,No
+female,Higher education,0,0,Unmarried,1,0,No
+male,Higher education,1,0,Married,1,0,No
+male,Secondary special education,0,2,Unmarried,0,1,No
+male,Incomplete higher education,1,2,Married,1,1,No
+female,Secondary special education,1,0,Married,2,1,No
+female,Secondary education,0,0,Another,0,0,Yes
+male,Incomplete higher education,0,2,Unmarried,0,1,No
+female,Higher education,1,2,Married,1,0,No
+female,Higher education,1,0,Another,3,1,No
+male,Secondary special education,0,0,Another,2,0,No
+male,Secondary education,1,0,Another,0,0,No
+female,Higher education,1,2,Married,0,0,No
+male,Incomplete higher education,1,2,Another,1,1,No
+female,Incomplete higher education,0,2,Unmarried,0,1,No
+female,Secondary special education,0,2,Unmarried,1,0,No
+female,Higher education,0,2,Another,3,1,No
+male,Incomplete higher education,1,2,Another,2,1,No
+female,Incomplete higher education,0,2,Married,0,1,No
+male,Higher education,1,0,Married,1,1,No
+female,Higher education,1,2,Unmarried,0,1,No
+female,Secondary special education,1,2,Married,2,0,No
+female,Secondary special education,0,2,Married,3,1,No
+male,Higher education,0,0,Unmarried,1,0,No
+female,Incomplete higher education,0,0,Married,0,0,No
+male,Secondary special education,0,0,Another,3,1,No
+male,Higher education,0,0,Married,2,0,No
+female,Secondary education,0,1,Another,0,1,No
+male,Secondary special education,0,1,Married,1,1,No
+male,Secondary education,1,2,Married,0,1,No
+female,Secondary special education,1,2,Unmarried,0,1,No
+male,Secondary education,0,2,Married,3,1,No
+female,Secondary special education,1,0,Unmarried,1,1,Yes
+female,Incomplete higher education,0,0,Married,0,1,No
+female,Secondary special education,0,1,Another,0,1,No
+male,Secondary education,0,2,Unmarried,0,0,No
+male,Secondary education,0,2,Married,2,0,No
+female,Incomplete higher education,0,1,Another,1,1,No
+female,Higher education,0,2,Unmarried,0,0,Yes
+female,Incomplete higher education,1,0,Another,2,0,No
+female,Secondary education,0,1,Another,1,1,No
+male,Secondary special education,0,0,Another,3,0,No
+male,Higher education,0,1,Married,0,0,No
+male,Higher education,1,1,Unmarried,0,1,No
+female,Secondary education,1,1,Another,0,0,No
+female,Incomplete secondary education,1,2,Married,1,0,No
+female,Secondary special education,1,2,Another,4,0,No
+male,Secondary special education,0,2,Unmarried,3,0,Yes

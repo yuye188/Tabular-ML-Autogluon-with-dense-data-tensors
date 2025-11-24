@@ -1,0 +1,292 @@
+,education,having_children_flg,region,family_status,phone_operator,is_client,bad_client_target female,bad_client_target male
+0,Higher education,0,0,Another,0,0,No,No
+1,Higher education,0,0,Another,0,1,No,No
+2,Higher education,0,0,Another,1,0,No,No
+3,Higher education,0,0,Another,1,1,No,No
+4,Higher education,0,0,Another,2,0,No,No
+5,Higher education,0,0,Another,2,1,No,No
+6,Higher education,0,0,Another,3,0,No,No
+7,Higher education,0,0,Another,3,1,,No
+8,Higher education,0,0,Married,0,0,,No
+9,Higher education,0,0,Married,0,1,No,No
+10,Higher education,0,0,Married,1,0,No,No
+11,Higher education,0,0,Married,1,1,No,No
+12,Higher education,0,0,Married,2,0,,No
+13,Higher education,0,0,Married,2,1,No,
+14,Higher education,0,0,Married,3,0,,No
+15,Higher education,0,0,Married,3,1,,No
+16,Higher education,0,0,Unmarried,0,1,,No
+17,Higher education,0,0,Unmarried,1,0,No,No
+18,Higher education,0,0,Unmarried,1,1,No,No
+19,Higher education,0,1,Another,0,0,,No
+20,Higher education,0,1,Another,0,1,No,No
+21,Higher education,0,1,Another,1,0,No,No
+22,Higher education,0,1,Another,1,1,No,No
+23,Higher education,0,1,Another,3,1,,Yes
+24,Higher education,0,1,Married,0,0,No,No
+25,Higher education,0,1,Married,1,0,No,
+26,Higher education,0,1,Married,2,0,No,No
+27,Higher education,0,1,Married,2,1,No,
+28,Higher education,0,1,Unmarried,0,0,,No
+29,Higher education,0,2,Another,0,0,No,No
+30,Higher education,0,2,Another,0,1,No,No
+31,Higher education,0,2,Another,1,0,No,No
+32,Higher education,0,2,Another,1,1,No,No
+33,Higher education,0,2,Another,2,0,Yes,No
+34,Higher education,0,2,Another,2,1,Yes,Yes
+35,Higher education,0,2,Another,3,0,No,No
+36,Higher education,0,2,Another,3,1,No,No
+37,Higher education,0,2,Another,4,1,No,No
+38,Higher education,0,2,Married,0,0,No,No
+39,Higher education,0,2,Married,0,1,No,No
+40,Higher education,0,2,Married,1,0,No,No
+41,Higher education,0,2,Married,1,1,No,Yes
+42,Higher education,0,2,Married,2,0,,Yes
+43,Higher education,0,2,Married,2,1,No,No
+44,Higher education,0,2,Married,3,0,,No
+45,Higher education,0,2,Married,3,1,No,No
+46,Higher education,0,2,Married,4,1,No,
+47,Higher education,0,2,Unmarried,0,0,Yes,No
+48,Higher education,0,2,Unmarried,0,1,,No
+49,Higher education,0,2,Unmarried,1,0,,No
+50,Higher education,0,2,Unmarried,3,0,,No
+51,Higher education,0,2,Unmarried,3,1,Yes,
+52,Higher education,1,0,Another,0,0,No,No
+53,Higher education,1,0,Another,0,1,No,No
+54,Higher education,1,0,Another,1,0,No,No
+55,Higher education,1,0,Another,1,1,No,No
+56,Higher education,1,0,Another,2,0,No,No
+57,Higher education,1,0,Another,2,1,,No
+58,Higher education,1,0,Another,3,0,,No
+59,Higher education,1,0,Another,3,1,No,No
+60,Higher education,1,0,Another,4,0,No,
+61,Higher education,1,0,Married,1,0,,No
+62,Higher education,1,0,Married,1,1,,No
+63,Higher education,1,0,Married,2,1,Yes,
+64,Higher education,1,0,Married,3,0,,Yes
+65,Higher education,1,0,Married,3,1,No,
+66,Higher education,1,1,Another,0,1,No,
+67,Higher education,1,1,Another,1,0,No,
+68,Higher education,1,1,Another,1,1,,No
+69,Higher education,1,1,Another,3,0,,No
+70,Higher education,1,1,Married,0,0,,No
+71,Higher education,1,1,Married,1,1,No,
+72,Higher education,1,1,Unmarried,0,1,,No
+73,Higher education,1,2,Another,0,0,No,No
+74,Higher education,1,2,Another,0,1,No,Yes
+75,Higher education,1,2,Another,1,0,No,No
+76,Higher education,1,2,Another,1,1,No,No
+77,Higher education,1,2,Another,2,0,No,No
+78,Higher education,1,2,Another,2,1,No,No
+79,Higher education,1,2,Another,3,0,No,No
+80,Higher education,1,2,Another,3,1,No,No
+81,Higher education,1,2,Another,4,1,No,
+82,Higher education,1,2,Married,0,0,No,No
+83,Higher education,1,2,Married,0,1,No,No
+84,Higher education,1,2,Married,1,0,No,No
+85,Higher education,1,2,Married,1,1,,No
+86,Higher education,1,2,Married,2,0,,Yes
+87,Higher education,1,2,Married,2,1,No,No
+88,Higher education,1,2,Married,3,0,,No
+89,Higher education,1,2,Married,3,1,No,No
+90,Higher education,1,2,Unmarried,0,1,No,No
+91,Higher education,1,2,Unmarried,1,0,,No
+92,Higher education,1,2,Unmarried,1,1,,No
+93,Higher education,1,2,Unmarried,2,0,No,No
+94,Higher education,1,2,Unmarried,3,0,No,No
+95,Incomplete higher education,0,0,Another,0,0,,No
+96,Incomplete higher education,0,0,Another,0,1,Yes,
+97,Incomplete higher education,0,0,Another,1,0,No,No
+98,Incomplete higher education,0,0,Another,1,1,,No
+99,Incomplete higher education,0,0,Another,3,1,No,No
+100,Incomplete higher education,0,0,Married,0,0,No,
+101,Incomplete higher education,0,0,Married,0,1,No,No
+102,Incomplete higher education,0,0,Married,1,1,,No
+103,Incomplete higher education,0,0,Married,2,1,No,
+104,Incomplete higher education,0,1,Another,1,1,No,
+105,Incomplete higher education,0,1,Another,2,1,No,
+106,Incomplete higher education,0,1,Married,1,0,,No
+107,Incomplete higher education,0,1,Married,1,1,No,
+108,Incomplete higher education,0,2,Another,0,1,No,No
+109,Incomplete higher education,0,2,Another,1,0,No,No
+110,Incomplete higher education,0,2,Another,1,1,No,No
+111,Incomplete higher education,0,2,Another,2,0,,No
+112,Incomplete higher education,0,2,Another,2,1,No,No
+113,Incomplete higher education,0,2,Another,3,0,,No
+114,Incomplete higher education,0,2,Another,3,1,No,
+115,Incomplete higher education,0,2,Married,0,1,No,No
+116,Incomplete higher education,0,2,Married,1,0,,Yes
+117,Incomplete higher education,0,2,Unmarried,0,0,No,No
+118,Incomplete higher education,0,2,Unmarried,0,1,No,No
+119,Incomplete higher education,0,2,Unmarried,1,1,,No
+120,Incomplete higher education,1,0,Another,1,1,,No
+121,Incomplete higher education,1,0,Another,2,0,No,
+122,Incomplete higher education,1,0,Married,1,1,,No
+123,Incomplete higher education,1,1,Married,1,0,,No
+124,Incomplete higher education,1,1,Unmarried,0,0,No,
+125,Incomplete higher education,1,2,Another,0,0,No,No
+126,Incomplete higher education,1,2,Another,0,1,No,No
+127,Incomplete higher education,1,2,Another,1,0,No,No
+128,Incomplete higher education,1,2,Another,1,1,No,No
+129,Incomplete higher education,1,2,Another,2,0,No,No
+130,Incomplete higher education,1,2,Another,2,1,,No
+131,Incomplete higher education,1,2,Married,1,0,,No
+132,Incomplete higher education,1,2,Married,1,1,No,No
+133,Incomplete higher education,1,2,Married,2,0,,No
+134,Incomplete secondary education,0,2,Another,1,0,,No
+135,Incomplete secondary education,0,2,Another,3,1,No,
+136,Incomplete secondary education,1,1,Another,1,1,No,
+137,Incomplete secondary education,1,2,Another,2,0,,No
+138,Incomplete secondary education,1,2,Married,1,0,No,
+139,PhD degree,0,2,Another,1,0,,No
+140,PhD degree,1,2,Another,1,0,No,
+141,PhD degree,1,2,Another,2,1,No,
+142,Secondary education,0,0,Another,0,0,Yes,No
+143,Secondary education,0,0,Another,0,1,No,Yes
+144,Secondary education,0,0,Another,1,0,No,
+145,Secondary education,0,0,Another,2,0,,No
+146,Secondary education,0,0,Another,2,1,No,
+147,Secondary education,0,0,Another,3,1,No,
+148,Secondary education,0,0,Married,0,0,,No
+149,Secondary education,0,0,Married,0,1,No,
+150,Secondary education,0,0,Married,4,1,Yes,
+151,Secondary education,0,1,Another,0,1,No,
+152,Secondary education,0,1,Another,1,0,Yes,
+153,Secondary education,0,1,Another,1,1,No,
+154,Secondary education,0,1,Married,0,1,,No
+155,Secondary education,0,1,Married,1,0,,No
+156,Secondary education,0,2,Another,0,0,No,No
+157,Secondary education,0,2,Another,0,1,No,No
+158,Secondary education,0,2,Another,1,0,No,
+159,Secondary education,0,2,Another,1,1,Yes,No
+160,Secondary education,0,2,Another,2,0,No,No
+161,Secondary education,0,2,Another,2,1,No,No
+162,Secondary education,0,2,Another,3,0,No,No
+163,Secondary education,0,2,Another,3,1,No,No
+164,Secondary education,0,2,Another,4,1,,No
+165,Secondary education,0,2,Married,0,0,No,
+166,Secondary education,0,2,Married,0,1,Yes,No
+167,Secondary education,0,2,Married,1,0,Yes,Yes
+168,Secondary education,0,2,Married,1,1,Yes,Yes
+169,Secondary education,0,2,Married,2,0,,No
+170,Secondary education,0,2,Married,2,1,Yes,
+171,Secondary education,0,2,Married,3,1,Yes,No
+172,Secondary education,0,2,Unmarried,0,0,No,No
+173,Secondary education,0,2,Unmarried,1,0,No,
+174,Secondary education,1,0,Another,0,0,No,No
+175,Secondary education,1,0,Another,0,1,,No
+176,Secondary education,1,0,Another,1,1,No,
+177,Secondary education,1,0,Another,2,0,,No
+178,Secondary education,1,0,Another,3,1,,No
+179,Secondary education,1,1,Another,0,0,No,
+180,Secondary education,1,1,Another,1,0,,No
+181,Secondary education,1,2,Another,0,0,No,No
+182,Secondary education,1,2,Another,0,1,No,No
+183,Secondary education,1,2,Another,1,0,Yes,No
+184,Secondary education,1,2,Another,1,1,No,No
+185,Secondary education,1,2,Another,2,0,,No
+186,Secondary education,1,2,Another,2,1,No,No
+187,Secondary education,1,2,Another,3,1,No,No
+188,Secondary education,1,2,Married,0,0,No,
+189,Secondary education,1,2,Married,0,1,,No
+190,Secondary education,1,2,Married,1,0,No,No
+191,Secondary education,1,2,Married,1,1,No,No
+192,Secondary education,1,2,Married,2,0,No,
+193,Secondary education,1,2,Married,2,1,,No
+194,Secondary education,1,2,Married,3,1,,No
+195,Secondary special education,0,0,Another,0,0,No,No
+196,Secondary special education,0,0,Another,0,1,No,No
+197,Secondary special education,0,0,Another,1,0,No,No
+198,Secondary special education,0,0,Another,1,1,No,
+199,Secondary special education,0,0,Another,2,0,,No
+200,Secondary special education,0,0,Another,2,1,No,
+201,Secondary special education,0,0,Another,3,0,No,No
+202,Secondary special education,0,0,Another,3,1,,No
+203,Secondary special education,0,0,Married,0,0,No,
+204,Secondary special education,0,0,Married,0,1,Yes,No
+205,Secondary special education,0,0,Married,1,0,Yes,
+206,Secondary special education,0,0,Married,1,1,No,No
+207,Secondary special education,0,0,Married,2,1,No,
+208,Secondary special education,0,0,Unmarried,2,1,Yes,
+209,Secondary special education,0,1,Another,0,0,No,No
+210,Secondary special education,0,1,Another,0,1,No,
+211,Secondary special education,0,1,Another,1,0,,No
+212,Secondary special education,0,1,Another,1,1,No,No
+213,Secondary special education,0,1,Married,0,1,No,
+214,Secondary special education,0,1,Married,1,1,No,No
+215,Secondary special education,0,1,Unmarried,1,1,No,
+216,Secondary special education,0,2,Another,0,0,No,No
+217,Secondary special education,0,2,Another,0,1,No,No
+218,Secondary special education,0,2,Another,1,0,No,No
+219,Secondary special education,0,2,Another,1,1,Yes,No
+220,Secondary special education,0,2,Another,2,0,No,No
+221,Secondary special education,0,2,Another,2,1,No,No
+222,Secondary special education,0,2,Another,3,0,No,No
+223,Secondary special education,0,2,Another,3,1,No,No
+224,Secondary special education,0,2,Another,4,0,Yes,No
+225,Secondary special education,0,2,Another,4,1,No,No
+226,Secondary special education,0,2,Married,0,0,Yes,No
+227,Secondary special education,0,2,Married,0,1,No,No
+228,Secondary special education,0,2,Married,1,0,No,No
+229,Secondary special education,0,2,Married,1,1,No,Yes
+230,Secondary special education,0,2,Married,2,0,No,No
+231,Secondary special education,0,2,Married,2,1,No,Yes
+232,Secondary special education,0,2,Married,3,0,,No
+233,Secondary special education,0,2,Married,3,1,No,No
+234,Secondary special education,0,2,Married,4,0,,No
+235,Secondary special education,0,2,Married,4,1,No,
+236,Secondary special education,0,2,Unmarried,0,0,,No
+237,Secondary special education,0,2,Unmarried,0,1,No,No
+238,Secondary special education,0,2,Unmarried,1,0,No,No
+239,Secondary special education,0,2,Unmarried,1,1,No,Yes
+240,Secondary special education,0,2,Unmarried,2,1,No,
+241,Secondary special education,0,2,Unmarried,3,0,No,Yes
+242,Secondary special education,0,2,Unmarried,3,1,No,
+243,Secondary special education,1,0,Another,0,0,No,
+244,Secondary special education,1,0,Another,0,1,No,No
+245,Secondary special education,1,0,Another,1,0,No,No
+246,Secondary special education,1,0,Another,1,1,Yes,Yes
+247,Secondary special education,1,0,Another,2,0,No,
+248,Secondary special education,1,0,Another,3,0,No,No
+249,Secondary special education,1,0,Another,3,1,,No
+250,Secondary special education,1,0,Another,4,1,,No
+251,Secondary special education,1,0,Married,0,0,No,No
+252,Secondary special education,1,0,Married,1,1,,No
+253,Secondary special education,1,0,Married,2,1,No,No
+254,Secondary special education,1,0,Married,3,1,,No
+255,Secondary special education,1,0,Unmarried,0,1,Yes,No
+256,Secondary special education,1,0,Unmarried,1,1,Yes,
+257,Secondary special education,1,0,Unmarried,2,0,,No
+258,Secondary special education,1,1,Another,1,0,,No
+259,Secondary special education,1,1,Another,2,0,,No
+260,Secondary special education,1,1,Another,2,1,No,
+261,Secondary special education,1,1,Married,0,1,No,
+262,Secondary special education,1,1,Married,1,1,,No
+263,Secondary special education,1,1,Unmarried,3,0,No,
+264,Secondary special education,1,2,Another,0,0,No,No
+265,Secondary special education,1,2,Another,0,1,No,No
+266,Secondary special education,1,2,Another,1,0,No,Yes
+267,Secondary special education,1,2,Another,1,1,No,No
+268,Secondary special education,1,2,Another,2,0,No,No
+269,Secondary special education,1,2,Another,2,1,No,No
+270,Secondary special education,1,2,Another,3,0,No,No
+271,Secondary special education,1,2,Another,3,1,No,No
+272,Secondary special education,1,2,Another,4,0,No,No
+273,Secondary special education,1,2,Another,4,1,No,No
+274,Secondary special education,1,2,Married,0,0,No,No
+275,Secondary special education,1,2,Married,0,1,No,No
+276,Secondary special education,1,2,Married,1,0,No,No
+277,Secondary special education,1,2,Married,1,1,No,No
+278,Secondary special education,1,2,Married,2,0,No,No
+279,Secondary special education,1,2,Married,2,1,No,No
+280,Secondary special education,1,2,Married,3,0,No,No
+281,Secondary special education,1,2,Married,3,1,No,No
+282,Secondary special education,1,2,Married,4,0,,No
+283,Secondary special education,1,2,Married,4,1,No,
+284,Secondary special education,1,2,Unmarried,0,0,No,
+285,Secondary special education,1,2,Unmarried,0,1,No,No
+286,Secondary special education,1,2,Unmarried,1,0,No,No
+287,Secondary special education,1,2,Unmarried,1,1,No,No
+288,Secondary special education,1,2,Unmarried,2,0,,No
+289,Secondary special education,1,2,Unmarried,3,1,No,No
+290,Secondary special education,1,2,Unmarried,4,1,No,

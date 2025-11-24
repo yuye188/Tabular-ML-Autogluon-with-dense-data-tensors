@@ -1,0 +1,115 @@
+,installment_rate_percent,other_debtors,other_installment_plans,housing,telephone,foreign_worker,good_or_bad_customer 1,good_or_bad_customer 2
+0,1,co-applicant,bank,own,"yes, registered",yes,bad,
+1,1,co-applicant,none,own,none,yes,,good
+2,1,co-applicant,none,own,"yes, registered",yes,good,
+3,1,co-applicant,none,rent,none,yes,bad,
+4,1,guarantor,bank,rent,none,no,good,
+5,1,guarantor,none,own,none,yes,good,good
+6,1,guarantor,none,own,"yes, registered",yes,bad,
+7,1,guarantor,none,rent,none,no,,good
+8,1,guarantor,stores,own,none,yes,,good
+9,1,none,bank,for free,"yes, registered",yes,good,
+10,1,none,bank,own,none,yes,good,good
+11,1,none,bank,own,"yes, registered",no,bad,
+12,1,none,bank,own,"yes, registered",yes,bad,
+13,1,none,bank,rent,none,yes,bad,
+14,1,none,bank,rent,"yes, registered",yes,bad,
+15,1,none,none,for free,none,yes,good,bad
+16,1,none,none,for free,"yes, registered",yes,bad,bad
+17,1,none,none,own,none,no,bad,good
+18,1,none,none,own,none,yes,good,good
+19,1,none,none,own,"yes, registered",no,good,
+20,1,none,none,own,"yes, registered",yes,good,bad
+21,1,none,none,rent,none,no,,good
+22,1,none,none,rent,none,yes,good,good
+23,1,none,none,rent,"yes, registered",yes,good,
+24,1,none,stores,own,none,yes,bad,
+25,2,co-applicant,bank,own,none,yes,good,
+26,2,co-applicant,bank,own,"yes, registered",yes,bad,
+27,2,co-applicant,none,own,none,no,good,
+28,2,co-applicant,none,own,none,yes,bad,good
+29,2,co-applicant,none,own,"yes, registered",yes,bad,bad
+30,2,co-applicant,none,rent,none,no,good,
+31,2,co-applicant,none,rent,none,yes,bad,
+32,2,guarantor,bank,rent,"yes, registered",yes,bad,
+33,2,guarantor,none,for free,none,yes,,good
+34,2,guarantor,none,own,none,yes,good,good
+35,2,guarantor,none,own,"yes, registered",yes,good,
+36,2,guarantor,none,rent,none,yes,bad,
+37,2,none,bank,for free,none,yes,good,
+38,2,none,bank,for free,"yes, registered",yes,good,good
+39,2,none,bank,own,none,yes,good,bad
+40,2,none,bank,own,"yes, registered",yes,bad,bad
+41,2,none,bank,rent,none,yes,bad,
+42,2,none,none,for free,none,yes,good,bad
+43,2,none,none,for free,"yes, registered",yes,good,good
+44,2,none,none,own,none,no,good,good
+45,2,none,none,own,none,yes,bad,good
+46,2,none,none,own,"yes, registered",no,good,
+47,2,none,none,own,"yes, registered",yes,good,good
+48,2,none,none,rent,none,yes,good,bad
+49,2,none,none,rent,"yes, registered",yes,good,good
+50,2,none,stores,own,none,yes,good,bad
+51,2,none,stores,own,"yes, registered",yes,good,
+52,2,none,stores,rent,none,yes,good,
+53,3,co-applicant,bank,for free,"yes, registered",yes,good,
+54,3,co-applicant,none,own,none,yes,good,
+55,3,co-applicant,none,own,"yes, registered",yes,good,
+56,3,co-applicant,none,rent,none,yes,bad,
+57,3,co-applicant,none,rent,"yes, registered",yes,bad,
+58,3,guarantor,bank,own,none,yes,good,
+59,3,guarantor,bank,own,"yes, registered",yes,,good
+60,3,guarantor,bank,rent,"yes, registered",yes,good,good
+61,3,guarantor,none,own,none,no,,good
+62,3,guarantor,none,own,none,yes,good,
+63,3,none,bank,for free,"yes, registered",yes,good,good
+64,3,none,bank,own,none,yes,bad,good
+65,3,none,bank,own,"yes, registered",yes,good,bad
+66,3,none,bank,rent,none,yes,,bad
+67,3,none,bank,rent,"yes, registered",yes,bad,good
+68,3,none,none,for free,none,yes,good,bad
+69,3,none,none,for free,"yes, registered",yes,bad,good
+70,3,none,none,own,none,no,good,good
+71,3,none,none,own,none,yes,good,good
+72,3,none,none,own,"yes, registered",yes,good,good
+73,3,none,none,rent,none,no,good,good
+74,3,none,none,rent,none,yes,good,
+75,3,none,none,rent,"yes, registered",yes,good,good
+76,3,none,stores,own,none,yes,bad,
+77,3,none,stores,own,"yes, registered",yes,,good
+78,4,co-applicant,bank,own,"yes, registered",yes,good,
+79,4,co-applicant,none,for free,none,yes,bad,
+80,4,co-applicant,none,for free,"yes, registered",yes,good,
+81,4,co-applicant,none,own,none,no,good,
+82,4,co-applicant,none,own,none,yes,bad,bad
+83,4,co-applicant,none,own,"yes, registered",yes,good,
+84,4,co-applicant,none,rent,none,yes,good,
+85,4,co-applicant,none,rent,"yes, registered",yes,bad,
+86,4,co-applicant,stores,own,none,yes,bad,
+87,4,guarantor,bank,own,none,yes,good,
+88,4,guarantor,bank,own,"yes, registered",yes,good,
+89,4,guarantor,bank,rent,none,no,bad,
+90,4,guarantor,bank,rent,none,yes,bad,
+91,4,guarantor,none,own,none,no,good,
+92,4,guarantor,none,own,none,yes,good,good
+93,4,guarantor,none,own,"yes, registered",yes,good,
+94,4,guarantor,none,rent,none,yes,bad,
+95,4,none,bank,for free,none,yes,good,good
+96,4,none,bank,for free,"yes, registered",yes,good,good
+97,4,none,bank,own,none,no,good,
+98,4,none,bank,own,none,yes,bad,good
+99,4,none,bank,own,"yes, registered",yes,bad,good
+100,4,none,bank,rent,none,no,good,
+101,4,none,bank,rent,none,yes,good,bad
+102,4,none,bank,rent,"yes, registered",yes,good,
+103,4,none,none,for free,none,yes,bad,good
+104,4,none,none,for free,"yes, registered",yes,good,good
+105,4,none,none,own,none,no,good,
+106,4,none,none,own,none,yes,bad,bad
+107,4,none,none,own,"yes, registered",yes,good,good
+108,4,none,none,rent,none,yes,bad,bad
+109,4,none,none,rent,"yes, registered",yes,bad,good
+110,4,none,stores,for free,none,yes,bad,
+111,4,none,stores,for free,"yes, registered",yes,bad,bad
+112,4,none,stores,own,none,yes,good,bad
+113,4,none,stores,own,"yes, registered",yes,good,good

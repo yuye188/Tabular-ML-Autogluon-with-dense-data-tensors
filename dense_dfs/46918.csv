@@ -1,0 +1,165 @@
+installment_rate_percent,other_debtors,other_installment_plans,housing,people_liable,telephone,foreign_worker,good_or_bad_customer
+2,none,none,own,1,none,yes,bad
+3,none,none,own,2,"yes, registered",yes,good
+2,none,bank,own,1,none,yes,good
+3,none,none,rent,1,none,yes,good
+3,none,none,own,1,"yes, registered",yes,good
+4,none,bank,rent,1,none,yes,good
+2,none,none,own,1,"yes, registered",yes,good
+4,co-applicant,none,rent,1,none,yes,good
+1,guarantor,none,rent,2,none,no,good
+3,guarantor,bank,own,1,none,yes,good
+4,none,none,own,1,none,yes,bad
+4,none,none,for free,1,none,yes,bad
+2,co-applicant,none,own,1,none,yes,bad
+3,none,none,rent,1,"yes, registered",yes,good
+4,none,none,rent,1,none,yes,bad
+1,none,none,own,1,none,yes,good
+2,none,none,for free,1,"yes, registered",yes,good
+2,none,none,own,2,none,yes,good
+1,none,none,own,2,none,yes,good
+4,none,stores,own,2,none,yes,bad
+2,none,none,for free,1,none,yes,good
+4,none,none,own,1,"yes, registered",yes,good
+4,guarantor,none,own,1,none,yes,good
+2,none,none,rent,1,"yes, registered",yes,good
+3,none,bank,own,1,none,yes,bad
+2,none,none,own,2,"yes, registered",yes,good
+4,none,bank,for free,1,"yes, registered",yes,good
+4,none,none,for free,1,"yes, registered",yes,good
+4,co-applicant,none,rent,1,"yes, registered",yes,bad
+2,none,bank,own,1,"yes, registered",yes,bad
+1,none,none,rent,2,none,yes,good
+4,none,none,rent,1,"yes, registered",yes,bad
+3,none,none,own,1,none,yes,good
+3,none,bank,own,1,"yes, registered",yes,good
+4,none,bank,rent,1,"yes, registered",yes,good
+1,none,none,rent,1,none,yes,good
+3,none,none,own,1,none,no,good
+4,none,stores,own,1,none,yes,good
+1,none,bank,own,1,none,yes,good
+2,none,none,for free,2,"yes, registered",yes,good
+4,co-applicant,none,own,1,none,yes,bad
+4,none,bank,own,1,none,yes,bad
+4,none,none,own,2,"yes, registered",yes,good
+3,none,none,for free,2,none,yes,bad
+2,none,none,rent,1,none,yes,good
+1,none,bank,rent,1,"yes, registered",yes,bad
+1,none,none,own,1,none,no,bad
+4,none,bank,own,2,"yes, registered",yes,good
+1,none,bank,own,1,"yes, registered",yes,bad
+4,none,none,own,2,none,yes,bad
+4,none,bank,own,2,none,yes,good
+4,none,bank,own,1,none,no,good
+1,none,none,rent,1,"yes, registered",yes,good
+2,none,stores,own,1,none,yes,good
+4,none,none,for free,2,none,yes,good
+1,none,none,for free,1,none,yes,good
+1,guarantor,stores,own,2,none,yes,good
+3,none,bank,for free,2,"yes, registered",yes,good
+4,none,stores,for free,1,none,yes,bad
+4,none,bank,rent,1,none,no,good
+4,none,bank,rent,2,none,yes,bad
+2,none,bank,own,2,none,yes,bad
+4,guarantor,none,own,1,"yes, registered",yes,good
+2,none,none,for free,2,none,yes,bad
+3,none,none,own,2,none,no,good
+1,none,stores,own,1,none,yes,bad
+4,none,none,rent,2,none,yes,bad
+3,co-applicant,none,rent,1,"yes, registered",yes,bad
+1,none,none,own,2,none,no,good
+3,none,bank,for free,1,"yes, registered",yes,good
+1,none,bank,own,2,none,yes,good
+3,none,none,rent,2,none,no,good
+3,none,none,for free,1,none,yes,good
+4,none,stores,own,1,"yes, registered",yes,good
+4,co-applicant,none,own,2,none,yes,bad
+4,none,none,for free,2,"yes, registered",yes,good
+1,guarantor,bank,rent,1,none,no,good
+1,none,none,own,1,"yes, registered",yes,good
+4,none,bank,own,1,"yes, registered",yes,bad
+2,none,stores,own,2,none,yes,bad
+3,co-applicant,none,rent,1,none,yes,bad
+1,guarantor,none,own,2,none,yes,good
+2,co-applicant,bank,own,1,none,yes,good
+2,none,bank,rent,1,none,yes,bad
+2,guarantor,none,for free,2,none,yes,good
+2,none,stores,rent,1,none,yes,good
+1,co-applicant,none,own,2,none,yes,good
+2,none,none,rent,2,none,yes,bad
+3,guarantor,bank,own,2,"yes, registered",yes,good
+3,none,none,for free,1,"yes, registered",yes,bad
+2,guarantor,bank,rent,1,"yes, registered",yes,bad
+2,none,none,own,1,"yes, registered",no,good
+3,none,stores,own,1,none,yes,bad
+1,none,none,for free,2,"yes, registered",yes,bad
+2,none,stores,own,1,"yes, registered",yes,good
+3,none,bank,rent,2,none,yes,bad
+3,none,none,own,2,none,yes,good
+3,guarantor,none,own,1,none,yes,good
+4,none,bank,for free,1,none,yes,good
+2,guarantor,none,own,2,none,yes,good
+3,none,bank,own,2,none,yes,good
+1,guarantor,none,own,1,"yes, registered",yes,bad
+3,none,stores,own,2,"yes, registered",yes,good
+2,none,none,own,1,none,no,good
+4,guarantor,none,own,1,none,no,good
+4,guarantor,bank,own,1,none,yes,good
+3,none,none,rent,2,"yes, registered",yes,good
+2,none,bank,for free,1,none,yes,good
+1,none,none,own,1,"yes, registered",no,good
+2,co-applicant,none,rent,1,none,yes,bad
+1,none,none,own,2,"yes, registered",yes,bad
+2,none,none,own,2,none,no,good
+2,guarantor,none,own,1,none,yes,good
+4,co-applicant,none,for free,1,"yes, registered",yes,good
+4,co-applicant,bank,own,1,"yes, registered",yes,good
+1,none,bank,rent,1,none,yes,bad
+2,none,bank,for free,1,"yes, registered",yes,good
+2,guarantor,none,rent,1,none,yes,bad
+4,co-applicant,none,own,1,none,no,good
+1,none,none,for free,2,none,yes,bad
+3,co-applicant,bank,for free,1,"yes, registered",yes,good
+4,none,none,rent,2,"yes, registered",yes,good
+2,guarantor,none,own,1,"yes, registered",yes,good
+1,none,none,rent,2,none,no,good
+1,co-applicant,none,own,1,"yes, registered",yes,good
+4,none,stores,own,2,"yes, registered",yes,good
+2,co-applicant,bank,own,1,"yes, registered",yes,bad
+4,none,stores,for free,1,"yes, registered",yes,bad
+2,co-applicant,none,rent,1,none,no,good
+4,none,stores,for free,2,"yes, registered",yes,bad
+1,none,bank,for free,1,"yes, registered",yes,good
+4,none,none,own,1,none,no,good
+4,co-applicant,stores,own,1,none,yes,bad
+4,guarantor,bank,rent,1,none,no,bad
+4,guarantor,none,rent,1,none,yes,bad
+3,guarantor,bank,rent,1,"yes, registered",yes,good
+1,co-applicant,bank,own,1,"yes, registered",yes,bad
+3,co-applicant,none,own,1,"yes, registered",yes,good
+4,co-applicant,none,own,1,"yes, registered",yes,good
+3,co-applicant,none,own,1,none,yes,good
+2,none,bank,for free,2,"yes, registered",yes,good
+3,guarantor,bank,rent,2,"yes, registered",yes,good
+3,none,none,rent,1,none,no,good
+4,none,bank,for free,2,none,yes,good
+2,co-applicant,none,own,1,none,no,good
+1,none,bank,own,1,"yes, registered",no,bad
+2,co-applicant,none,own,2,none,yes,good
+1,co-applicant,none,rent,1,none,yes,bad
+4,co-applicant,none,for free,1,none,yes,bad
+3,none,bank,rent,1,"yes, registered",yes,bad
+3,none,bank,own,2,"yes, registered",yes,bad
+2,none,none,rent,2,"yes, registered",yes,good
+4,guarantor,none,own,2,none,yes,good
+1,none,none,for free,1,"yes, registered",yes,bad
+4,guarantor,bank,own,1,"yes, registered",yes,good
+3,guarantor,none,own,2,none,no,good
+2,co-applicant,none,own,2,"yes, registered",yes,bad
+4,guarantor,bank,rent,1,none,yes,bad
+3,none,none,for free,2,"yes, registered",yes,good
+2,co-applicant,none,own,1,"yes, registered",yes,bad
+1,guarantor,none,own,1,none,yes,good
+4,none,bank,for free,2,"yes, registered",yes,good
+3,none,bank,rent,2,"yes, registered",yes,good
+2,none,bank,own,2,"yes, registered",yes,bad

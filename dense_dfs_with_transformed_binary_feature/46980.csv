@@ -1,0 +1,25 @@
+,O_L_POST,K_SH_POST,MP_TP_POST,TRENT_S_n,LET_IS 0,LET_IS 1
+0,,,,0.0,alive,alive
+1,,,,1.0,,alive
+2,0.0,,0.0,0.0,,asystole
+3,0.0,,1.0,0.0,cardiogenic_shock,
+4,0.0,0.0,,0.0,progress_congestive_heart_failure,
+5,0.0,0.0,0.0,,alive,alive
+6,0.0,0.0,0.0,0.0,alive,alive
+7,0.0,0.0,0.0,1.0,alive,alive
+8,0.0,0.0,1.0,0.0,alive,alive
+9,0.0,0.0,1.0,1.0,alive,alive
+10,0.0,1.0,0.0,0.0,alive,cardiogenic_shock
+11,0.0,1.0,0.0,1.0,cardiogenic_shock,cardiogenic_shock
+12,0.0,1.0,1.0,0.0,cardiogenic_shock,cardiogenic_shock
+13,0.0,1.0,1.0,1.0,,cardiogenic_shock
+14,1.0,0.0,,0.0,progress_congestive_heart_failure,
+15,1.0,0.0,0.0,,,alive
+16,1.0,0.0,0.0,0.0,alive,alive
+17,1.0,0.0,0.0,1.0,asystole,myocardial_rupture
+18,1.0,0.0,1.0,,alive,
+19,1.0,0.0,1.0,0.0,alive,alive
+20,1.0,0.0,1.0,1.0,alive,
+21,1.0,1.0,0.0,0.0,cardiogenic_shock,ventricular_fibrillation
+22,1.0,1.0,0.0,1.0,cardiogenic_shock,
+23,1.0,1.0,1.0,0.0,,cardiogenic_shock

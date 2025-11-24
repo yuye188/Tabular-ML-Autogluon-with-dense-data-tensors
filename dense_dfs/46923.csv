@@ -1,0 +1,277 @@
+cut,color,clarity,price
+Ideal,G,VVS1,559
+Very Good,F,VVS2,2201
+Ideal,E,VVS2,1238
+Premium,E,VVS2,1304
+Ideal,E,SI2,6901
+Fair,E,SI2,3011
+Ideal,F,VS1,1765
+Ideal,D,VS2,1679
+Premium,E,VS2,2102
+Ideal,H,SI1,4789
+Ideal,D,SI2,855
+Very Good,E,SI2,13134
+Fair,F,SI1,1367
+Very Good,F,SI1,2401
+Good,H,IF,1440
+Ideal,I,VS1,10286
+Fair,F,SI2,2958
+Ideal,E,VVS1,1397
+Very Good,I,VS1,552
+Premium,I,VS2,18193
+Premium,E,SI1,945
+Ideal,F,VS2,625
+Ideal,H,VVS2,631
+Ideal,H,SI2,3854
+Ideal,E,SI1,1415
+Ideal,E,VS1,1033
+Ideal,F,SI2,13453
+Ideal,D,VS1,8341
+Very Good,J,SI1,11566
+Good,G,VVS2,1800
+Ideal,J,VS1,373
+Very Good,G,VVS1,1885
+Very Good,G,VVS2,1974
+Premium,H,VS2,18443
+Ideal,G,VS1,2206
+Very Good,D,SI1,1724
+Premium,E,SI2,855
+Very Good,H,SI1,15745
+Good,F,SI1,722
+Ideal,F,SI1,12871
+Premium,F,SI1,11588
+Good,G,SI2,17608
+Very Good,H,VS2,7549
+Ideal,G,IF,925
+Good,H,VS2,9088
+Very Good,G,VS1,6777
+Very Good,H,VVS2,4617
+Ideal,J,VS2,6015
+Premium,G,VS2,4137
+Very Good,I,VS2,435
+Premium,E,I1,2464
+Very Good,E,VVS2,759
+Premium,J,VS2,15465
+Premium,I,SI2,2968
+Ideal,F,VVS1,868
+Premium,F,VVS2,2854
+Ideal,F,VVS2,3217
+Ideal,J,SI2,4364
+Premium,G,SI2,4584
+Premium,E,VS1,1026
+Premium,F,VS1,2669
+Very Good,G,SI1,10947
+Premium,D,SI2,855
+Good,G,IF,1052
+Premium,J,SI2,3861
+Ideal,J,SI1,3102
+Very Good,E,SI1,5411
+Very Good,E,VVS1,530
+Ideal,G,VVS2,1103
+Fair,G,SI1,4424
+Ideal,E,VS2,722
+Good,F,VS1,2090
+Good,D,SI2,462
+Premium,D,VS2,15991
+Ideal,D,SI1,565
+Premium,I,SI1,4704
+Good,D,VVS1,2250
+Very Good,G,VS2,2338
+Good,D,SI1,4786
+Ideal,H,I1,7197
+Good,I,SI2,3465
+Ideal,I,SI1,9376
+Good,I,VVS1,867
+Ideal,H,VS1,675
+Good,H,SI1,700
+Good,E,SI2,4400
+Very Good,F,VS2,602
+Ideal,E,IF,1060
+Ideal,H,VS2,505
+Premium,H,I1,1932
+Fair,G,SI2,2400
+Premium,F,VVS1,1290
+Ideal,I,VS2,2939
+Fair,I,VS1,2297
+Good,E,VVS1,1169
+Very Good,G,I1,2080
+Premium,H,SI1,4469
+Premium,F,VS2,686
+Ideal,I,SI2,8254
+Ideal,G,VS2,7187
+Very Good,F,VS1,7598
+Ideal,F,IF,886
+Good,D,VS1,825
+Good,F,SI2,2190
+Very Good,E,VS2,2114
+Good,G,SI1,2945
+Premium,E,IF,1097
+Very Good,H,VVS1,478
+Fair,H,SI2,6291
+Ideal,G,SI2,1250
+Good,E,SI1,755
+Very Good,F,VVS1,1030
+Premium,G,VS1,932
+Premium,G,SI1,3780
+Ideal,D,I1,13156
+Premium,G,VVS2,878
+Ideal,G,SI1,4355
+Very Good,G,SI2,4375
+Premium,F,SI2,1806
+Premium,J,VVS1,5893
+Fair,G,VS2,10623
+Premium,H,IF,12196
+Very Good,J,SI2,11792
+Premium,G,I1,1138
+Very Good,H,SI2,2222
+Premium,E,VVS1,4490
+Very Good,F,SI2,3789
+Premium,H,SI2,15451
+Ideal,I,VVS2,2387
+Ideal,H,VVS1,665
+Good,H,VVS2,2734
+Good,I,SI1,659
+Premium,H,VS1,5387
+Premium,G,VVS1,1013
+Fair,G,VVS1,790
+Good,F,VVS1,492
+Very Good,D,SI2,4322
+Very Good,D,VS2,850
+Ideal,D,VVS2,769
+Very Good,D,VS1,742
+Very Good,I,SI1,14819
+Fair,D,SI1,644
+Ideal,D,VVS1,949
+Very Good,D,VVS2,3622
+Very Good,F,I1,6962
+Premium,D,SI1,791
+Very Good,H,VS1,624
+Premium,G,IF,8120
+Good,J,VS1,5356
+Very Good,E,VS1,925
+Premium,I,VS1,5632
+Fair,E,SI1,3696
+Very Good,H,IF,2317
+Premium,I,VVS2,2496
+Ideal,I,IF,675
+Fair,H,VS2,2686
+Good,J,VS2,2098
+Very Good,H,I1,4677
+Ideal,F,I1,3377
+Premium,H,VVS2,828
+Very Good,I,SI2,10098
+Fair,F,VS2,1334
+Premium,D,VS1,3894
+Good,D,VS2,2288
+Fair,F,VS1,2707
+Fair,H,I1,5993
+Ideal,H,IF,772
+Very Good,I,IF,2057
+Premium,J,SI1,480
+Good,J,SI1,3951
+Good,H,SI2,1060
+Premium,I,VVS1,10824
+Fair,J,VS2,1896
+Good,G,VS2,8672
+Fair,H,VS1,7338
+Good,E,VS2,556
+Very Good,I,VVS1,3443
+Very Good,G,IF,924
+Good,E,VS1,756
+Fair,D,VS2,2368
+Ideal,I,VVS1,884
+Fair,G,I1,2723
+Ideal,D,IF,6607
+Ideal,J,VVS1,6918
+Fair,E,VS2,1215
+Good,I,VS2,16304
+Premium,F,I1,3984
+Ideal,J,VVS2,629
+Ideal,J,IF,758
+Good,G,VS1,2241
+Fair,I,VS2,7182
+Very Good,F,IF,11631
+Premium,J,VS1,394
+Fair,I,SI2,2422
+Good,J,SI2,3534
+Fair,I,I1,2239
+Fair,I,SI1,8355
+Very Good,J,VS2,4413
+Good,I,VS1,10349
+Very Good,I,I1,15984
+Ideal,I,I1,5412
+Ideal,E,I1,490
+Fair,J,SI2,4056
+Good,H,VS1,1786
+Premium,I,I1,3541
+Fair,F,I1,7294
+Good,F,VS2,6606
+Good,I,IF,945
+Good,H,VVS1,480
+Fair,E,VS1,799
+Good,F,VVS2,619
+Very Good,D,VVS1,1108
+Good,F,I1,2143
+Premium,H,VVS1,936
+Good,E,VVS2,505
+Good,E,I1,1168
+Premium,D,VVS2,2366
+Very Good,E,I1,3300
+Very Good,J,VS1,16641
+Very Good,J,VVS1,1363
+Fair,E,VVS2,738
+Premium,J,I1,2195
+Premium,D,VVS1,3006
+Premium,I,IF,10332
+Fair,J,VS1,14750
+Good,J,VVS2,8861
+Very Good,J,VVS2,2226
+Very Good,E,IF,11269
+Good,H,I1,2846
+Premium,F,IF,576
+Fair,G,VVS2,833
+Good,G,VVS1,849
+Good,I,VVS2,596
+Fair,G,VS1,2800
+Fair,H,SI1,2873
+Good,D,VVS2,787
+Fair,D,SI2,2885
+Very Good,J,I1,4600
+Premium,J,VVS2,5572
+Fair,D,IF,1208
+Very Good,I,VVS2,765
+Ideal,G,I1,1019
+Fair,E,I1,1865
+Good,I,I1,2333
+Very Good,D,IF,16087
+Good,E,IF,1052
+Premium,D,I1,3711
+Good,F,IF,796
+Good,G,I1,2344
+Fair,F,IF,3205
+Fair,J,I1,5430
+Fair,J,SI1,2812
+Good,J,VVS1,4633
+Fair,I,VVS2,2117
+Fair,D,VS1,7083
+Good,D,IF,15928
+Premium,D,IF,15671
+Fair,I,VVS1,4194
+Premium,J,IF,18426
+Very Good,J,IF,1592
+Good,J,I1,6521
+Good,D,I1,2657
+Fair,H,VVS2,2717
+Fair,J,VVS1,1691
+Fair,G,IF,1849
+Fair,F,VVS2,3920
+Fair,D,VVS2,997
+Fair,E,VVS1,1012
+Fair,F,VVS1,740
+Ideal,J,I1,16538
+Fair,J,VVS2,2998
+Fair,H,VVS1,4115
+Very Good,D,I1,1715
+Good,J,IF,6299
+Fair,D,VVS1,875
+Fair,D,I1,2491
