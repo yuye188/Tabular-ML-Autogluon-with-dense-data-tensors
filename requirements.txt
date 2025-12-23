@@ -2,3 +2,7 @@ plotly
 numpy
 pandas
 autogluon.tabular[catboost,xgboost]
+# add something else for jupyter if needed
+ipykernel # for notebooks
+openml
+nbformat
