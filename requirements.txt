@@ -6,3 +6,5 @@ autogluon.tabular[catboost,xgboost]
 ipykernel # for notebooks
 openml
 nbformat
+pydantic
+
