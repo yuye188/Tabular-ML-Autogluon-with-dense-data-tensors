@@ -1,3 +1,5 @@
 
 .venvTabArenaAnalysis/
 pydanticModelsForTabArenaDatasets/__pycache__/
+__pycache__/
+AutogluonModels/
