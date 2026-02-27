@@ -3,6 +3,8 @@
 
 # In[4]:
 
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))  # locate TabArenaIterator
 
 from datetime import datetime
 import pandas as pd
@@ -274,7 +276,7 @@ X
 # In[18]:
 
 
-X.to_csv('./exampleSparseDataset.csv', index=False)
+X.to_csv('../data/exampleSparseDataset.csv', index=False)
 
 
 # In[7]:

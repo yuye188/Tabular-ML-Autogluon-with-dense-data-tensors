@@ -3,6 +3,8 @@
 
 # In[1]:
 
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))  # locate TabArenaIterator
 
 import openml
 import pandas as pd
@@ -307,7 +309,7 @@ for row, df in iterator:
         # Extract the target feature to the dense_df
         dense_df[row['target_feature']] = df[row['target_feature']].iloc[dense_df.index,]
         dense_df = dense_df.reset_index(drop=True)
-        dense_df.to_csv('./dense_dfs/'+str(row['dataset_id'])+'.csv', index=False)
+        dense_df.to_csv('../data/dense_dfs/'+str(row['dataset_id'])+'.csv', index=False)
 
         # Train the models for dense_df and get the metrics
         for model in models:
@@ -365,7 +367,7 @@ final_table[(final_table['final_number_features'] >= 3) & (final_table['final_nu
 # In[52]:
 
 
-final_table.to_csv('./final_table_medium_preset.csv', index=False)
+final_table.to_csv('../data/final_table_medium_preset.csv', index=False)
 
 
 # In[71]:
@@ -432,7 +434,7 @@ fig.show()
 # In[209]:
 
 
-df = pd.read_csv('./dense_dfs/46911.csv')
+df = pd.read_csv('../data/dense_dfs/46911.csv')
 
 display(df)
 
@@ -462,7 +464,7 @@ df_wide[binary_columns].isnull().mean().values * 100
 # In[218]:
 
 
-df = pd.read_csv('./dense_dfs/46908.csv')
+df = pd.read_csv('../data/dense_dfs/46908.csv')
 
 df = df.dropna(subset='ch_000')
 
@@ -519,7 +521,7 @@ df_wide
 # In[219]:
 
 
-dense_dfs_path = './dense_dfs/'
+dense_dfs_path = '../data/dense_dfs/'
 
 transform_binary_feature_table = pd.DataFrame(columns=['dataset_id', 'original_num_rows', 'final_num_rows', 'nan_percentage'])
 
@@ -558,7 +560,7 @@ for row, df in iterator:
             df_wide = df_wide.reset_index()
 
             # Save the transformed df
-            df_wide.to_csv('dense_dfs_with_transformed_binary_feature/'+str(row['dataset_id'])+'.csv')
+            df_wide.to_csv('../data/dense_dfs_with_transformed_binary_feature/'+str(row['dataset_id'])+'.csv')
 
             # Find the transformed binary columns
             binary_columns = list(filter(lambda x: row['target_feature'] in x,  df_wide.columns.values))
@@ -600,9 +602,9 @@ selected_df
 
 
 import pandas as pd
-df_beste_preset = pd.read_csv('./final_table_best_preset.csv')[['dataset_id', 'initial_XGB_r2', 'final_XGB_r2', 'initial_XGB_normalized_accuracy', 'final_XGB_normalized_accuracy', 
+df_beste_preset = pd.read_csv('../data/final_table_best_preset.csv')[['dataset_id', 'initial_XGB_r2', 'final_XGB_r2', 'initial_XGB_normalized_accuracy', 'final_XGB_normalized_accuracy',
                                                             'initial_NN_TORCH_r2', 'final_NN_TORCH_r2', 'initial_NN_TORCH_normalized_accuracy', 'final_NN_TORCH_normalized_accuracy']]
-df_medium_preset = pd.read_csv('./final_table_medium_preset.csv')[['dataset_id', 'initial_XGB_r2', 'final_XGB_r2', 'initial_XGB_normalized_accuracy', 'final_XGB_normalized_accuracy', 
+df_medium_preset = pd.read_csv('../data/final_table_medium_preset.csv')[['dataset_id', 'initial_XGB_r2', 'final_XGB_r2', 'initial_XGB_normalized_accuracy', 'final_XGB_normalized_accuracy',
                                                             'initial_NN_TORCH_r2', 'final_NN_TORCH_r2', 'initial_NN_TORCH_normalized_accuracy', 'final_NN_TORCH_normalized_accuracy']]
 df_medium_preset
 

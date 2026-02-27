@@ -18,7 +18,8 @@ Datasets are sourced from [OpenML](https://www.openml.org/) via the [TabArena](h
 │   ├── getDensityTable.py                     # Main experiment: density reduction + AutoGluon training
 │   ├── tabArenaDensityPlots.py                # Density analysis and histogram/scatter plots
 │   ├── generateDatasetForAGtests.py           # Synthetic dataset generation + CPU vs GPU benchmarks
-│   └── createPydantic-models.py              # Pydantic model generation from OpenML datasets
+│   ├── createPydantic-models.py               # Pydantic model generation from OpenML datasets
+│   └── download_example.py                    # Example: download 3 TabArena datasets to data/downloaded_datasets/
 │
 ├── notebooks/                                 # Jupyter notebook versions of the scripts above
 │   ├── getDensityTable.ipynb
@@ -26,15 +27,16 @@ Datasets are sourced from [OpenML](https://www.openml.org/) via the [TabArena](h
 │   ├── generateDatasetForAGtests.ipynb
 │   └── createPydantic-models.ipynb
 │
-├── dense_dfs/                                 # Dense subspace CSVs (one per dataset, by OpenML ID)
-│   └── <dataset_id>.csv
-│
-├── dense_dfs_with_transformed_binary_feature/ # Dense CSVs after binary-feature pivot transformation
-│   └── <dataset_id>.csv
-│
-├── final_table.csv                            # Aggregated results across all datasets
-├── final_table_medium_preset.csv              # Results with AutoGluon medium preset
-└── final_table_best_preset.csv               # Results with AutoGluon best preset
+└── data/
+    ├── dense_dfs/                             # Dense subspace CSVs (one per dataset, by OpenML ID)
+    │   └── <dataset_id>.csv
+    ├── dense_dfs_with_transformed_binary_feature/  # Dense CSVs after binary-feature pivot transformation
+    │   └── <dataset_id>.csv
+    ├── downloaded_datasets/                   # Raw datasets downloaded from OpenML
+    │   └── <dataset_id>.csv
+    ├── final_table.csv                        # Aggregated results across all datasets
+    ├── final_table_medium_preset.csv          # Results with AutoGluon medium preset
+    └── final_table_best_preset.csv            # Results with AutoGluon best preset
 ```
 
 ---
@@ -68,10 +70,12 @@ Each iteration yields:
 
 ## Example: Downloading Datasets and Inspecting Features
 
-The script below downloads **three** TabArena datasets, saves each as a CSV under `downloaded_datasets/`, and prints the independent variables (features) and the target variable for each one.
+The script below downloads **three** TabArena datasets, saves each as a CSV under `data/downloaded_datasets/`, and prints the independent variables (features) and the target variable for each one.
 
 ```python
-import os
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))  # locate TabArenaIterator
+
 import pandas as pd
 from TabArenaIterator import TabArenaIterator
 
@@ -110,17 +114,33 @@ for i, (row, df) in enumerate(iterator):
     print()
 ```
 
-Running this script produces output similar to:
+Running this script produces:
 
 ```
-=== Dataset 1: airfoil (ID 46904) ===
+=== Dataset 1: airfoil_self_noise (ID 46904) ===
   Target variable : scaled-sound-pressure
   Features (5): ['frequency', 'attack-angle', 'chord-length', 'free-stream-velocity', 'suction-side-displacement-thickness']
   Shape           : (1503, 6)
 
-  Saved to downloaded_datasets/46904.csv
+  Saved to data/downloaded_datasets/46904.csv
 
-=== Dataset 2: ...
+=== Dataset 2: Amazon_employee_access (ID 46905) ===
+  Target variable : ResourceApproved
+  Features (9): ['RESOURCE', 'MGR_ID', 'ROLE_ROLLUP_1', 'ROLE_ROLLUP_2', 'ROLE_DEPTNAME', 'ROLE_TITLE', 'ROLE_FAMILY_DESC', 'ROLE_FAMILY', 'ROLE_CODE']
+  Shape           : (32769, 10)
+
+  Saved to data/downloaded_datasets/46905.csv
+
+=== Dataset 3: anneal (ID 46906) ===
+  Target variable : classes
+  Features (38): ['family', 'product-type', 'steel', 'carbon', 'hardness', 'temper_rolling', 'condition',
+                   'formability', 'strength', 'non-ageing', 'surface-finish', 'surface-quality', 'enamelability',
+                   'bc', 'bf', 'bt', 'bw_me', 'bl', 'm', 'chrom', 'phos', 'cbond', 'marvi', 'exptl', 'ferro',
+                   'corr', 'blue_bright_varn_clean', 'lustre', 'jurofm', 's', 'p', 'shape', 'thick', 'width',
+                   'len', 'oil', 'bore', 'packing']
+  Shape           : (898, 39)
+
+  Saved to data/downloaded_datasets/46906.csv
 ```
 
 ---
@@ -149,7 +169,7 @@ uv pip install -e ".[dev]"
 
 | Script | Description |
 |--------|-------------|
-| [`scripts/getDensityTable.py`](scripts/getDensityTable.py) | Core experiment: iterates all TabArena datasets, computes the dense subspace via `getDensitiesPlot`, trains XGBoost and NN_TORCH models on both the original and dense datasets, and saves results to `final_table*.csv` |
+| [`scripts/getDensityTable.py`](scripts/getDensityTable.py) | Core experiment: iterates all TabArena datasets, computes the dense subspace via `getDensitiesPlot`, trains XGBoost and NN_TORCH models on both the original and dense datasets, and saves results to `data/final_table*.csv` |
 | [`scripts/tabArenaDensityPlots.py`](scripts/tabArenaDensityPlots.py) | Computes density statistics across all datasets and generates histogram / scatter plots with Plotly |
 | [`scripts/generateDatasetForAGtests.py`](scripts/generateDatasetForAGtests.py) | Generates a synthetic tabular dataset and benchmarks AutoGluon training time and RMSE across CPU and GPU |
 | [`scripts/createPydantic-models.py`](scripts/createPydantic-models.py) | Demonstrates automatic Pydantic model generation from OpenML datasets using `pydantic_create_model.py` |
@@ -164,4 +184,4 @@ Given a dataset with features **F₁, F₂, …, Fₙ** and target **y**, the *d
 density = number_of_unique_rows / product_of_cardinalities(F₁, …, Fₙ)
 ```
 
-The `getDensitiesPlot` function (defined in [`scripts/getDensityTable.py`](scripts/getDensityTable.py:160)) iteratively drops the highest-cardinality feature until the density exceeds a threshold (default `0.1`). The resulting **dense subspace** is then used to train AutoGluon models and compared against models trained on the full feature set.
+The `getDensitiesPlot` function (defined in [`scripts/getDensityTable.py`](scripts/getDensityTable.py:163)) iteratively drops the highest-cardinality feature until the density exceeds a threshold (default `0.1`). The resulting **dense subspace** is then used to train AutoGluon models and compared against models trained on the full feature set.
