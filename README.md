@@ -147,20 +147,34 @@ Running this script produces:
 
 ## Installation
 
+**Requirements:** Python 3.10 or later.
+
 ```bash
 # Clone the repository
 git clone https://github.com/your-org/Tabular-ML-Autogluon-with-dense-data-tensors.git
 cd Tabular-ML-Autogluon-with-dense-data-tensors
+```
 
-# Create and activate a virtual environment (uv recommended)
+**With [uv](https://github.com/astral-sh/uv) (recommended):**
+
+```bash
 uv venv
-source .venv/bin/activate
-
-# Install dependencies
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 uv pip install -e .
 
-# Install dev extras (Jupyter)
+# Optional: Jupyter notebook support
 uv pip install -e ".[dev]"
+```
+
+**With pip:**
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -e .
+
+# Optional: Jupyter notebook support
+pip install -e ".[dev]"
 ```
 
 ---
