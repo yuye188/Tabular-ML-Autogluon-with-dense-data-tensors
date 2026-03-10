@@ -1,0 +1,1732 @@
+gender,relevent_experience,enrolled_university,education_level,company_type,last_new_job,LookingForJobChange
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+Female,Has relevent experience,no_enrollment,Masters,Funded Startup,2,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,Masters,NGO,1,No
+Male,Has relevent experience,no_enrollment,High School,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,Yes
+Male,No relevent experience,Full time course,Graduate,nan,1,No
+nan,Has relevent experience,Full time course,Phd,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,Primary School,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Masters,nan,>4,Yes
+Male,No relevent experience,Full time course,Masters,Other,nan,Yes
+nan,Has relevent experience,Full time course,Graduate,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+nan,Has relevent experience,Full time course,Graduate,nan,1,No
+Male,No relevent experience,no_enrollment,Masters,nan,2,Yes
+Male,Has relevent experience,no_enrollment,High School,nan,1,No
+Female,No relevent experience,Full time course,Graduate,Public Sector,1,Yes
+nan,Has relevent experience,no_enrollment,Masters,nan,2,Yes
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,1,Yes
+Female,No relevent experience,Full time course,Graduate,nan,never,Yes
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,Full time course,High School,nan,never,Yes
+nan,Has relevent experience,no_enrollment,Graduate,nan,>4,No
+Female,No relevent experience,no_enrollment,Graduate,NGO,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+nan,Has relevent experience,no_enrollment,Masters,nan,1,No
+Female,No relevent experience,no_enrollment,Graduate,Public Sector,1,No
+nan,No relevent experience,Full time course,Graduate,nan,never,No
+Male,Has relevent experience,no_enrollment,Masters,nan,2,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,>4,No
+Male,No relevent experience,Full time course,Graduate,nan,>4,No
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,4,No
+Male,No relevent experience,Full time course,High School,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,Graduate,nan,1,Yes
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,1,Yes
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+nan,Has relevent experience,no_enrollment,Graduate,nan,1,No
+Male,No relevent experience,no_enrollment,Primary School,nan,2,No
+nan,No relevent experience,no_enrollment,Masters,Public Sector,>4,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,2,Yes
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,Masters,nan,1,No
+Male,Has relevent experience,nan,Graduate,nan,1,No
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,1,Yes
+Male,No relevent experience,Full time course,Graduate,nan,never,No
+Male,Has relevent experience,Part time course,Primary School,nan,1,No
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,High School,nan,never,No
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,4,No
+Male,No relevent experience,no_enrollment,Masters,Funded Startup,1,No
+Male,No relevent experience,Full time course,High School,nan,never,Yes
+nan,No relevent experience,Full time course,High School,nan,nan,No
+Male,Has relevent experience,no_enrollment,nan,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,Masters,Public Sector,never,No
+Male,Has relevent experience,no_enrollment,Masters,NGO,1,No
+Male,Has relevent experience,Part time course,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,Primary School,Pvt Ltd,never,No
+nan,No relevent experience,Full time course,High School,nan,1,Yes
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+Female,Has relevent experience,Full time course,Phd,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,High School,Public Sector,1,No
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Masters,nan,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,2,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,2,No
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+Male,No relevent experience,Full time course,High School,Public Sector,2,Yes
+nan,No relevent experience,no_enrollment,Graduate,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,4,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,1,Yes
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,3,No
+nan,No relevent experience,no_enrollment,Graduate,nan,never,Yes
+Male,Has relevent experience,no_enrollment,Graduate,NGO,2,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,1,No
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,never,No
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,Masters,nan,1,Yes
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+Male,Has relevent experience,nan,Graduate,nan,never,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,3,No
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Masters,nan,>4,No
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,High School,nan,never,Yes
+Male,Has relevent experience,no_enrollment,Graduate,NGO,4,No
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,>4,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,never,No
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,1,Yes
+Female,Has relevent experience,no_enrollment,Graduate,nan,1,No
+Male,Has relevent experience,Part time course,Graduate,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Graduate,nan,1,No
+nan,Has relevent experience,no_enrollment,Masters,Public Sector,2,No
+Male,Has relevent experience,Full time course,High School,Early Stage Startup,1,Yes
+nan,Has relevent experience,Full time course,Graduate,NGO,never,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,3,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,Graduate,nan,>4,No
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,3,No
+Female,Has relevent experience,no_enrollment,Graduate,Other,1,No
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,2,No
+Female,No relevent experience,nan,nan,nan,never,No
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,1,No
+Male,No relevent experience,Full time course,Masters,NGO,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,1,Yes
+Female,No relevent experience,no_enrollment,Graduate,nan,never,Yes
+Male,No relevent experience,no_enrollment,Masters,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,2,Yes
+Male,No relevent experience,Full time course,Masters,nan,2,No
+Male,Has relevent experience,Part time course,Masters,nan,1,No
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,2,No
+Male,No relevent experience,Part time course,High School,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,1,Yes
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,Full time course,High School,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Graduate,NGO,2,Yes
+nan,No relevent experience,nan,Graduate,nan,never,Yes
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+Male,Has relevent experience,Part time course,Graduate,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,High School,Funded Startup,1,No
+Female,No relevent experience,no_enrollment,Phd,Public Sector,>4,No
+Female,No relevent experience,no_enrollment,Graduate,NGO,1,No
+Female,Has relevent experience,no_enrollment,Masters,nan,>4,No
+Female,No relevent experience,Full time course,Graduate,Pvt Ltd,3,No
+Male,Has relevent experience,Part time course,Graduate,NGO,1,No
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,3,Yes
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,4,No
+Male,Has relevent experience,no_enrollment,nan,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,never,No
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,>4,No
+Male,No relevent experience,Full time course,High School,nan,1,No
+nan,No relevent experience,Full time course,Graduate,Funded Startup,1,Yes
+Male,No relevent experience,Full time course,Graduate,Public Sector,1,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,nan,No
+nan,No relevent experience,Full time course,High School,NGO,never,No
+nan,No relevent experience,no_enrollment,Primary School,nan,never,No
+Male,Has relevent experience,Full time course,Graduate,nan,3,No
+Male,Has relevent experience,Full time course,Phd,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,Masters,nan,1,No
+nan,Has relevent experience,no_enrollment,Phd,Funded Startup,1,No
+Female,Has relevent experience,no_enrollment,Graduate,nan,2,Yes
+Male,No relevent experience,Full time course,High School,nan,nan,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,nan,No
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,2,Yes
+Male,No relevent experience,Part time course,Masters,Public Sector,never,No
+nan,No relevent experience,nan,Masters,Pvt Ltd,>4,No
+Male,Has relevent experience,Full time course,Masters,nan,>4,No
+Male,Has relevent experience,no_enrollment,Phd,Public Sector,3,No
+Female,No relevent experience,no_enrollment,Graduate,nan,1,Yes
+Male,Has relevent experience,Part time course,High School,nan,4,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,>4,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,never,No
+nan,No relevent experience,Full time course,Graduate,nan,2,Yes
+Male,Has relevent experience,Part time course,High School,Pvt Ltd,2,Yes
+Male,No relevent experience,no_enrollment,Phd,nan,1,No
+Male,No relevent experience,no_enrollment,Graduate,nan,1,No
+Male,Has relevent experience,Full time course,Masters,Public Sector,2,No
+Male,No relevent experience,Part time course,Masters,Pvt Ltd,never,No
+Male,No relevent experience,no_enrollment,Graduate,nan,never,Yes
+nan,No relevent experience,no_enrollment,Graduate,Early Stage Startup,never,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Male,Has relevent experience,Part time course,Graduate,Early Stage Startup,2,No
+Male,No relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,3,Yes
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,2,No
+nan,No relevent experience,no_enrollment,Primary School,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,nan,No
+nan,No relevent experience,no_enrollment,nan,nan,nan,No
+Male,Has relevent experience,no_enrollment,Graduate,NGO,1,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,never,No
+nan,Has relevent experience,Part time course,Graduate,Public Sector,1,No
+Male,Has relevent experience,Part time course,Graduate,Early Stage Startup,1,No
+Male,No relevent experience,no_enrollment,Primary School,nan,never,No
+nan,No relevent experience,nan,nan,nan,1,No
+Female,No relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+Male,No relevent experience,no_enrollment,Primary School,nan,1,No
+Male,Has relevent experience,no_enrollment,Graduate,NGO,>4,No
+Male,Has relevent experience,Full time course,Graduate,Early Stage Startup,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,2,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+Male,Has relevent experience,Part time course,High School,Pvt Ltd,4,No
+Male,Has relevent experience,no_enrollment,Phd,nan,>4,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+Male,Has relevent experience,Full time course,High School,nan,1,No
+Male,No relevent experience,no_enrollment,Masters,nan,>4,No
+nan,No relevent experience,no_enrollment,High School,nan,nan,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+nan,Has relevent experience,no_enrollment,Graduate,NGO,1,No
+Male,No relevent experience,Full time course,nan,nan,1,Yes
+nan,No relevent experience,no_enrollment,Masters,nan,1,No
+nan,No relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,High School,nan,never,No
+nan,No relevent experience,Full time course,Masters,nan,2,No
+Other,Has relevent experience,nan,Graduate,nan,1,No
+Male,No relevent experience,Part time course,High School,Funded Startup,1,No
+Other,Has relevent experience,no_enrollment,Graduate,nan,1,Yes
+Male,No relevent experience,Full time course,Graduate,Other,1,No
+Male,No relevent experience,no_enrollment,Graduate,Funded Startup,3,No
+Male,No relevent experience,Full time course,Graduate,Public Sector,never,No
+Female,No relevent experience,Full time course,Masters,Public Sector,1,Yes
+Male,Has relevent experience,Full time course,High School,Other,1,No
+nan,No relevent experience,Full time course,Graduate,nan,1,Yes
+nan,Has relevent experience,Part time course,Graduate,nan,4,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,nan,Graduate,Early Stage Startup,1,Yes
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+Female,No relevent experience,no_enrollment,Masters,Pvt Ltd,1,Yes
+Male,No relevent experience,no_enrollment,High School,nan,2,No
+Female,Has relevent experience,no_enrollment,Phd,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,nan,No
+Male,Has relevent experience,no_enrollment,nan,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,3,Yes
+Male,Has relevent experience,Full time course,Graduate,nan,>4,No
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,never,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,Masters,nan,3,No
+nan,No relevent experience,no_enrollment,Masters,nan,>4,No
+nan,No relevent experience,Full time course,Masters,nan,never,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,2,No
+nan,No relevent experience,no_enrollment,nan,nan,never,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,4,No
+nan,No relevent experience,nan,nan,nan,nan,No
+Female,No relevent experience,no_enrollment,Phd,NGO,4,Yes
+Male,Has relevent experience,Part time course,Masters,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,1,No
+Other,Has relevent experience,no_enrollment,Graduate,nan,2,Yes
+Other,No relevent experience,no_enrollment,Graduate,nan,>4,No
+Male,No relevent experience,no_enrollment,Graduate,NGO,1,No
+Male,No relevent experience,nan,High School,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,nan,Yes
+Male,No relevent experience,no_enrollment,Masters,Funded Startup,>4,No
+Female,No relevent experience,Full time course,High School,nan,never,No
+Female,No relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+nan,Has relevent experience,nan,nan,Funded Startup,3,No
+Male,No relevent experience,no_enrollment,Graduate,Public Sector,2,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,nan,No
+nan,Has relevent experience,no_enrollment,nan,nan,never,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,1,No
+Male,No relevent experience,Full time course,Masters,Public Sector,3,No
+Female,Has relevent experience,Part time course,High School,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,>4,No
+nan,No relevent experience,no_enrollment,High School,nan,1,Yes
+Female,No relevent experience,Full time course,Phd,Public Sector,2,No
+Male,Has relevent experience,Part time course,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,1,Yes
+Male,No relevent experience,Full time course,Masters,Public Sector,1,No
+Male,No relevent experience,Part time course,High School,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,1,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,1,No
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,4,Yes
+Male,No relevent experience,no_enrollment,Phd,Public Sector,>4,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,2,Yes
+nan,Has relevent experience,no_enrollment,Graduate,nan,2,No
+Male,Has relevent experience,Part time course,High School,nan,1,No
+Female,Has relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Phd,nan,1,No
+Female,Has relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,never,No
+nan,Has relevent experience,Full time course,Masters,nan,1,No
+nan,No relevent experience,Part time course,Graduate,Public Sector,nan,Yes
+nan,Has relevent experience,no_enrollment,Masters,Public Sector,1,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,3,Yes
+Male,No relevent experience,Full time course,nan,Pvt Ltd,>4,No
+nan,Has relevent experience,nan,Graduate,nan,2,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,3,Yes
+Male,Has relevent experience,Part time course,nan,nan,never,No
+Male,Has relevent experience,Part time course,High School,Funded Startup,2,No
+Male,No relevent experience,no_enrollment,Graduate,nan,3,Yes
+nan,Has relevent experience,Full time course,High School,Pvt Ltd,never,No
+nan,Has relevent experience,Part time course,Masters,Pvt Ltd,never,No
+Other,No relevent experience,no_enrollment,Primary School,nan,never,No
+Male,Has relevent experience,Full time course,Graduate,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,Phd,Funded Startup,>4,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,never,No
+nan,Has relevent experience,Part time course,Graduate,NGO,nan,Yes
+Male,No relevent experience,Part time course,Graduate,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,Masters,Early Stage Startup,never,No
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+nan,No relevent experience,nan,Graduate,Pvt Ltd,nan,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,3,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,>4,No
+nan,Has relevent experience,no_enrollment,Masters,Funded Startup,2,No
+nan,No relevent experience,nan,Graduate,nan,nan,Yes
+nan,Has relevent experience,Part time course,High School,Public Sector,1,Yes
+nan,Has relevent experience,no_enrollment,Masters,Funded Startup,1,No
+Male,No relevent experience,no_enrollment,Graduate,Early Stage Startup,1,Yes
+nan,Has relevent experience,Part time course,Masters,Pvt Ltd,>4,No
+nan,Has relevent experience,nan,Graduate,nan,1,No
+Female,Has relevent experience,no_enrollment,Graduate,Public Sector,1,Yes
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,1,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,>4,Yes
+nan,No relevent experience,Full time course,nan,nan,never,No
+Male,No relevent experience,no_enrollment,nan,nan,never,No
+Male,Has relevent experience,nan,nan,nan,>4,Yes
+Male,No relevent experience,Full time course,Graduate,Other,>4,No
+Male,No relevent experience,no_enrollment,High School,nan,1,Yes
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+Male,Has relevent experience,no_enrollment,Phd,Public Sector,2,No
+Male,Has relevent experience,Full time course,High School,Early Stage Startup,2,No
+Male,Has relevent experience,Full time course,Graduate,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,Full time course,High School,nan,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,>4,No
+nan,Has relevent experience,no_enrollment,High School,Funded Startup,2,No
+Female,Has relevent experience,no_enrollment,Graduate,Funded Startup,1,Yes
+nan,Has relevent experience,Full time course,Graduate,nan,nan,Yes
+Male,No relevent experience,Part time course,Graduate,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Phd,Early Stage Startup,1,No
+nan,Has relevent experience,Full time course,High School,Pvt Ltd,1,Yes
+Male,No relevent experience,Full time course,Graduate,NGO,>4,No
+Male,No relevent experience,no_enrollment,High School,Other,2,No
+nan,No relevent experience,no_enrollment,Graduate,nan,2,No
+nan,Has relevent experience,no_enrollment,Masters,NGO,4,No
+Female,Has relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+Other,Has relevent experience,Full time course,High School,Pvt Ltd,1,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,3,Yes
+Male,No relevent experience,Full time course,High School,Pvt Ltd,never,No
+Male,No relevent experience,Part time course,Graduate,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,1,Yes
+Female,Has relevent experience,nan,Masters,Pvt Ltd,1,Yes
+Male,No relevent experience,no_enrollment,Phd,nan,>4,No
+Male,No relevent experience,Full time course,Graduate,NGO,1,No
+Female,Has relevent experience,no_enrollment,Masters,nan,1,Yes
+Male,No relevent experience,no_enrollment,Graduate,nan,4,No
+Male,Has relevent experience,Part time course,Masters,Public Sector,1,Yes
+Other,No relevent experience,Full time course,Masters,nan,2,No
+Male,Has relevent experience,Part time course,Masters,nan,2,Yes
+Male,Has relevent experience,no_enrollment,Masters,nan,3,Yes
+Other,Has relevent experience,Full time course,Graduate,nan,1,Yes
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,Phd,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,High School,nan,2,Yes
+Male,No relevent experience,no_enrollment,Masters,NGO,2,No
+Male,No relevent experience,no_enrollment,nan,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,3,No
+Male,No relevent experience,no_enrollment,Graduate,Public Sector,1,No
+Male,Has relevent experience,Full time course,Masters,nan,2,Yes
+Male,No relevent experience,Full time course,High School,Funded Startup,never,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+nan,No relevent experience,no_enrollment,Phd,Public Sector,nan,No
+Male,No relevent experience,no_enrollment,High School,Public Sector,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,4,No
+nan,No relevent experience,no_enrollment,Graduate,NGO,2,No
+Male,No relevent experience,Full time course,Masters,nan,3,No
+Male,No relevent experience,Full time course,High School,NGO,2,Yes
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,2,Yes
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+nan,Has relevent experience,no_enrollment,Masters,Other,>4,No
+Male,No relevent experience,Full time course,High School,nan,4,Yes
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,>4,No
+Male,Has relevent experience,no_enrollment,Primary School,nan,never,No
+Male,No relevent experience,nan,High School,nan,never,Yes
+Male,No relevent experience,Part time course,Masters,nan,never,No
+nan,No relevent experience,nan,Graduate,nan,1,No
+Male,Has relevent experience,no_enrollment,Masters,nan,never,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,High School,nan,never,No
+nan,No relevent experience,no_enrollment,Graduate,nan,>4,Yes
+nan,Has relevent experience,Full time course,Masters,NGO,2,No
+Male,No relevent experience,no_enrollment,Masters,NGO,4,No
+Male,Has relevent experience,no_enrollment,nan,nan,2,No
+Male,No relevent experience,Part time course,Graduate,nan,2,No
+Female,No relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Male,Has relevent experience,nan,Graduate,nan,2,No
+Male,Has relevent experience,no_enrollment,High School,nan,2,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+Female,Has relevent experience,no_enrollment,Masters,nan,never,No
+Female,Has relevent experience,Full time course,Masters,Pvt Ltd,>4,Yes
+Male,Has relevent experience,Part time course,Graduate,nan,never,No
+Male,Has relevent experience,Full time course,Graduate,NGO,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,never,No
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,Graduate,nan,4,Yes
+Female,Has relevent experience,no_enrollment,Graduate,NGO,1,No
+Male,No relevent experience,Part time course,Graduate,Pvt Ltd,2,No
+Male,Has relevent experience,Part time course,Graduate,Public Sector,>4,No
+nan,Has relevent experience,Part time course,Masters,nan,1,No
+Male,Has relevent experience,no_enrollment,High School,nan,>4,No
+Male,Has relevent experience,Part time course,Primary School,nan,4,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,>4,No
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,>4,Yes
+Male,No relevent experience,no_enrollment,Graduate,nan,2,Yes
+nan,Has relevent experience,no_enrollment,Graduate,nan,nan,No
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,1,Yes
+Male,No relevent experience,Full time course,Graduate,nan,2,Yes
+Female,Has relevent experience,no_enrollment,Graduate,nan,3,No
+nan,Has relevent experience,Full time course,Graduate,Public Sector,nan,No
+Male,No relevent experience,Part time course,High School,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,Masters,Early Stage Startup,4,No
+Male,No relevent experience,no_enrollment,Graduate,NGO,2,No
+Female,No relevent experience,no_enrollment,Graduate,nan,>4,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,2,No
+Male,No relevent experience,nan,Graduate,nan,2,No
+nan,No relevent experience,no_enrollment,Masters,nan,3,Yes
+nan,No relevent experience,Full time course,Masters,Public Sector,1,No
+Other,No relevent experience,Full time course,High School,Pvt Ltd,2,No
+Male,Has relevent experience,Full time course,Graduate,Funded Startup,2,Yes
+Female,Has relevent experience,Part time course,nan,Pvt Ltd,2,No
+nan,No relevent experience,Full time course,Masters,NGO,2,No
+Female,No relevent experience,no_enrollment,Phd,NGO,1,No
+Female,No relevent experience,no_enrollment,Masters,nan,1,No
+Male,Has relevent experience,Part time course,High School,Pvt Ltd,1,No
+Male,No relevent experience,Full time course,Masters,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,Masters,NGO,4,No
+nan,No relevent experience,no_enrollment,Graduate,nan,4,No
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,1,Yes
+Female,Has relevent experience,Part time course,Masters,Pvt Ltd,1,No
+Male,No relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,High School,NGO,never,No
+Female,Has relevent experience,no_enrollment,Graduate,Public Sector,4,No
+Female,Has relevent experience,no_enrollment,Primary School,Early Stage Startup,1,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,2,No
+Female,Has relevent experience,Part time course,Graduate,Funded Startup,2,No
+Male,No relevent experience,Part time course,Masters,Public Sector,1,No
+Female,No relevent experience,Full time course,Graduate,nan,1,Yes
+nan,No relevent experience,no_enrollment,Phd,Public Sector,>4,No
+Female,Has relevent experience,no_enrollment,Masters,NGO,1,No
+nan,No relevent experience,Full time course,Graduate,Public Sector,nan,Yes
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,Graduate,Public Sector,4,No
+Male,No relevent experience,nan,nan,nan,never,No
+Other,No relevent experience,Full time course,High School,Pvt Ltd,3,No
+nan,No relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,Graduate,NGO,3,No
+Female,Has relevent experience,no_enrollment,Masters,Public Sector,3,No
+nan,Has relevent experience,no_enrollment,nan,nan,4,Yes
+Male,No relevent experience,no_enrollment,Primary School,nan,nan,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+nan,Has relevent experience,nan,Graduate,nan,3,No
+nan,Has relevent experience,Part time course,Masters,Funded Startup,1,No
+Male,No relevent experience,Part time course,High School,nan,1,No
+Other,Has relevent experience,no_enrollment,Masters,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,4,No
+Male,No relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+Male,Has relevent experience,Part time course,Masters,Pvt Ltd,1,No
+nan,No relevent experience,no_enrollment,Masters,Funded Startup,1,No
+Female,No relevent experience,Full time course,Masters,NGO,3,No
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,never,No
+Female,No relevent experience,Full time course,Masters,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,never,No
+Male,Has relevent experience,Part time course,Graduate,nan,>4,Yes
+Male,No relevent experience,Full time course,High School,Public Sector,1,No
+nan,Has relevent experience,Part time course,Masters,NGO,>4,Yes
+Male,Has relevent experience,Full time course,Graduate,Public Sector,2,No
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,1,Yes
+Male,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,never,No
+nan,Has relevent experience,Part time course,Graduate,nan,>4,No
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,nan,nan,nan,No
+Male,No relevent experience,no_enrollment,Masters,nan,never,No
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,1,No
+Female,Has relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,Graduate,Early Stage Startup,1,Yes
+Male,No relevent experience,Part time course,Graduate,nan,never,Yes
+Male,Has relevent experience,no_enrollment,High School,Other,1,No
+Male,Has relevent experience,nan,Graduate,nan,>4,No
+Male,Has relevent experience,nan,Masters,nan,2,No
+nan,No relevent experience,Full time course,Graduate,Public Sector,1,No
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,Graduate,Other,>4,No
+Female,No relevent experience,no_enrollment,Graduate,NGO,2,No
+Male,No relevent experience,no_enrollment,Graduate,Early Stage Startup,never,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,4,No
+Male,Has relevent experience,no_enrollment,nan,Funded Startup,3,No
+Female,No relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,nan,Public Sector,>4,No
+Male,No relevent experience,Part time course,Masters,Pvt Ltd,1,No
+Male,No relevent experience,Part time course,Masters,NGO,1,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Female,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,3,No
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,4,No
+Female,No relevent experience,no_enrollment,Masters,Public Sector,>4,No
+Female,Has relevent experience,Part time course,Graduate,nan,1,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,nan,No
+nan,Has relevent experience,Part time course,Masters,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,Masters,Public Sector,1,No
+Male,No relevent experience,Part time course,Graduate,Public Sector,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,2,Yes
+nan,No relevent experience,no_enrollment,nan,Pvt Ltd,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+Female,No relevent experience,Full time course,Masters,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,Masters,Public Sector,1,No
+nan,Has relevent experience,Full time course,nan,Public Sector,never,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,>4,No
+Male,No relevent experience,nan,Masters,nan,1,No
+Male,Has relevent experience,Part time course,Masters,Public Sector,3,No
+nan,No relevent experience,Part time course,Graduate,nan,2,Yes
+Male,Has relevent experience,no_enrollment,nan,Funded Startup,>4,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,1,Yes
+Female,No relevent experience,Full time course,High School,nan,1,No
+Male,No relevent experience,Part time course,Masters,NGO,>4,No
+Female,Has relevent experience,no_enrollment,Graduate,NGO,>4,No
+Male,Has relevent experience,no_enrollment,Masters,nan,4,No
+Male,No relevent experience,Full time course,Primary School,nan,1,No
+nan,No relevent experience,nan,High School,nan,never,No
+nan,Has relevent experience,no_enrollment,Masters,Pvt Ltd,nan,No
+nan,Has relevent experience,no_enrollment,Masters,nan,never,No
+Male,Has relevent experience,no_enrollment,High School,NGO,>4,No
+nan,No relevent experience,Full time course,High School,Pvt Ltd,never,Yes
+Other,Has relevent experience,Part time course,High School,Pvt Ltd,>4,No
+Male,No relevent experience,Part time course,Masters,nan,1,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,2,No
+Other,No relevent experience,Full time course,Graduate,NGO,1,No
+Male,Has relevent experience,Part time course,Graduate,nan,4,No
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,4,Yes
+nan,Has relevent experience,Full time course,Graduate,Public Sector,3,No
+nan,Has relevent experience,Full time course,Masters,Funded Startup,2,No
+Male,Has relevent experience,no_enrollment,Primary School,nan,1,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,4,Yes
+Female,Has relevent experience,no_enrollment,Graduate,Funded Startup,4,No
+Male,Has relevent experience,no_enrollment,High School,Other,>4,No
+nan,No relevent experience,Part time course,nan,nan,nan,Yes
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,3,No
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,3,No
+Female,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,2,No
+Male,No relevent experience,Part time course,High School,nan,>4,Yes
+nan,No relevent experience,Full time course,Graduate,nan,nan,Yes
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,never,Yes
+nan,Has relevent experience,Full time course,High School,Pvt Ltd,nan,No
+nan,Has relevent experience,no_enrollment,Graduate,nan,never,Yes
+nan,No relevent experience,no_enrollment,High School,nan,3,No
+nan,Has relevent experience,Full time course,High School,nan,1,Yes
+nan,Has relevent experience,Full time course,nan,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,3,No
+Other,Has relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,never,No
+nan,Has relevent experience,Full time course,Graduate,NGO,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,nan,3,No
+Male,Has relevent experience,Full time course,High School,nan,2,Yes
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,nan,No
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,1,No
+nan,Has relevent experience,Part time course,Graduate,nan,1,No
+Male,No relevent experience,Full time course,Masters,NGO,>4,Yes
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,4,No
+Female,Has relevent experience,no_enrollment,Phd,Public Sector,>4,No
+nan,No relevent experience,Part time course,Masters,nan,4,No
+nan,No relevent experience,Full time course,High School,NGO,nan,No
+Female,Has relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+Male,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,nan,No
+Male,Has relevent experience,Full time course,Graduate,Public Sector,1,No
+Male,Has relevent experience,Part time course,Graduate,Pvt Ltd,nan,No
+nan,Has relevent experience,Full time course,Graduate,NGO,nan,Yes
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,never,Yes
+Male,No relevent experience,no_enrollment,Masters,nan,4,Yes
+Female,No relevent experience,no_enrollment,Graduate,Funded Startup,never,No
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,4,No
+nan,No relevent experience,no_enrollment,Masters,NGO,1,No
+nan,Has relevent experience,Part time course,Masters,nan,2,No
+Male,Has relevent experience,Full time course,Graduate,Other,1,No
+Other,No relevent experience,no_enrollment,Graduate,NGO,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,3,No
+nan,No relevent experience,nan,Graduate,Pvt Ltd,never,Yes
+Male,No relevent experience,Part time course,High School,Early Stage Startup,never,Yes
+nan,No relevent experience,no_enrollment,Masters,nan,2,No
+Male,Has relevent experience,no_enrollment,Graduate,NGO,never,No
+nan,No relevent experience,no_enrollment,Phd,NGO,1,No
+Male,Has relevent experience,no_enrollment,Phd,Public Sector,1,No
+Male,Has relevent experience,Part time course,Masters,nan,3,No
+nan,No relevent experience,Full time course,Graduate,NGO,1,Yes
+Male,Has relevent experience,Part time course,High School,Public Sector,2,No
+Male,No relevent experience,no_enrollment,Masters,Public Sector,>4,No
+nan,Has relevent experience,Full time course,Graduate,nan,>4,No
+Female,No relevent experience,Part time course,Masters,Public Sector,1,No
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,3,No
+nan,Has relevent experience,Full time course,Masters,nan,nan,No
+Male,No relevent experience,Full time course,High School,Early Stage Startup,1,Yes
+Male,Has relevent experience,Full time course,Graduate,nan,4,No
+Female,Has relevent experience,Full time course,Masters,nan,4,Yes
+Male,No relevent experience,no_enrollment,nan,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,4,No
+Male,Has relevent experience,Part time course,Masters,nan,>4,Yes
+nan,No relevent experience,Full time course,Masters,NGO,3,No
+nan,No relevent experience,no_enrollment,Masters,Other,nan,No
+nan,No relevent experience,Part time course,High School,Pvt Ltd,1,No
+nan,Has relevent experience,Full time course,nan,Early Stage Startup,never,No
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,4,Yes
+nan,No relevent experience,no_enrollment,Primary School,Pvt Ltd,2,No
+Other,Has relevent experience,no_enrollment,Graduate,Public Sector,4,Yes
+Other,Has relevent experience,Full time course,Masters,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,1,Yes
+nan,No relevent experience,no_enrollment,Phd,Public Sector,2,No
+Male,No relevent experience,Full time course,High School,nan,2,No
+nan,Has relevent experience,Full time course,Graduate,nan,3,Yes
+Female,Has relevent experience,Full time course,Masters,Early Stage Startup,never,Yes
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,Primary School,nan,>4,No
+Male,No relevent experience,Part time course,Graduate,Public Sector,>4,No
+Male,No relevent experience,Full time course,Masters,nan,never,Yes
+Female,Has relevent experience,no_enrollment,Phd,Pvt Ltd,3,Yes
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,nan,Yes
+nan,No relevent experience,Full time course,High School,Pvt Ltd,1,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,Part time course,High School,Pvt Ltd,3,No
+Male,No relevent experience,Full time course,Graduate,Public Sector,2,Yes
+Male,No relevent experience,no_enrollment,Graduate,Funded Startup,>4,No
+nan,No relevent experience,Full time course,Graduate,Funded Startup,2,Yes
+nan,No relevent experience,nan,High School,nan,nan,No
+Female,No relevent experience,no_enrollment,High School,nan,never,No
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,Masters,Other,1,No
+nan,No relevent experience,Full time course,Primary School,nan,never,No
+Male,No relevent experience,no_enrollment,Phd,nan,never,No
+nan,No relevent experience,Part time course,Graduate,NGO,2,Yes
+nan,No relevent experience,no_enrollment,Phd,NGO,never,No
+Male,No relevent experience,no_enrollment,Graduate,Public Sector,3,No
+Male,Has relevent experience,Part time course,Masters,Pvt Ltd,2,No
+Male,Has relevent experience,no_enrollment,High School,Public Sector,>4,No
+Female,Has relevent experience,Full time course,Graduate,nan,1,No
+Male,No relevent experience,no_enrollment,Masters,Funded Startup,2,No
+nan,No relevent experience,nan,nan,nan,never,No
+nan,No relevent experience,Full time course,Masters,nan,1,Yes
+Male,Has relevent experience,Full time course,Graduate,Early Stage Startup,4,No
+Female,No relevent experience,Part time course,Graduate,Pvt Ltd,1,No
+Female,Has relevent experience,Full time course,Masters,Pvt Ltd,1,Yes
+Male,No relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+nan,No relevent experience,no_enrollment,Primary School,nan,1,No
+Male,Has relevent experience,Full time course,Graduate,Early Stage Startup,never,No
+Male,Has relevent experience,no_enrollment,Masters,NGO,>4,No
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Other,Has relevent experience,no_enrollment,Graduate,NGO,1,No
+nan,No relevent experience,Full time course,Phd,Public Sector,>4,No
+Other,Has relevent experience,no_enrollment,Graduate,Public Sector,1,No
+Male,Has relevent experience,Full time course,nan,Pvt Ltd,2,No
+nan,No relevent experience,no_enrollment,Masters,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Graduate,nan,2,Yes
+nan,No relevent experience,no_enrollment,Graduate,Early Stage Startup,1,Yes
+Female,Has relevent experience,no_enrollment,Graduate,nan,>4,Yes
+nan,No relevent experience,Full time course,High School,Pvt Ltd,2,No
+nan,No relevent experience,Part time course,Phd,Public Sector,2,Yes
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Male,Has relevent experience,Full time course,Graduate,nan,never,Yes
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,4,No
+nan,Has relevent experience,no_enrollment,Graduate,NGO,>4,No
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,nan,No
+nan,Has relevent experience,no_enrollment,High School,nan,3,No
+nan,No relevent experience,no_enrollment,nan,Public Sector,never,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,4,No
+Male,No relevent experience,Full time course,Graduate,Funded Startup,1,No
+nan,No relevent experience,Part time course,High School,nan,never,No
+Male,Has relevent experience,Part time course,Graduate,Funded Startup,2,Yes
+Male,No relevent experience,no_enrollment,High School,Public Sector,never,Yes
+nan,No relevent experience,no_enrollment,Graduate,Pvt Ltd,2,Yes
+Male,Has relevent experience,no_enrollment,Phd,Funded Startup,2,No
+nan,No relevent experience,Part time course,Graduate,NGO,1,Yes
+nan,No relevent experience,nan,nan,Pvt Ltd,never,No
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,never,No
+Male,Has relevent experience,Full time course,Masters,Pvt Ltd,2,No
+Male,Has relevent experience,nan,Phd,Funded Startup,>4,No
+Male,Has relevent experience,no_enrollment,High School,Funded Startup,3,No
+Male,No relevent experience,Full time course,Primary School,nan,never,No
+Female,Has relevent experience,Part time course,Graduate,Pvt Ltd,2,No
+Male,Has relevent experience,nan,nan,nan,never,No
+Male,Has relevent experience,no_enrollment,Masters,nan,nan,No
+Male,No relevent experience,Full time course,Masters,nan,4,Yes
+Female,Has relevent experience,no_enrollment,Graduate,Funded Startup,2,No
+Male,Has relevent experience,nan,Graduate,Early Stage Startup,never,Yes
+Female,Has relevent experience,no_enrollment,High School,Funded Startup,1,Yes
+Male,Has relevent experience,Part time course,nan,nan,1,No
+Male,No relevent experience,no_enrollment,High School,Funded Startup,2,No
+nan,No relevent experience,Part time course,Graduate,nan,>4,Yes
+Male,No relevent experience,no_enrollment,Masters,Public Sector,never,No
+Male,No relevent experience,no_enrollment,Phd,NGO,1,No
+Other,No relevent experience,Full time course,Graduate,nan,2,No
+nan,Has relevent experience,no_enrollment,High School,Funded Startup,1,No
+nan,Has relevent experience,Full time course,Graduate,nan,2,Yes
+Male,Has relevent experience,Part time course,High School,Pvt Ltd,>4,No
+nan,Has relevent experience,nan,Masters,Pvt Ltd,1,Yes
+Male,Has relevent experience,no_enrollment,Phd,nan,3,No
+Male,No relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Male,Has relevent experience,no_enrollment,Phd,nan,2,Yes
+Male,Has relevent experience,Full time course,Masters,Funded Startup,1,No
+Male,No relevent experience,Full time course,Masters,NGO,1,No
+Female,No relevent experience,no_enrollment,Phd,NGO,2,No
+Male,No relevent experience,no_enrollment,Phd,nan,4,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,3,No
+nan,Has relevent experience,nan,Masters,nan,3,Yes
+nan,Has relevent experience,Full time course,Masters,Public Sector,1,No
+Female,Has relevent experience,no_enrollment,Graduate,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,nan,nan,1,No
+nan,No relevent experience,no_enrollment,nan,nan,2,No
+Male,Has relevent experience,Full time course,Primary School,nan,1,No
+Other,Has relevent experience,Full time course,Masters,Pvt Ltd,1,No
+Female,Has relevent experience,Full time course,Graduate,Pvt Ltd,never,Yes
+nan,No relevent experience,no_enrollment,nan,nan,1,No
+nan,Has relevent experience,no_enrollment,nan,nan,>4,Yes
+Female,No relevent experience,Full time course,Masters,nan,>4,No
+Other,Has relevent experience,Part time course,Graduate,Pvt Ltd,4,No
+Male,No relevent experience,Full time course,High School,Pvt Ltd,2,No
+Male,No relevent experience,Full time course,Masters,Public Sector,nan,No
+Male,No relevent experience,nan,Graduate,NGO,2,Yes
+Female,Has relevent experience,no_enrollment,Phd,NGO,>4,No
+Female,Has relevent experience,no_enrollment,Masters,nan,3,Yes
+Other,Has relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Phd,nan,>4,No
+Female,No relevent experience,no_enrollment,Graduate,Public Sector,never,Yes
+Female,Has relevent experience,Part time course,Graduate,nan,2,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,4,No
+Male,No relevent experience,Full time course,Graduate,Early Stage Startup,never,No
+nan,No relevent experience,Full time course,nan,Early Stage Startup,1,Yes
+Male,Has relevent experience,Full time course,Phd,nan,1,Yes
+Male,Has relevent experience,Full time course,Masters,NGO,1,No
+Male,No relevent experience,nan,nan,nan,1,No
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,2,Yes
+Male,No relevent experience,no_enrollment,Phd,Pvt Ltd,2,No
+Other,No relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,Yes
+Other,No relevent experience,Full time course,High School,Public Sector,3,Yes
+nan,Has relevent experience,Part time course,High School,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Masters,nan,3,Yes
+Male,Has relevent experience,no_enrollment,nan,nan,1,No
+nan,No relevent experience,Part time course,Primary School,Pvt Ltd,never,No
+Male,Has relevent experience,Full time course,Masters,Early Stage Startup,1,Yes
+Female,Has relevent experience,no_enrollment,Masters,Early Stage Startup,1,No
+Male,No relevent experience,no_enrollment,High School,Pvt Ltd,2,No
+nan,Has relevent experience,Full time course,Graduate,nan,never,No
+Female,Has relevent experience,no_enrollment,Graduate,Funded Startup,3,Yes
+Male,Has relevent experience,Full time course,Graduate,NGO,2,No
+nan,Has relevent experience,Part time course,Graduate,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+Male,Has relevent experience,Part time course,Graduate,nan,3,Yes
+nan,No relevent experience,Full time course,Graduate,Public Sector,2,Yes
+nan,No relevent experience,no_enrollment,Phd,nan,nan,No
+Other,No relevent experience,nan,nan,nan,never,No
+nan,Has relevent experience,nan,Masters,NGO,2,Yes
+Male,No relevent experience,Part time course,High School,Pvt Ltd,>4,No
+Female,No relevent experience,no_enrollment,Masters,Funded Startup,never,Yes
+Female,No relevent experience,Part time course,Graduate,nan,never,No
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,2,No
+Male,No relevent experience,Full time course,High School,Pvt Ltd,4,No
+nan,No relevent experience,Part time course,Masters,nan,1,No
+Male,No relevent experience,no_enrollment,High School,Early Stage Startup,1,Yes
+Male,No relevent experience,no_enrollment,Masters,NGO,3,No
+Male,No relevent experience,no_enrollment,Masters,Public Sector,2,No
+Female,Has relevent experience,no_enrollment,High School,nan,>4,No
+nan,Has relevent experience,no_enrollment,Masters,nan,4,No
+nan,Has relevent experience,Part time course,Masters,NGO,never,No
+nan,No relevent experience,no_enrollment,Phd,nan,1,No
+Other,Has relevent experience,no_enrollment,Masters,Pvt Ltd,>4,No
+Other,No relevent experience,no_enrollment,Primary School,nan,1,No
+nan,Has relevent experience,no_enrollment,nan,nan,1,Yes
+nan,No relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+nan,Has relevent experience,Part time course,Graduate,nan,2,Yes
+Male,Has relevent experience,Part time course,Graduate,nan,2,Yes
+nan,Has relevent experience,Part time course,Masters,Public Sector,2,Yes
+Male,Has relevent experience,no_enrollment,Masters,Other,2,No
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,nan,No
+Other,No relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+nan,Has relevent experience,Part time course,High School,nan,nan,Yes
+nan,No relevent experience,no_enrollment,Masters,NGO,4,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,>4,No
+Male,No relevent experience,Part time course,Graduate,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Masters,Pvt Ltd,never,Yes
+Male,Has relevent experience,no_enrollment,High School,Public Sector,1,No
+nan,Has relevent experience,no_enrollment,High School,nan,4,No
+Male,No relevent experience,no_enrollment,Graduate,NGO,>4,Yes
+Male,No relevent experience,Part time course,Phd,nan,>4,No
+Male,Has relevent experience,Part time course,Graduate,Public Sector,1,No
+Female,No relevent experience,Full time course,Graduate,NGO,1,Yes
+Female,No relevent experience,no_enrollment,Graduate,Early Stage Startup,never,No
+nan,Has relevent experience,no_enrollment,Graduate,Other,3,No
+nan,Has relevent experience,no_enrollment,Masters,Public Sector,>4,No
+Male,No relevent experience,Part time course,Masters,NGO,2,No
+Female,No relevent experience,no_enrollment,Masters,NGO,>4,No
+Male,No relevent experience,Part time course,Graduate,nan,>4,Yes
+nan,No relevent experience,Full time course,nan,Early Stage Startup,never,No
+nan,Has relevent experience,no_enrollment,Masters,Other,1,No
+nan,No relevent experience,Part time course,Graduate,nan,1,Yes
+Female,Has relevent experience,no_enrollment,Phd,NGO,1,Yes
+Male,Has relevent experience,Full time course,Masters,Public Sector,4,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,2,Yes
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,>4,No
+Male,Has relevent experience,Part time course,Graduate,NGO,2,No
+Female,Has relevent experience,nan,Masters,Pvt Ltd,never,Yes
+Male,Has relevent experience,nan,Masters,Funded Startup,1,Yes
+nan,No relevent experience,Part time course,Graduate,nan,nan,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,1,No
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,>4,Yes
+Male,Has relevent experience,Full time course,Graduate,NGO,>4,No
+nan,No relevent experience,no_enrollment,Masters,Public Sector,2,Yes
+Female,Has relevent experience,Full time course,Graduate,Public Sector,1,Yes
+nan,Has relevent experience,Part time course,Graduate,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,Phd,nan,4,No
+Female,No relevent experience,Full time course,Graduate,nan,2,Yes
+Male,Has relevent experience,no_enrollment,Masters,Public Sector,4,No
+Male,No relevent experience,Full time course,Graduate,nan,nan,Yes
+Female,No relevent experience,Full time course,High School,Public Sector,1,No
+Male,Has relevent experience,Full time course,nan,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Masters,Pvt Ltd,nan,No
+Female,No relevent experience,no_enrollment,High School,nan,2,No
+Female,Has relevent experience,no_enrollment,Phd,Pvt Ltd,2,No
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,never,No
+Other,No relevent experience,no_enrollment,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,nan,nan,never,No
+Male,No relevent experience,Part time course,Graduate,NGO,>4,No
+Male,Has relevent experience,no_enrollment,nan,Early Stage Startup,3,No
+Male,Has relevent experience,Part time course,Masters,NGO,3,No
+Female,No relevent experience,no_enrollment,Graduate,Early Stage Startup,2,No
+Female,No relevent experience,nan,High School,nan,never,No
+nan,No relevent experience,no_enrollment,High School,Public Sector,>4,No
+Male,Has relevent experience,Part time course,nan,Pvt Ltd,2,Yes
+Female,No relevent experience,no_enrollment,Masters,Public Sector,1,No
+Male,No relevent experience,Full time course,nan,nan,never,No
+Other,Has relevent experience,no_enrollment,nan,nan,1,No
+nan,No relevent experience,Full time course,Masters,Funded Startup,1,No
+nan,Has relevent experience,nan,nan,nan,3,No
+nan,Has relevent experience,Part time course,High School,Pvt Ltd,1,No
+nan,Has relevent experience,no_enrollment,nan,Funded Startup,1,No
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,nan,Yes
+Male,No relevent experience,Full time course,Graduate,Funded Startup,4,No
+Male,Has relevent experience,Full time course,High School,Funded Startup,never,No
+nan,Has relevent experience,Full time course,High School,Early Stage Startup,1,No
+Male,Has relevent experience,no_enrollment,Primary School,nan,2,No
+Female,Has relevent experience,no_enrollment,Masters,nan,nan,Yes
+Male,Has relevent experience,Full time course,Graduate,nan,2,Yes
+Female,Has relevent experience,Full time course,Masters,Funded Startup,1,No
+Male,No relevent experience,Full time course,High School,Early Stage Startup,2,Yes
+Male,Has relevent experience,Part time course,High School,Pvt Ltd,3,No
+nan,Has relevent experience,Part time course,nan,Public Sector,2,Yes
+Male,No relevent experience,Full time course,Masters,nan,nan,Yes
+Other,Has relevent experience,Full time course,Graduate,nan,never,Yes
+nan,No relevent experience,no_enrollment,Phd,Pvt Ltd,2,No
+nan,No relevent experience,Part time course,Masters,Public Sector,nan,No
+Male,No relevent experience,nan,High School,nan,1,No
+Other,Has relevent experience,no_enrollment,Graduate,nan,>4,Yes
+Other,Has relevent experience,no_enrollment,nan,nan,never,No
+Female,Has relevent experience,Full time course,Graduate,Early Stage Startup,2,Yes
+Female,Has relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+Male,Has relevent experience,Full time course,Graduate,nan,nan,No
+nan,Has relevent experience,no_enrollment,Graduate,Other,1,Yes
+Female,Has relevent experience,no_enrollment,Masters,Public Sector,2,Yes
+Male,No relevent experience,no_enrollment,High School,nan,>4,No
+nan,Has relevent experience,Full time course,High School,nan,4,No
+nan,No relevent experience,Full time course,Graduate,Pvt Ltd,nan,No
+nan,Has relevent experience,nan,Graduate,Funded Startup,1,No
+Male,No relevent experience,Part time course,Graduate,Early Stage Startup,4,Yes
+Male,Has relevent experience,Full time course,High School,nan,>4,No
+nan,Has relevent experience,Part time course,Graduate,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,Phd,Early Stage Startup,2,No
+Male,No relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+Other,No relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+Male,No relevent experience,nan,Masters,nan,nan,No
+Female,Has relevent experience,no_enrollment,Masters,Public Sector,1,No
+nan,Has relevent experience,Part time course,High School,nan,4,No
+Other,No relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,Masters,Public Sector,4,No
+nan,Has relevent experience,Full time course,Masters,NGO,1,No
+nan,Has relevent experience,Full time course,High School,Public Sector,1,No
+Male,Has relevent experience,no_enrollment,High School,Public Sector,4,No
+nan,Has relevent experience,nan,nan,nan,never,No
+Male,Has relevent experience,Part time course,Masters,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Masters,NGO,1,No
+Male,No relevent experience,Part time course,nan,Pvt Ltd,1,No
+nan,Has relevent experience,Full time course,Graduate,Funded Startup,2,No
+nan,No relevent experience,nan,nan,nan,2,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,4,No
+nan,No relevent experience,Full time course,Masters,nan,nan,No
+Other,Has relevent experience,nan,Phd,nan,1,Yes
+nan,No relevent experience,no_enrollment,Masters,nan,never,No
+Other,Has relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+Other,No relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Male,No relevent experience,nan,Graduate,nan,never,Yes
+Other,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,1,No
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,2,No
+Other,No relevent experience,Part time course,Graduate,Pvt Ltd,2,Yes
+Male,Has relevent experience,Full time course,Masters,Public Sector,nan,No
+Female,Has relevent experience,Full time course,Masters,Pvt Ltd,3,No
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,2,Yes
+Other,Has relevent experience,no_enrollment,High School,Funded Startup,4,Yes
+Female,Has relevent experience,Part time course,Graduate,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+nan,Has relevent experience,Full time course,Masters,nan,never,No
+nan,Has relevent experience,Part time course,nan,Pvt Ltd,1,No
+nan,Has relevent experience,no_enrollment,Masters,NGO,>4,No
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,3,Yes
+Male,No relevent experience,no_enrollment,nan,nan,2,No
+Male,No relevent experience,Part time course,Graduate,nan,3,Yes
+nan,Has relevent experience,nan,Masters,Funded Startup,1,No
+nan,No relevent experience,Full time course,Masters,nan,>4,Yes
+Female,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,1,No
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,nan,Yes
+nan,Has relevent experience,nan,Graduate,nan,>4,Yes
+Male,Has relevent experience,Full time course,Masters,nan,4,No
+Female,Has relevent experience,Full time course,Graduate,NGO,4,Yes
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,2,No
+nan,Has relevent experience,Full time course,Graduate,Pvt Ltd,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,nan,4,Yes
+Female,No relevent experience,Full time course,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,Part time course,Primary School,nan,nan,Yes
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,4,Yes
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,4,No
+Male,Has relevent experience,no_enrollment,Graduate,Public Sector,never,No
+Male,No relevent experience,Full time course,Phd,Public Sector,1,Yes
+nan,Has relevent experience,Part time course,nan,Pvt Ltd,nan,No
+Male,No relevent experience,Full time course,Masters,NGO,3,No
+Male,Has relevent experience,Part time course,Masters,Public Sector,>4,No
+nan,No relevent experience,no_enrollment,Graduate,Funded Startup,never,No
+Female,No relevent experience,no_enrollment,Phd,nan,2,Yes
+Female,Has relevent experience,no_enrollment,High School,Pvt Ltd,>4,No
+Other,No relevent experience,nan,High School,nan,never,Yes
+Female,No relevent experience,no_enrollment,Graduate,Public Sector,2,Yes
+nan,No relevent experience,nan,High School,Public Sector,2,No
+nan,Has relevent experience,Full time course,Graduate,NGO,1,No
+Female,Has relevent experience,no_enrollment,nan,nan,>4,No
+nan,Has relevent experience,Full time course,Masters,nan,>4,No
+Male,Has relevent experience,nan,nan,Pvt Ltd,1,Yes
+Female,No relevent experience,no_enrollment,Masters,Pvt Ltd,2,No
+Other,No relevent experience,Part time course,Graduate,Other,2,Yes
+nan,Has relevent experience,nan,Masters,Pvt Ltd,never,No
+Male,Has relevent experience,nan,High School,Funded Startup,2,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,nan,No
+Male,No relevent experience,Full time course,Graduate,nan,3,Yes
+nan,No relevent experience,no_enrollment,nan,NGO,>4,No
+nan,No relevent experience,nan,nan,NGO,1,Yes
+Male,No relevent experience,nan,Graduate,Pvt Ltd,1,Yes
+Other,No relevent experience,Part time course,Graduate,Funded Startup,1,Yes
+Other,Has relevent experience,no_enrollment,High School,nan,2,No
+Female,No relevent experience,Part time course,Masters,nan,1,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Other,2,No
+Male,Has relevent experience,Full time course,High School,nan,nan,No
+Female,Has relevent experience,no_enrollment,Masters,Funded Startup,1,Yes
+Female,No relevent experience,Full time course,Graduate,Pvt Ltd,never,No
+Female,Has relevent experience,nan,Graduate,nan,>4,No
+nan,No relevent experience,no_enrollment,Masters,Funded Startup,2,No
+Male,Has relevent experience,Full time course,Masters,nan,never,No
+nan,Has relevent experience,no_enrollment,High School,NGO,1,No
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,never,No
+Male,No relevent experience,Part time course,Graduate,Funded Startup,1,No
+nan,No relevent experience,Part time course,Primary School,Pvt Ltd,1,Yes
+nan,Has relevent experience,Full time course,Masters,Early Stage Startup,2,No
+Other,No relevent experience,Full time course,Graduate,Public Sector,1,Yes
+nan,Has relevent experience,Part time course,Phd,nan,>4,No
+nan,Has relevent experience,no_enrollment,Phd,Public Sector,3,No
+Female,No relevent experience,Full time course,nan,nan,1,No
+Male,No relevent experience,Part time course,High School,Pvt Ltd,never,No
+Male,No relevent experience,Full time course,Graduate,Public Sector,>4,Yes
+Female,Has relevent experience,Full time course,Graduate,nan,>4,No
+Female,Has relevent experience,no_enrollment,Masters,Other,never,Yes
+Male,Has relevent experience,no_enrollment,High School,nan,4,No
+nan,Has relevent experience,no_enrollment,High School,nan,never,No
+nan,No relevent experience,Full time course,Masters,NGO,nan,No
+Female,Has relevent experience,Part time course,Masters,nan,3,No
+Other,No relevent experience,no_enrollment,High School,nan,2,No
+nan,Has relevent experience,Full time course,Masters,nan,2,No
+Male,No relevent experience,no_enrollment,Masters,NGO,>4,Yes
+nan,No relevent experience,Full time course,Primary School,Early Stage Startup,2,Yes
+Male,No relevent experience,Part time course,Graduate,nan,4,Yes
+Female,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,never,Yes
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,2,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,2,No
+nan,Has relevent experience,nan,Graduate,Public Sector,>4,No
+Female,No relevent experience,Full time course,Graduate,Public Sector,4,No
+nan,Has relevent experience,nan,Phd,nan,1,No
+Male,Has relevent experience,Part time course,High School,Other,2,No
+Other,No relevent experience,Full time course,High School,nan,1,Yes
+nan,No relevent experience,Full time course,High School,Pvt Ltd,3,No
+Male,Has relevent experience,nan,High School,Pvt Ltd,2,No
+Male,No relevent experience,Full time course,Masters,nan,>4,Yes
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,3,No
+Male,No relevent experience,Part time course,Graduate,NGO,4,No
+Female,Has relevent experience,no_enrollment,Graduate,NGO,3,No
+Male,No relevent experience,nan,nan,Pvt Ltd,never,No
+Male,Has relevent experience,nan,Graduate,Funded Startup,1,No
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Phd,Pvt Ltd,3,No
+Female,Has relevent experience,no_enrollment,Masters,Funded Startup,4,No
+Other,No relevent experience,Full time course,Graduate,nan,1,Yes
+Female,No relevent experience,no_enrollment,Masters,Funded Startup,1,No
+nan,Has relevent experience,Full time course,Phd,Public Sector,never,No
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,4,No
+Female,No relevent experience,Part time course,High School,Public Sector,1,Yes
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,>4,Yes
+Male,Has relevent experience,no_enrollment,nan,Pvt Ltd,4,No
+nan,No relevent experience,no_enrollment,Masters,nan,nan,Yes
+Male,Has relevent experience,nan,Masters,Pvt Ltd,1,Yes
+nan,No relevent experience,no_enrollment,Primary School,Pvt Ltd,1,No
+nan,No relevent experience,no_enrollment,Phd,Public Sector,1,Yes
+nan,Has relevent experience,Part time course,Graduate,NGO,1,No
+Female,Has relevent experience,no_enrollment,Graduate,nan,never,No
+nan,Has relevent experience,Full time course,Masters,Public Sector,nan,No
+Female,No relevent experience,Full time course,High School,Pvt Ltd,never,Yes
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,2,Yes
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,>4,No
+Male,Has relevent experience,no_enrollment,Masters,NGO,2,No
+Male,Has relevent experience,no_enrollment,High School,nan,3,No
+nan,Has relevent experience,Full time course,High School,Pvt Ltd,>4,No
+Female,Has relevent experience,no_enrollment,Phd,Public Sector,2,No
+Female,Has relevent experience,Full time course,Masters,nan,2,No
+Male,Has relevent experience,no_enrollment,Masters,Other,>4,No
+Female,Has relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Other,No relevent experience,Full time course,Graduate,Early Stage Startup,1,No
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,2,No
+nan,No relevent experience,nan,Masters,nan,3,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,never,No
+Male,Has relevent experience,Full time course,Graduate,Public Sector,never,No
+Male,Has relevent experience,no_enrollment,Phd,nan,never,No
+Female,Has relevent experience,nan,Graduate,nan,3,Yes
+nan,Has relevent experience,Full time course,Masters,Pvt Ltd,3,Yes
+nan,Has relevent experience,nan,nan,nan,2,No
+nan,Has relevent experience,Part time course,Masters,Pvt Ltd,2,No
+Male,No relevent experience,Part time course,Graduate,Funded Startup,nan,No
+nan,No relevent experience,nan,High School,Pvt Ltd,never,Yes
+Male,Has relevent experience,no_enrollment,nan,Public Sector,2,No
+Other,Has relevent experience,Part time course,Graduate,nan,never,No
+Male,Has relevent experience,no_enrollment,Graduate,nan,nan,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,never,No
+nan,No relevent experience,Part time course,Masters,nan,2,No
+nan,No relevent experience,Full time course,High School,Public Sector,1,No
+Male,Has relevent experience,Part time course,Masters,Early Stage Startup,1,No
+nan,Has relevent experience,nan,Phd,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,3,Yes
+nan,Has relevent experience,Full time course,Primary School,Pvt Ltd,1,No
+Male,Has relevent experience,nan,Graduate,NGO,1,No
+Female,No relevent experience,Full time course,Masters,Public Sector,2,No
+Male,Has relevent experience,Full time course,Graduate,Funded Startup,>4,No
+Male,No relevent experience,no_enrollment,Graduate,nan,nan,Yes
+nan,Has relevent experience,nan,Masters,nan,1,Yes
+nan,No relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+Female,Has relevent experience,Full time course,Graduate,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,High School,nan,1,Yes
+Female,Has relevent experience,Part time course,Graduate,Public Sector,>4,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+nan,Has relevent experience,no_enrollment,Phd,Early Stage Startup,>4,No
+nan,Has relevent experience,Full time course,Phd,nan,nan,Yes
+Other,No relevent experience,Part time course,High School,Funded Startup,1,No
+Male,No relevent experience,Full time course,Masters,Pvt Ltd,1,No
+nan,Has relevent experience,no_enrollment,Primary School,nan,2,No
+Male,Has relevent experience,no_enrollment,High School,Pvt Ltd,nan,No
+Female,Has relevent experience,no_enrollment,High School,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,Phd,NGO,3,Yes
+Male,Has relevent experience,Full time course,Graduate,NGO,nan,Yes
+nan,No relevent experience,no_enrollment,Graduate,NGO,never,No
+nan,Has relevent experience,no_enrollment,Masters,nan,nan,No
+Male,No relevent experience,no_enrollment,nan,Pvt Ltd,nan,Yes
+Male,No relevent experience,nan,Primary School,nan,never,No
+Male,No relevent experience,no_enrollment,Phd,NGO,2,No
+Male,No relevent experience,Full time course,High School,Public Sector,3,No
+nan,Has relevent experience,no_enrollment,Phd,nan,2,No
+nan,Has relevent experience,Part time course,High School,Public Sector,>4,No
+Male,Has relevent experience,Part time course,Graduate,nan,nan,No
+nan,No relevent experience,no_enrollment,nan,Pvt Ltd,never,No
+Other,No relevent experience,no_enrollment,Masters,Pvt Ltd,1,No
+Male,No relevent experience,no_enrollment,nan,nan,1,No
+nan,No relevent experience,nan,High School,Early Stage Startup,1,No
+nan,No relevent experience,no_enrollment,Graduate,nan,nan,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,never,No
+nan,No relevent experience,no_enrollment,Phd,Public Sector,3,Yes
+nan,No relevent experience,Full time course,Masters,nan,3,Yes
+Male,Has relevent experience,no_enrollment,nan,Funded Startup,1,No
+nan,Has relevent experience,Part time course,Graduate,Funded Startup,3,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,4,Yes
+Male,No relevent experience,nan,Graduate,nan,1,Yes
+Male,No relevent experience,Part time course,Masters,nan,2,Yes
+Female,Has relevent experience,no_enrollment,Graduate,NGO,2,No
+Male,No relevent experience,Full time course,Masters,Other,4,Yes
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,>4,No
+Male,Has relevent experience,nan,Graduate,nan,4,Yes
+Male,No relevent experience,Full time course,Graduate,Pvt Ltd,4,No
+nan,Has relevent experience,Part time course,High School,Early Stage Startup,nan,No
+Female,No relevent experience,Full time course,Masters,Other,1,No
+Male,Has relevent experience,Full time course,Masters,Public Sector,never,No
+nan,No relevent experience,nan,High School,nan,1,Yes
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,3,No
+nan,No relevent experience,Part time course,Graduate,nan,never,No
+Male,No relevent experience,Full time course,Graduate,NGO,3,No
+Male,Has relevent experience,Full time course,Masters,NGO,>4,No
+nan,Has relevent experience,Full time course,Masters,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,Graduate,Other,>4,No
+Male,No relevent experience,Full time course,High School,NGO,1,Yes
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,1,No
+nan,No relevent experience,Full time course,Masters,Public Sector,3,No
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Masters,Funded Startup,nan,No
+Other,Has relevent experience,no_enrollment,Masters,nan,3,Yes
+Male,No relevent experience,no_enrollment,Masters,Public Sector,3,No
+Other,No relevent experience,no_enrollment,nan,nan,1,No
+Male,No relevent experience,nan,Phd,nan,1,No
+Female,No relevent experience,Full time course,Primary School,Pvt Ltd,never,Yes
+nan,No relevent experience,no_enrollment,Graduate,Funded Startup,3,No
+nan,No relevent experience,Part time course,Masters,NGO,never,No
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,4,No
+Other,Has relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Female,Has relevent experience,no_enrollment,Masters,nan,4,No
+Male,No relevent experience,Full time course,High School,NGO,4,No
+Male,Has relevent experience,Part time course,High School,NGO,>4,No
+Female,No relevent experience,no_enrollment,Masters,nan,never,No
+Male,Has relevent experience,nan,High School,nan,1,Yes
+Male,Has relevent experience,Full time course,Masters,Public Sector,>4,No
+nan,No relevent experience,Full time course,Graduate,Public Sector,never,Yes
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,3,No
+Other,No relevent experience,no_enrollment,Graduate,nan,never,No
+nan,No relevent experience,no_enrollment,Phd,Pvt Ltd,nan,No
+nan,Has relevent experience,Full time course,nan,Public Sector,>4,Yes
+nan,Has relevent experience,Full time course,nan,Pvt Ltd,>4,No
+nan,Has relevent experience,nan,nan,nan,nan,No
+Female,No relevent experience,no_enrollment,Masters,NGO,1,No
+Male,No relevent experience,Part time course,Graduate,Early Stage Startup,2,No
+nan,Has relevent experience,no_enrollment,High School,nan,>4,No
+Female,No relevent experience,Full time course,Phd,NGO,>4,No
+Male,No relevent experience,no_enrollment,Graduate,Funded Startup,2,No
+Male,Has relevent experience,Part time course,Masters,Pvt Ltd,4,No
+Male,No relevent experience,Part time course,High School,nan,never,No
+nan,No relevent experience,no_enrollment,High School,Pvt Ltd,2,No
+Male,No relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+Male,Has relevent experience,Full time course,Primary School,Public Sector,2,No
+Male,No relevent experience,no_enrollment,Graduate,Public Sector,never,No
+Female,No relevent experience,no_enrollment,Masters,Public Sector,4,No
+Male,Has relevent experience,nan,nan,nan,1,No
+Male,Has relevent experience,Full time course,High School,Public Sector,2,No
+Other,No relevent experience,Full time course,High School,nan,never,No
+nan,Has relevent experience,nan,Graduate,Early Stage Startup,1,No
+Male,No relevent experience,Full time course,Masters,Pvt Ltd,never,No
+nan,No relevent experience,Part time course,Masters,NGO,1,Yes
+nan,Has relevent experience,nan,Masters,nan,nan,No
+Other,No relevent experience,Full time course,Graduate,nan,3,Yes
+Female,Has relevent experience,nan,Masters,Funded Startup,1,No
+Female,Has relevent experience,no_enrollment,Masters,nan,2,No
+Female,Has relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+Male,No relevent experience,Full time course,High School,Funded Startup,1,No
+nan,No relevent experience,Full time course,High School,Early Stage Startup,nan,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,3,Yes
+nan,No relevent experience,Part time course,High School,nan,nan,No
+Male,Has relevent experience,nan,nan,Pvt Ltd,2,No
+Female,No relevent experience,no_enrollment,Graduate,Early Stage Startup,1,Yes
+Female,No relevent experience,no_enrollment,Graduate,nan,4,Yes
+Other,Has relevent experience,nan,nan,nan,1,Yes
+Male,Has relevent experience,no_enrollment,Masters,NGO,3,No
+nan,No relevent experience,Full time course,High School,Funded Startup,nan,No
+Other,Has relevent experience,no_enrollment,Graduate,nan,4,No
+Female,No relevent experience,Full time course,Graduate,Pvt Ltd,4,Yes
+nan,Has relevent experience,nan,Graduate,NGO,1,No
+Male,Has relevent experience,no_enrollment,Phd,Public Sector,never,No
+Male,No relevent experience,no_enrollment,Masters,Funded Startup,3,No
+nan,Has relevent experience,no_enrollment,High School,Early Stage Startup,1,No
+Female,No relevent experience,nan,Graduate,nan,never,Yes
+nan,Has relevent experience,nan,Graduate,nan,nan,Yes
+Male,No relevent experience,no_enrollment,High School,NGO,2,No
+Female,Has relevent experience,Full time course,Masters,Public Sector,1,Yes
+Male,No relevent experience,Part time course,Graduate,Funded Startup,2,No
+nan,Has relevent experience,Full time course,High School,nan,never,No
+Male,Has relevent experience,no_enrollment,Phd,Public Sector,>4,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,never,No
+nan,No relevent experience,no_enrollment,Primary School,nan,2,No
+nan,No relevent experience,nan,Primary School,nan,never,No
+nan,Has relevent experience,Full time course,nan,nan,1,No
+nan,Has relevent experience,Full time course,High School,Public Sector,>4,Yes
+Male,Has relevent experience,Full time course,High School,Pvt Ltd,never,Yes
+Male,No relevent experience,Full time course,nan,Pvt Ltd,1,No
+nan,Has relevent experience,nan,nan,nan,1,Yes
+nan,Has relevent experience,Part time course,Masters,nan,3,No
+Other,Has relevent experience,Part time course,High School,nan,1,No
+Male,Has relevent experience,Part time course,High School,Public Sector,1,No
+nan,Has relevent experience,Full time course,nan,nan,nan,No
+Male,No relevent experience,Part time course,Phd,Pvt Ltd,4,No
+Male,No relevent experience,Full time course,High School,Other,1,No
+Male,Has relevent experience,Full time course,High School,Public Sector,1,No
+nan,Has relevent experience,Part time course,Masters,NGO,2,No
+Male,No relevent experience,Part time course,High School,Other,1,No
+Female,Has relevent experience,Part time course,Graduate,Early Stage Startup,never,No
+Male,No relevent experience,no_enrollment,High School,Early Stage Startup,4,Yes
+nan,Has relevent experience,Full time course,Masters,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Phd,NGO,2,No
+nan,Has relevent experience,nan,Graduate,nan,never,No
+Male,Has relevent experience,Part time course,High School,Funded Startup,1,No
+nan,No relevent experience,nan,Graduate,Pvt Ltd,3,No
+Male,No relevent experience,Part time course,Masters,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,4,Yes
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,4,No
+Female,Has relevent experience,no_enrollment,Phd,nan,2,No
+Male,Has relevent experience,no_enrollment,nan,Pvt Ltd,2,No
+Female,Has relevent experience,nan,Graduate,nan,2,Yes
+Female,Has relevent experience,Part time course,Graduate,nan,3,Yes
+Female,Has relevent experience,no_enrollment,Masters,Public Sector,>4,No
+Male,Has relevent experience,Part time course,Graduate,NGO,>4,No
+Male,No relevent experience,no_enrollment,Primary School,NGO,1,No
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,never,Yes
+nan,Has relevent experience,no_enrollment,nan,nan,2,No
+Other,No relevent experience,no_enrollment,Primary School,Pvt Ltd,never,No
+Male,No relevent experience,no_enrollment,High School,Funded Startup,1,No
+Male,No relevent experience,no_enrollment,nan,nan,nan,No
+Male,Has relevent experience,no_enrollment,Phd,Early Stage Startup,>4,No
+Male,No relevent experience,Part time course,Masters,Pvt Ltd,3,No
+Male,Has relevent experience,no_enrollment,Phd,NGO,never,No
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,4,No
+Female,No relevent experience,Part time course,High School,nan,1,No
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,never,No
+Male,No relevent experience,no_enrollment,Masters,Pvt Ltd,4,Yes
+nan,No relevent experience,no_enrollment,Graduate,Public Sector,3,No
+Other,No relevent experience,Full time course,Graduate,nan,never,Yes
+Other,No relevent experience,no_enrollment,Masters,nan,1,No
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,4,Yes
+Male,Has relevent experience,Full time course,nan,Pvt Ltd,1,No
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,4,No
+nan,Has relevent experience,no_enrollment,Primary School,nan,1,No
+Male,No relevent experience,Full time course,Masters,Public Sector,>4,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,>4,No
+nan,Has relevent experience,Full time course,Graduate,Other,never,Yes
+Male,Has relevent experience,Part time course,Graduate,Public Sector,4,No
+Female,No relevent experience,Full time course,Graduate,Early Stage Startup,1,No
+nan,No relevent experience,Part time course,Primary School,Funded Startup,1,Yes
+Male,Has relevent experience,Part time course,Masters,nan,4,No
+Male,No relevent experience,nan,Masters,NGO,1,No
+Male,Has relevent experience,Part time course,Graduate,Public Sector,3,No
+Female,No relevent experience,no_enrollment,Masters,nan,3,Yes
+nan,No relevent experience,Full time course,Graduate,Early Stage Startup,1,Yes
+nan,No relevent experience,no_enrollment,Graduate,Other,1,Yes
+nan,No relevent experience,Part time course,Masters,Pvt Ltd,1,Yes
+Female,No relevent experience,nan,Masters,Funded Startup,1,No
+Female,Has relevent experience,nan,Graduate,nan,nan,Yes
+Male,Has relevent experience,no_enrollment,Phd,NGO,>4,Yes
+nan,No relevent experience,Full time course,Graduate,Early Stage Startup,never,No
+nan,No relevent experience,Part time course,nan,nan,2,No
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,>4,No
+nan,Has relevent experience,no_enrollment,Masters,Early Stage Startup,never,Yes
+Female,No relevent experience,no_enrollment,Graduate,Funded Startup,2,No
+nan,No relevent experience,Full time course,High School,Early Stage Startup,never,No
+nan,Has relevent experience,no_enrollment,Primary School,Early Stage Startup,2,No
+Male,No relevent experience,no_enrollment,Phd,Pvt Ltd,4,No
+Male,No relevent experience,Part time course,Graduate,NGO,1,No
+Male,No relevent experience,no_enrollment,Phd,Public Sector,3,No
+Male,No relevent experience,Full time course,High School,Early Stage Startup,never,No
+Other,Has relevent experience,nan,Graduate,Pvt Ltd,never,No
+nan,No relevent experience,Full time course,Graduate,Other,1,No
+Female,No relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,nan,Yes
+nan,Has relevent experience,Part time course,Graduate,NGO,>4,Yes
+nan,Has relevent experience,Part time course,Graduate,nan,never,No
+Male,No relevent experience,no_enrollment,nan,Pvt Ltd,>4,No
+Male,Has relevent experience,Part time course,Graduate,Public Sector,2,No
+nan,Has relevent experience,nan,Masters,nan,4,No
+Male,Has relevent experience,Part time course,Phd,nan,>4,No
+Other,Has relevent experience,no_enrollment,Masters,nan,1,No
+Male,Has relevent experience,no_enrollment,High School,Other,2,No
+Male,No relevent experience,Full time course,High School,nan,3,Yes
+nan,No relevent experience,nan,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,Full time course,High School,nan,4,No
+Male,Has relevent experience,Full time course,High School,Other,never,Yes
+Female,No relevent experience,Full time course,Graduate,nan,4,No
+Female,No relevent experience,Full time course,Masters,nan,never,Yes
+Female,Has relevent experience,no_enrollment,High School,nan,never,No
+Other,Has relevent experience,no_enrollment,High School,nan,never,No
+nan,Has relevent experience,no_enrollment,nan,Early Stage Startup,1,Yes
+nan,Has relevent experience,Part time course,Graduate,nan,nan,No
+nan,No relevent experience,Full time course,Graduate,nan,3,Yes
+nan,Has relevent experience,no_enrollment,Phd,nan,never,No
+Male,No relevent experience,Part time course,Masters,Early Stage Startup,1,No
+nan,No relevent experience,no_enrollment,Graduate,nan,3,No
+Male,No relevent experience,Part time course,Masters,Public Sector,>4,No
+nan,Has relevent experience,Full time course,Graduate,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Masters,NGO,2,Yes
+nan,No relevent experience,no_enrollment,High School,nan,>4,Yes
+Female,No relevent experience,Part time course,Graduate,Funded Startup,1,No
+Male,No relevent experience,Part time course,Phd,Other,3,No
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,never,No
+Female,Has relevent experience,Full time course,Graduate,Pvt Ltd,>4,No
+Other,Has relevent experience,Part time course,High School,Pvt Ltd,1,No
+Female,No relevent experience,nan,Graduate,Pvt Ltd,never,No
+nan,No relevent experience,Full time course,Graduate,Public Sector,4,Yes
+Male,Has relevent experience,Part time course,Phd,Pvt Ltd,>4,Yes
+nan,No relevent experience,no_enrollment,High School,NGO,4,No
+Female,Has relevent experience,nan,Graduate,nan,4,Yes
+Male,No relevent experience,Full time course,Graduate,NGO,2,No
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,>4,No
+Female,No relevent experience,no_enrollment,Masters,nan,>4,No
+Male,No relevent experience,nan,Primary School,nan,1,Yes
+Male,No relevent experience,no_enrollment,Phd,NGO,>4,No
+Other,No relevent experience,no_enrollment,Graduate,Pvt Ltd,1,No
+nan,No relevent experience,Part time course,High School,Early Stage Startup,2,No
+Male,No relevent experience,Full time course,Phd,nan,1,No
+Male,No relevent experience,no_enrollment,Primary School,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,High School,Pvt Ltd,3,No
+Male,Has relevent experience,Part time course,Graduate,NGO,3,No
+Female,No relevent experience,Part time course,Graduate,Public Sector,1,Yes
+Female,Has relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Male,Has relevent experience,no_enrollment,nan,nan,>4,Yes
+Female,Has relevent experience,no_enrollment,High School,NGO,1,No
+Male,Has relevent experience,no_enrollment,Masters,Early Stage Startup,3,No
+Male,Has relevent experience,Full time course,High School,Public Sector,never,No
+Male,Has relevent experience,no_enrollment,Primary School,Funded Startup,1,No
+nan,Has relevent experience,no_enrollment,Masters,Other,nan,No
+nan,Has relevent experience,no_enrollment,Phd,Public Sector,1,No
+nan,Has relevent experience,Full time course,Masters,nan,4,Yes
+Male,Has relevent experience,no_enrollment,nan,nan,4,Yes
+Female,No relevent experience,Full time course,Graduate,nan,nan,No
+Other,Has relevent experience,Part time course,Graduate,Pvt Ltd,1,Yes
+nan,No relevent experience,Full time course,High School,Pvt Ltd,4,No
+nan,No relevent experience,no_enrollment,Masters,Public Sector,1,Yes
+nan,No relevent experience,Full time course,nan,nan,1,Yes
+Other,No relevent experience,no_enrollment,Graduate,Funded Startup,3,No
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,nan,Yes
+Male,Has relevent experience,Part time course,Graduate,Funded Startup,3,No
+Male,Has relevent experience,Part time course,High School,Public Sector,3,No
+Male,No relevent experience,Part time course,Masters,Public Sector,2,No
+nan,No relevent experience,Full time course,nan,nan,nan,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,4,No
+Male,Has relevent experience,nan,Masters,Pvt Ltd,>4,Yes
+nan,Has relevent experience,no_enrollment,Phd,nan,1,No
+Male,No relevent experience,Part time course,Masters,Pvt Ltd,>4,No
+Other,Has relevent experience,no_enrollment,Phd,Pvt Ltd,>4,No
+nan,No relevent experience,nan,Graduate,Pvt Ltd,2,Yes
+Male,Has relevent experience,no_enrollment,Phd,NGO,1,No
+nan,No relevent experience,Part time course,High School,Pvt Ltd,2,No
+Male,No relevent experience,no_enrollment,High School,Funded Startup,>4,No
+nan,No relevent experience,Full time course,nan,nan,4,No
+Male,Has relevent experience,nan,Graduate,Pvt Ltd,>4,No
+Male,No relevent experience,nan,nan,nan,nan,No
+Female,Has relevent experience,Full time course,Graduate,Early Stage Startup,3,No
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,2,No
+nan,Has relevent experience,no_enrollment,Phd,Funded Startup,nan,No
+Other,No relevent experience,Full time course,Masters,Public Sector,>4,No
+nan,No relevent experience,Full time course,Graduate,Other,never,Yes
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,>4,No
+Female,Has relevent experience,nan,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,nan,High School,Pvt Ltd,1,No
+Other,Has relevent experience,no_enrollment,Graduate,Pvt Ltd,3,No
+Male,No relevent experience,no_enrollment,High School,nan,nan,No
+nan,Has relevent experience,Full time course,Masters,Public Sector,>4,Yes
+nan,No relevent experience,no_enrollment,Primary School,nan,nan,No
+Other,Has relevent experience,Part time course,High School,Pvt Ltd,never,No
+nan,Has relevent experience,Full time course,nan,Pvt Ltd,2,Yes
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,3,Yes
+nan,Has relevent experience,Full time course,nan,NGO,never,Yes
+nan,No relevent experience,Part time course,Masters,Public Sector,2,No
+nan,No relevent experience,Full time course,High School,Early Stage Startup,1,No
+Female,Has relevent experience,no_enrollment,High School,nan,1,No
+nan,Has relevent experience,Full time course,Masters,Early Stage Startup,3,Yes
+nan,Has relevent experience,Full time course,Graduate,Funded Startup,nan,Yes
+nan,Has relevent experience,Part time course,Graduate,nan,3,No
+Male,No relevent experience,Full time course,Masters,Pvt Ltd,2,Yes
+Male,No relevent experience,no_enrollment,Graduate,Other,never,Yes
+nan,No relevent experience,Full time course,Graduate,NGO,never,Yes
+Male,No relevent experience,no_enrollment,Graduate,NGO,3,No
+Male,Has relevent experience,Part time course,nan,Pvt Ltd,1,No
+Male,No relevent experience,nan,Masters,Pvt Ltd,1,Yes
+Male,No relevent experience,Part time course,Masters,nan,3,No
+Female,Has relevent experience,Part time course,Graduate,Pvt Ltd,4,No
+Female,No relevent experience,Part time course,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,no_enrollment,High School,nan,3,No
+Male,No relevent experience,no_enrollment,Graduate,NGO,4,No
+nan,No relevent experience,Full time course,High School,Public Sector,never,No
+nan,Has relevent experience,Part time course,High School,nan,1,No
+Male,No relevent experience,no_enrollment,High School,nan,4,No
+nan,Has relevent experience,Full time course,nan,Pvt Ltd,3,Yes
+nan,No relevent experience,no_enrollment,Phd,Pvt Ltd,1,No
+Female,No relevent experience,Part time course,Masters,Public Sector,3,No
+Female,Has relevent experience,no_enrollment,Masters,NGO,3,No
+nan,No relevent experience,Part time course,Masters,Pvt Ltd,>4,No
+Female,No relevent experience,Full time course,High School,Early Stage Startup,1,Yes
+nan,Has relevent experience,no_enrollment,Masters,Public Sector,3,No
+nan,Has relevent experience,Part time course,High School,Funded Startup,1,No
+nan,No relevent experience,Part time course,nan,nan,1,No
+Male,Has relevent experience,Full time course,Graduate,Public Sector,3,No
+nan,No relevent experience,nan,Masters,nan,never,No
+nan,No relevent experience,Full time course,nan,Public Sector,1,Yes
+nan,No relevent experience,Full time course,nan,Pvt Ltd,never,No
+Female,Has relevent experience,Part time course,Graduate,Other,3,Yes
+Female,Has relevent experience,no_enrollment,Masters,Public Sector,4,No
+Female,Has relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+Female,No relevent experience,nan,High School,nan,>4,No
+Male,No relevent experience,nan,Graduate,Early Stage Startup,never,Yes
+nan,Has relevent experience,Part time course,Masters,Public Sector,4,No
+Male,Has relevent experience,no_enrollment,Phd,Funded Startup,4,No
+nan,Has relevent experience,nan,nan,nan,>4,No
+nan,Has relevent experience,no_enrollment,Graduate,Funded Startup,nan,No
+Female,No relevent experience,Full time course,Masters,Public Sector,3,No
+Male,Has relevent experience,no_enrollment,Primary School,NGO,2,No
+nan,No relevent experience,Part time course,Graduate,Funded Startup,3,No
+Female,Has relevent experience,Full time course,Graduate,nan,2,Yes
+Female,Has relevent experience,no_enrollment,Masters,NGO,>4,Yes
+Male,No relevent experience,nan,Graduate,Pvt Ltd,>4,Yes
+nan,Has relevent experience,Full time course,nan,nan,>4,Yes
+Male,Has relevent experience,Full time course,Graduate,NGO,4,No
+Female,No relevent experience,Full time course,Masters,Public Sector,>4,No
+Other,Has relevent experience,Full time course,Phd,nan,1,No
+nan,No relevent experience,Full time course,High School,nan,3,No
+Male,No relevent experience,Full time course,Primary School,nan,2,No
+Female,Has relevent experience,Full time course,Graduate,nan,4,Yes
+Female,Has relevent experience,no_enrollment,Masters,Other,>4,No
+nan,Has relevent experience,no_enrollment,High School,nan,nan,No
+Female,No relevent experience,no_enrollment,Masters,Other,>4,Yes
+Female,No relevent experience,no_enrollment,Masters,nan,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,never,Yes
+nan,Has relevent experience,Part time course,Masters,Funded Startup,2,No
+nan,No relevent experience,no_enrollment,Masters,Early Stage Startup,2,Yes
+Female,No relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+nan,Has relevent experience,no_enrollment,Masters,Other,4,No
+Male,No relevent experience,Full time course,Graduate,Other,nan,No
+Other,Has relevent experience,no_enrollment,Graduate,nan,never,Yes
+nan,Has relevent experience,Part time course,Masters,Early Stage Startup,1,No
+nan,No relevent experience,Full time course,Masters,Pvt Ltd,3,No
+Male,No relevent experience,Full time course,Masters,Public Sector,4,Yes
+Male,Has relevent experience,Full time course,Masters,Funded Startup,2,No
+nan,Has relevent experience,Full time course,Graduate,Other,2,Yes
+nan,No relevent experience,Full time course,Graduate,NGO,2,No
+Female,Has relevent experience,no_enrollment,Graduate,Funded Startup,>4,No
+Female,No relevent experience,no_enrollment,Masters,Public Sector,2,No
+Male,No relevent experience,Full time course,High School,Public Sector,>4,No
+Male,No relevent experience,no_enrollment,Graduate,NGO,never,No
+nan,No relevent experience,no_enrollment,Phd,nan,>4,No
+nan,Has relevent experience,Part time course,Graduate,Public Sector,>4,No
+Male,Has relevent experience,nan,Graduate,Public Sector,4,No
+nan,Has relevent experience,no_enrollment,High School,Early Stage Startup,nan,Yes
+Male,Has relevent experience,Part time course,Graduate,Funded Startup,>4,No
+nan,No relevent experience,no_enrollment,Graduate,Early Stage Startup,nan,No
+Female,Has relevent experience,no_enrollment,Masters,Pvt Ltd,nan,Yes
+nan,Has relevent experience,Part time course,Graduate,Early Stage Startup,2,No
+Male,Has relevent experience,no_enrollment,nan,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,Masters,NGO,never,No
+nan,Has relevent experience,Full time course,Phd,Public Sector,3,No
+Male,No relevent experience,Full time course,Phd,Public Sector,>4,No
+Female,No relevent experience,Part time course,Graduate,Pvt Ltd,4,No
+Female,No relevent experience,no_enrollment,Phd,Public Sector,4,No
+nan,Has relevent experience,Part time course,Masters,nan,never,No
+Male,Has relevent experience,no_enrollment,Primary School,Funded Startup,4,Yes
+Male,Has relevent experience,no_enrollment,Phd,Funded Startup,3,No
+Male,No relevent experience,no_enrollment,Graduate,Early Stage Startup,>4,No
+Female,No relevent experience,Full time course,High School,Funded Startup,1,No
+nan,Has relevent experience,Part time course,High School,Early Stage Startup,1,No
+Male,Has relevent experience,no_enrollment,nan,nan,3,No
+Female,No relevent experience,Part time course,Graduate,nan,1,No
+nan,Has relevent experience,no_enrollment,nan,Public Sector,4,No
+nan,No relevent experience,Part time course,High School,Funded Startup,1,No
+Male,Has relevent experience,nan,Masters,Pvt Ltd,4,Yes
+Male,No relevent experience,Full time course,Primary School,Pvt Ltd,never,No
+nan,Has relevent experience,Full time course,High School,nan,>4,No
+nan,Has relevent experience,Full time course,Graduate,Public Sector,1,Yes
+nan,Has relevent experience,Full time course,High School,Public Sector,2,No
+Female,Has relevent experience,Full time course,Graduate,Funded Startup,1,No
+nan,Has relevent experience,Full time course,Graduate,Early Stage Startup,>4,No
+Other,No relevent experience,no_enrollment,Graduate,Public Sector,>4,No
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,2,No
+Male,Has relevent experience,Full time course,Phd,NGO,2,No
+nan,Has relevent experience,Full time course,High School,nan,2,Yes
+Female,No relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+nan,Has relevent experience,no_enrollment,Graduate,Public Sector,never,No
+Female,Has relevent experience,no_enrollment,Phd,Public Sector,4,No
+nan,No relevent experience,no_enrollment,Phd,Pvt Ltd,>4,Yes
+nan,No relevent experience,Full time course,Phd,Pvt Ltd,>4,No
+Female,Has relevent experience,Part time course,Masters,NGO,3,Yes
+Other,No relevent experience,no_enrollment,Masters,Pvt Ltd,4,No
+Female,Has relevent experience,Part time course,Graduate,Pvt Ltd,>4,No
+nan,No relevent experience,no_enrollment,Phd,nan,2,No
+Other,No relevent experience,Part time course,Graduate,Pvt Ltd,never,No
+nan,Has relevent experience,Full time course,nan,nan,3,No
+nan,Has relevent experience,Full time course,Phd,Pvt Ltd,never,No
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,4,No
+Male,No relevent experience,nan,Graduate,nan,>4,Yes
+nan,Has relevent experience,Full time course,Primary School,Early Stage Startup,1,No
+Other,Has relevent experience,Full time course,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,Full time course,Masters,Pvt Ltd,4,No
+nan,Has relevent experience,Full time course,nan,Early Stage Startup,>4,Yes
+Female,Has relevent experience,nan,Graduate,Pvt Ltd,1,No
+Male,Has relevent experience,Part time course,Masters,nan,never,No
+nan,No relevent experience,Part time course,Masters,Funded Startup,1,No
+Other,No relevent experience,nan,Graduate,nan,never,Yes
+Male,Has relevent experience,Full time course,Phd,nan,>4,No
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,3,No
+nan,Has relevent experience,Full time course,nan,Public Sector,1,No
+Male,No relevent experience,Part time course,High School,nan,2,No
+Other,Has relevent experience,no_enrollment,Masters,nan,4,No
+nan,Has relevent experience,Full time course,Masters,Funded Startup,>4,No
+Male,No relevent experience,Part time course,Graduate,Public Sector,3,No
+nan,No relevent experience,no_enrollment,Phd,NGO,>4,No
+nan,Has relevent experience,no_enrollment,High School,Pvt Ltd,never,No
+Male,No relevent experience,Part time course,nan,nan,2,Yes
+Male,No relevent experience,Part time course,Masters,Public Sector,3,No
+Male,Has relevent experience,Part time course,Graduate,Early Stage Startup,4,No
+nan,No relevent experience,no_enrollment,Masters,nan,4,No
+Male,No relevent experience,Full time course,nan,nan,>4,No
+nan,Has relevent experience,no_enrollment,Primary School,nan,never,No
+Male,No relevent experience,no_enrollment,Masters,Early Stage Startup,2,No
+Female,Has relevent experience,no_enrollment,High School,Early Stage Startup,1,No
+Male,No relevent experience,Part time course,Graduate,Public Sector,2,No
+Male,No relevent experience,Full time course,Masters,Pvt Ltd,>4,No
+Male,No relevent experience,Full time course,High School,nan,>4,No
+Female,No relevent experience,Full time course,Masters,nan,4,Yes
+Male,No relevent experience,no_enrollment,Masters,nan,nan,Yes
+nan,No relevent experience,nan,Masters,Pvt Ltd,1,No
+nan,Has relevent experience,nan,Masters,nan,never,No
+nan,No relevent experience,Full time course,Masters,Public Sector,>4,No
+Male,Has relevent experience,nan,Graduate,Public Sector,3,No
+nan,Has relevent experience,Part time course,High School,nan,2,Yes
+Male,Has relevent experience,Full time course,High School,Funded Startup,3,No
+nan,No relevent experience,Full time course,Masters,Public Sector,4,No
+Male,No relevent experience,Full time course,High School,NGO,never,No
+nan,Has relevent experience,nan,Graduate,Public Sector,never,Yes
+nan,Has relevent experience,Part time course,High School,Pvt Ltd,never,Yes
+nan,No relevent experience,Full time course,Graduate,nan,>4,No
+Female,No relevent experience,Full time course,High School,Pvt Ltd,1,No
+nan,Has relevent experience,no_enrollment,Phd,NGO,1,No
+Male,Has relevent experience,no_enrollment,Primary School,Funded Startup,2,No
+Male,Has relevent experience,no_enrollment,Graduate,Other,4,No
+nan,No relevent experience,Part time course,High School,nan,1,No
+Male,No relevent experience,Full time course,Masters,Funded Startup,1,No
+Male,No relevent experience,nan,Masters,nan,never,Yes
+nan,No relevent experience,Full time course,Primary School,nan,1,Yes
+nan,Has relevent experience,Part time course,Graduate,NGO,4,No
+Female,Has relevent experience,no_enrollment,Masters,Early Stage Startup,4,No
+Male,No relevent experience,Part time course,Phd,Public Sector,2,No
+Male,Has relevent experience,no_enrollment,nan,Public Sector,3,Yes
+Male,Has relevent experience,nan,nan,nan,nan,Yes
+nan,Has relevent experience,nan,nan,Public Sector,>4,No
+nan,No relevent experience,Part time course,Primary School,nan,never,Yes
+Female,No relevent experience,Full time course,Graduate,NGO,>4,Yes
+nan,Has relevent experience,nan,High School,nan,3,No
+Male,Has relevent experience,no_enrollment,Masters,Other,4,No
+Male,No relevent experience,Part time course,Primary School,nan,1,No
+Other,Has relevent experience,no_enrollment,High School,Pvt Ltd,1,No
+Male,Has relevent experience,Full time course,Graduate,Funded Startup,never,No
+Female,Has relevent experience,Full time course,Masters,Pvt Ltd,never,No
+nan,No relevent experience,Full time course,High School,NGO,1,No
+Other,Has relevent experience,no_enrollment,Masters,nan,>4,No
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,never,Yes
+nan,Has relevent experience,no_enrollment,Graduate,NGO,never,Yes
+Male,Has relevent experience,no_enrollment,Graduate,Funded Startup,nan,No
+Male,Has relevent experience,Full time course,nan,Early Stage Startup,1,No
+nan,Has relevent experience,Full time course,nan,Other,nan,No
+nan,No relevent experience,Part time course,Graduate,Public Sector,2,No
+nan,No relevent experience,no_enrollment,Masters,Public Sector,4,No
+nan,No relevent experience,Full time course,Graduate,Early Stage Startup,nan,No
+Male,No relevent experience,Part time course,High School,Early Stage Startup,1,No
+Male,Has relevent experience,nan,High School,Public Sector,3,No
+Male,No relevent experience,no_enrollment,Primary School,nan,4,No
+Male,Has relevent experience,no_enrollment,Masters,NGO,4,No
+nan,No relevent experience,nan,nan,nan,>4,No
+Other,Has relevent experience,Full time course,Graduate,Pvt Ltd,never,Yes
+Male,No relevent experience,nan,Graduate,Public Sector,3,No
+nan,Has relevent experience,Part time course,Graduate,NGO,never,No
+nan,Has relevent experience,no_enrollment,Phd,Early Stage Startup,never,No
+nan,Has relevent experience,Part time course,Graduate,Pvt Ltd,never,No
+Male,Has relevent experience,Full time course,High School,NGO,1,No
+Male,No relevent experience,Part time course,Masters,Pvt Ltd,4,No
+nan,No relevent experience,Part time course,Masters,Public Sector,1,No
+Female,Has relevent experience,Full time course,Graduate,Pvt Ltd,3,No
+Other,Has relevent experience,nan,Graduate,Pvt Ltd,1,No
+Male,No relevent experience,Part time course,Masters,nan,>4,Yes
+Female,No relevent experience,Part time course,Graduate,Pvt Ltd,2,No
+Male,Has relevent experience,no_enrollment,nan,Other,1,No
+nan,Has relevent experience,no_enrollment,Phd,Pvt Ltd,never,No
+Female,Has relevent experience,Part time course,Graduate,Public Sector,1,Yes
+Male,No relevent experience,Full time course,nan,Pvt Ltd,never,No
+Female,Has relevent experience,Full time course,nan,Early Stage Startup,never,No
+Female,No relevent experience,Full time course,Phd,Public Sector,1,No
+nan,Has relevent experience,no_enrollment,Primary School,Pvt Ltd,1,No
+nan,No relevent experience,Part time course,High School,nan,2,Yes
+Male,Has relevent experience,Full time course,Masters,Early Stage Startup,2,No
+Male,No relevent experience,no_enrollment,Graduate,Funded Startup,never,No
+nan,No relevent experience,Part time course,Graduate,nan,4,No
+nan,No relevent experience,nan,Masters,nan,1,No
+nan,No relevent experience,Full time course,Masters,Public Sector,2,No
+Male,Has relevent experience,Full time course,Masters,NGO,3,No
+Male,Has relevent experience,Part time course,Graduate,Early Stage Startup,never,No
+Male,Has relevent experience,no_enrollment,nan,Other,3,Yes
+Female,Has relevent experience,Part time course,Graduate,nan,never,No
+nan,No relevent experience,no_enrollment,Masters,Pvt Ltd,3,No
+nan,Has relevent experience,nan,Masters,Pvt Ltd,>4,No
+nan,No relevent experience,nan,Graduate,nan,3,Yes
+Male,Has relevent experience,nan,Graduate,Public Sector,never,No
+Other,No relevent experience,no_enrollment,High School,nan,never,No
+Female,Has relevent experience,Part time course,High School,NGO,1,No
+Female,No relevent experience,Full time course,Graduate,Public Sector,>4,Yes
+nan,Has relevent experience,nan,Graduate,Pvt Ltd,nan,Yes
+nan,Has relevent experience,Part time course,Graduate,Early Stage Startup,never,No
+Female,Has relevent experience,no_enrollment,Masters,Funded Startup,3,No
+nan,Has relevent experience,Full time course,High School,Pvt Ltd,2,No
+nan,No relevent experience,Full time course,nan,Pvt Ltd,3,No
+nan,No relevent experience,Full time course,Masters,Early Stage Startup,1,No
+nan,No relevent experience,Part time course,nan,nan,never,No
+Male,Has relevent experience,nan,Masters,Early Stage Startup,1,Yes
+Female,Has relevent experience,no_enrollment,Phd,Funded Startup,2,No
+nan,Has relevent experience,Full time course,nan,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,Graduate,NGO,nan,No
+Female,Has relevent experience,no_enrollment,Graduate,nan,nan,No
+Male,Has relevent experience,nan,Masters,Public Sector,1,Yes
+Female,No relevent experience,no_enrollment,Graduate,NGO,3,No
+Other,No relevent experience,no_enrollment,Graduate,Funded Startup,1,No
+nan,Has relevent experience,Part time course,Graduate,Public Sector,4,No
+Other,No relevent experience,nan,Graduate,nan,1,Yes
+Other,Has relevent experience,Part time course,nan,Pvt Ltd,1,Yes
+Female,Has relevent experience,Part time course,High School,nan,1,No
+Male,Has relevent experience,Full time course,Masters,nan,3,Yes
+Other,No relevent experience,Part time course,High School,Public Sector,2,No
+Female,No relevent experience,no_enrollment,Graduate,Pvt Ltd,4,No
+Female,Has relevent experience,no_enrollment,Graduate,Public Sector,3,No
+Female,Has relevent experience,no_enrollment,Phd,Public Sector,never,No
+Female,No relevent experience,no_enrollment,Phd,Public Sector,2,No
+nan,Has relevent experience,no_enrollment,High School,Public Sector,2,No
+Female,No relevent experience,no_enrollment,Masters,Funded Startup,2,No
+Male,No relevent experience,no_enrollment,Graduate,Other,1,Yes
+nan,No relevent experience,Part time course,Graduate,Pvt Ltd,nan,No
+Male,Has relevent experience,Full time course,Graduate,Pvt Ltd,nan,Yes
+nan,Has relevent experience,nan,Masters,Early Stage Startup,2,Yes
+Female,Has relevent experience,Full time course,Masters,Pvt Ltd,2,Yes
+Male,Has relevent experience,Full time course,nan,nan,>4,Yes
+Male,Has relevent experience,no_enrollment,High School,Early Stage Startup,2,No
+nan,Has relevent experience,Full time course,Primary School,nan,1,Yes
+nan,Has relevent experience,Full time course,Phd,Public Sector,1,No
+Female,No relevent experience,no_enrollment,Masters,nan,4,Yes
+Male,Has relevent experience,Part time course,Masters,Funded Startup,2,No
+nan,No relevent experience,Full time course,Masters,NGO,1,Yes
+Male,No relevent experience,no_enrollment,Masters,Early Stage Startup,3,No
+Female,Has relevent experience,no_enrollment,High School,NGO,2,No
+Male,Has relevent experience,no_enrollment,High School,Funded Startup,>4,No
+nan,Has relevent experience,Part time course,Masters,Public Sector,1,No
+nan,Has relevent experience,Full time course,Graduate,Funded Startup,>4,No
+nan,No relevent experience,Part time course,nan,Pvt Ltd,nan,Yes
+nan,Has relevent experience,nan,nan,Early Stage Startup,1,Yes
+Male,Has relevent experience,Full time course,Graduate,Public Sector,4,Yes
+Male,Has relevent experience,Part time course,Masters,NGO,1,No
+Other,No relevent experience,Part time course,Graduate,nan,>4,Yes
+Female,Has relevent experience,Full time course,Masters,Public Sector,2,No
+nan,No relevent experience,Full time course,Masters,Public Sector,nan,Yes
+nan,No relevent experience,Part time course,Graduate,Public Sector,>4,No
+nan,No relevent experience,nan,Primary School,nan,nan,No
+Other,No relevent experience,Full time course,High School,Pvt Ltd,1,No
+Male,Has relevent experience,Part time course,High School,nan,never,Yes
+nan,No relevent experience,no_enrollment,Masters,NGO,>4,Yes
+Male,Has relevent experience,nan,Masters,Pvt Ltd,2,No
+Other,No relevent experience,Part time course,Graduate,Pvt Ltd,1,Yes
+Other,Has relevent experience,nan,Phd,nan,never,No
+nan,No relevent experience,Full time course,Primary School,Pvt Ltd,nan,No
+Male,Has relevent experience,Full time course,High School,Funded Startup,2,No
+Female,No relevent experience,Full time course,Graduate,nan,>4,Yes
+Male,Has relevent experience,Part time course,High School,nan,2,No
+Female,No relevent experience,Full time course,Graduate,nan,3,Yes
+nan,Has relevent experience,Full time course,Masters,Early Stage Startup,nan,No
+Female,Has relevent experience,Part time course,Graduate,Public Sector,2,No
+nan,No relevent experience,Full time course,Primary School,nan,nan,Yes
+Male,No relevent experience,Full time course,High School,Pvt Ltd,>4,No
+nan,No relevent experience,Full time course,Graduate,Early Stage Startup,2,No
+Male,No relevent experience,no_enrollment,nan,Public Sector,2,No
+Female,No relevent experience,no_enrollment,Phd,Public Sector,1,No
+nan,No relevent experience,no_enrollment,Primary School,Early Stage Startup,1,No
+nan,Has relevent experience,no_enrollment,nan,Early Stage Startup,3,No
+Male,Has relevent experience,Full time course,Graduate,Funded Startup,3,No
+Male,Has relevent experience,Full time course,Phd,Public Sector,1,No
+Male,Has relevent experience,Part time course,nan,Early Stage Startup,1,Yes
+Other,No relevent experience,Full time course,High School,Pvt Ltd,never,No
+nan,Has relevent experience,Part time course,Masters,nan,4,No
+Female,No relevent experience,no_enrollment,Primary School,nan,never,No
+Female,No relevent experience,Full time course,Masters,NGO,4,Yes
+Male,No relevent experience,Full time course,nan,nan,nan,No
+nan,Has relevent experience,Full time course,Primary School,Funded Startup,1,No
+Other,No relevent experience,Part time course,High School,Pvt Ltd,2,No
+nan,Has relevent experience,Part time course,Masters,Pvt Ltd,3,Yes
+nan,Has relevent experience,Part time course,Phd,Pvt Ltd,nan,Yes
+nan,No relevent experience,Full time course,Masters,Public Sector,never,Yes
+Female,No relevent experience,nan,Masters,nan,2,Yes
+Male,Has relevent experience,no_enrollment,Primary School,Other,1,No
+Male,Has relevent experience,nan,Masters,NGO,1,No
+nan,No relevent experience,no_enrollment,High School,nan,2,Yes
+Other,No relevent experience,no_enrollment,High School,Pvt Ltd,3,No
+nan,Has relevent experience,no_enrollment,Phd,NGO,>4,No
+Male,Has relevent experience,nan,nan,Pvt Ltd,nan,No
+Female,Has relevent experience,Full time course,Masters,nan,1,No
+Other,Has relevent experience,Part time course,Masters,Funded Startup,2,No
+Male,Has relevent experience,Part time course,Primary School,Pvt Ltd,1,No
+Male,Has relevent experience,nan,Masters,nan,1,Yes
+Male,Has relevent experience,Full time course,High School,NGO,2,Yes
+nan,No relevent experience,no_enrollment,Phd,nan,3,Yes
+nan,Has relevent experience,no_enrollment,Graduate,Early Stage Startup,4,Yes
+Male,No relevent experience,no_enrollment,Primary School,Pvt Ltd,1,No
+Female,Has relevent experience,Part time course,Graduate,Other,>4,Yes
+Male,No relevent experience,no_enrollment,Primary School,Public Sector,2,No
+Male,Has relevent experience,Part time course,Graduate,Funded Startup,4,No
+Female,Has relevent experience,Full time course,Masters,nan,3,No
+nan,Has relevent experience,Full time course,Primary School,Early Stage Startup,nan,Yes
+Male,No relevent experience,Part time course,Primary School,Early Stage Startup,never,No
+nan,Has relevent experience,no_enrollment,Masters,Funded Startup,nan,No
+Male,Has relevent experience,Full time course,Masters,NGO,2,Yes
+nan,No relevent experience,Full time course,High School,Early Stage Startup,2,No
+nan,Has relevent experience,no_enrollment,High School,Other,>4,No
+Male,Has relevent experience,Full time course,High School,nan,3,No
+Female,No relevent experience,Full time course,High School,nan,2,Yes
+nan,No relevent experience,no_enrollment,Graduate,Funded Startup,nan,No
+nan,Has relevent experience,no_enrollment,Masters,Other,2,No
+Other,Has relevent experience,Full time course,Masters,nan,1,No
+nan,Has relevent experience,Full time course,Masters,Public Sector,never,No
+Male,No relevent experience,Part time course,Graduate,NGO,2,No
+Male,No relevent experience,Full time course,nan,nan,2,No
+nan,Has relevent experience,nan,High School,nan,never,Yes
+Male,Has relevent experience,Part time course,Graduate,NGO,never,No
+Female,No relevent experience,Full time course,Graduate,Funded Startup,1,No
+Male,Has relevent experience,no_enrollment,Primary School,nan,3,No
+nan,Has relevent experience,no_enrollment,Masters,Public Sector,4,No
+nan,No relevent experience,Full time course,Primary School,Public Sector,never,Yes
+Male,Has relevent experience,nan,Masters,Early Stage Startup,nan,Yes
+Male,Has relevent experience,Part time course,High School,nan,>4,Yes
+Male,Has relevent experience,Part time course,Phd,Public Sector,>4,No
+Female,No relevent experience,no_enrollment,Masters,Early Stage Startup,1,Yes
+nan,Has relevent experience,no_enrollment,nan,Pvt Ltd,3,Yes
+Male,Has relevent experience,Full time course,Masters,nan,nan,Yes
+Female,Has relevent experience,no_enrollment,Phd,nan,1,No
+nan,Has relevent experience,Part time course,Masters,Early Stage Startup,3,Yes
